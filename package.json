@@ -1,0 +1,43 @@
+{
+  "name": "ai-tech-news-hub",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A consolidated weekly AI and technology news hub with GitHub updates, a Copilot-powered Ask page, and curated learning resources.",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "ingest": "tsx scripts/ingest.ts",
+    "ingest:resources": "tsx scripts/fetch-resource-metadata.ts"
+  },
+  "dependencies": {
+    "@copilot-extensions/preview-sdk": "^5.0.1",
+    "next": "15.5.23",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "rss-parser": "^3.13.0",
+    "server-only": "^0.0.1",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.6",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.23",
+    "prettier": "^3.4.2",
+    "tailwindcss": "^4",
+    "tsx": "^4.23.12",
+    "typescript": "^5",
+    "vitest": "^4.1.11"
+  }
+}
