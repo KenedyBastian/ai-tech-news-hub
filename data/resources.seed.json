@@ -1,0 +1,156 @@
+[
+  {
+    "id": "ms-genai-for-beginners",
+    "repo": "microsoft/generative-ai-for-beginners",
+    "name": "Generative AI for Beginners",
+    "description": "Microsoft's free 21-lesson curriculum covering generative AI fundamentals, prompt engineering, and building real applications.",
+    "category": "ai-learning"
+  },
+  {
+    "id": "ms-ai-for-beginners",
+    "repo": "microsoft/AI-For-Beginners",
+    "name": "AI for Beginners",
+    "description": "A 12-week, 24-lesson curriculum from Microsoft covering classic and modern AI concepts with hands-on notebooks.",
+    "category": "ai-learning"
+  },
+  {
+    "id": "openai-cookbook",
+    "repo": "openai/openai-cookbook",
+    "name": "OpenAI Cookbook",
+    "description": "Official example code and guides for common tasks with the OpenAI API, from embeddings to function calling.",
+    "category": "ai-learning"
+  },
+  {
+    "id": "prompt-engineering-guide",
+    "repo": "dair-ai/Prompt-Engineering-Guide",
+    "name": "Prompt Engineering Guide",
+    "description": "A widely used, community-maintained guide to prompt engineering techniques for large language models.",
+    "category": "ai-learning"
+  },
+  {
+    "id": "github-copilot-cli",
+    "repo": "github/copilot-cli",
+    "name": "GitHub Copilot CLI",
+    "description": "GitHub's official agentic coding assistant for the terminal, built on the same harness as the Copilot coding agent.",
+    "category": "developer-tools-agents"
+  },
+  {
+    "id": "microsoft-autogen",
+    "repo": "microsoft/autogen",
+    "name": "AutoGen",
+    "description": "Microsoft's framework for building multi-agent conversational AI applications and workflows.",
+    "category": "developer-tools-agents"
+  },
+  {
+    "id": "langgraph",
+    "repo": "langchain-ai/langgraph",
+    "name": "LangGraph",
+    "description": "A low-level orchestration framework from LangChain for building stateful, long-running AI agents.",
+    "category": "developer-tools-agents"
+  },
+  {
+    "id": "openhands",
+    "repo": "OpenHands/OpenHands",
+    "name": "OpenHands",
+    "description": "An open-source platform for autonomous software-engineering agents that can write code, run commands, and browse the web.",
+    "category": "developer-tools-agents"
+  },
+  {
+    "id": "continue",
+    "repo": "continuedev/continue",
+    "name": "Continue",
+    "description": "An open-source AI code assistant you can customize and connect to any model, IDE, or context provider.",
+    "category": "developer-tools-agents"
+  },
+  {
+    "id": "langchain",
+    "repo": "langchain-ai/langchain",
+    "name": "LangChain",
+    "description": "A widely adopted framework for building applications powered by large language models, with broad integration support.",
+    "category": "llm-apps"
+  },
+  {
+    "id": "llama-index",
+    "repo": "run-llama/llama_index",
+    "name": "LlamaIndex",
+    "description": "A data framework for connecting custom data sources to large language models for retrieval-augmented generation.",
+    "category": "llm-apps"
+  },
+  {
+    "id": "ollama",
+    "repo": "ollama/ollama",
+    "name": "Ollama",
+    "description": "Run open-source large language models locally with a simple CLI, API, and model library.",
+    "category": "llm-apps"
+  },
+  {
+    "id": "vercel-ai-sdk",
+    "repo": "vercel/ai",
+    "name": "Vercel AI SDK",
+    "description": "A TypeScript toolkit for building AI-powered applications and agents with streaming UI support across frameworks.",
+    "category": "llm-apps"
+  },
+  {
+    "id": "codeql",
+    "repo": "github/codeql",
+    "name": "CodeQL",
+    "description": "GitHub's semantic code analysis engine used to find security vulnerabilities across large codebases.",
+    "category": "security"
+  },
+  {
+    "id": "trivy",
+    "repo": "aquasecurity/trivy",
+    "name": "Trivy",
+    "description": "A comprehensive, easy-to-use vulnerability and misconfiguration scanner for containers, code, and infrastructure.",
+    "category": "security"
+  },
+  {
+    "id": "owasp-cheatsheets",
+    "repo": "OWASP/CheatSheetSeries",
+    "name": "OWASP Cheat Sheet Series",
+    "description": "Concise, actionable application-security guidance covering common vulnerability classes and defenses.",
+    "category": "security"
+  },
+  {
+    "id": "semgrep",
+    "repo": "semgrep/semgrep",
+    "name": "Semgrep",
+    "description": "A fast, open-source static analysis tool for finding bugs and enforcing code standards using lightweight rules.",
+    "category": "security"
+  },
+  {
+    "id": "backstage",
+    "repo": "backstage/backstage",
+    "name": "Backstage",
+    "description": "An open platform for building developer portals, created at Spotify and now a CNCF graduated project.",
+    "category": "platform-engineering"
+  },
+  {
+    "id": "kubernetes",
+    "repo": "kubernetes/kubernetes",
+    "name": "Kubernetes",
+    "description": "The industry-standard open-source system for automating deployment, scaling, and management of containerized applications.",
+    "category": "platform-engineering"
+  },
+  {
+    "id": "argo-cd",
+    "repo": "argoproj/argo-cd",
+    "name": "Argo CD",
+    "description": "A declarative, GitOps continuous-delivery tool for Kubernetes.",
+    "category": "platform-engineering"
+  },
+  {
+    "id": "crossplane",
+    "repo": "crossplane/crossplane",
+    "name": "Crossplane",
+    "description": "A framework for building cloud-native control planes to compose and manage infrastructure as Kubernetes resources.",
+    "category": "platform-engineering"
+  },
+  {
+    "id": "pulumi",
+    "repo": "pulumi/pulumi",
+    "name": "Pulumi",
+    "description": "Infrastructure as code using familiar general-purpose programming languages instead of YAML or DSLs.",
+    "category": "platform-engineering"
+  }
+]

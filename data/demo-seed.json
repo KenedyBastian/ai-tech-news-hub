@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Weekly roundup: what's new across the AI landscape",
+    "summary": "A demo placeholder summarizing the kind of weekly AI roundup this hub curates automatically — model releases, research papers, and industry moves — once live feeds are ingested this will be replaced by real articles.",
+    "url": "https://openai.com/news",
+    "source": "OpenAI News",
+    "sourceUrl": "https://openai.com/news",
+    "category": "ai",
+    "tags": ["demo", "roundup"],
+    "daysAgo": 1.2
+  },
+  {
+    "title": "Sample: new open-weight model release notes",
+    "summary": "Demo entry standing in for coverage of open-weight model releases and benchmark comparisons from major AI labs and the open-source community.",
+    "url": "https://huggingface.co/blog",
+    "source": "Hugging Face Blog",
+    "sourceUrl": "https://huggingface.co/blog",
+    "category": "ai",
+    "tags": ["demo", "models"],
+    "daysAgo": 2.5
+  },
+  {
+    "title": "Sample: enterprise AI adoption trends this quarter",
+    "summary": "Demo entry representing industry analysis coverage — enterprise adoption patterns, funding rounds, and market commentary that would normally come from outlets like TechCrunch or VentureBeat.",
+    "url": "https://techcrunch.com/category/artificial-intelligence/",
+    "source": "TechCrunch — Artificial Intelligence",
+    "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "category": "industry",
+    "tags": ["demo", "industry"],
+    "daysAgo": 0.6
+  },
+  {
+    "title": "Sample: GitHub Copilot workspace and agent updates",
+    "summary": "Demo placeholder for GitHub Copilot product updates — new agent capabilities, IDE integrations, and CLI improvements — sourced live from the GitHub Blog and Changelog feeds once ingestion runs.",
+    "url": "https://github.blog/changelog/",
+    "source": "GitHub Changelog",
+    "sourceUrl": "https://github.blog/changelog/",
+    "category": "github",
+    "githubTopic": "copilot",
+    "tags": ["demo", "copilot"],
+    "daysAgo": 0.3
+  },
+  {
+    "title": "Sample: GitHub Advanced Security scanning improvements",
+    "summary": "Demo placeholder for Advanced Security coverage — CodeQL, secret scanning, and Dependabot updates that ship through the GitHub Changelog feed.",
+    "url": "https://github.blog/changelog/label/security/",
+    "source": "GitHub Changelog",
+    "sourceUrl": "https://github.blog/changelog/",
+    "category": "github",
+    "githubTopic": "advanced-security",
+    "tags": ["demo", "security"],
+    "daysAgo": 1.8
+  },
+  {
+    "title": "Sample: GitHub Enterprise administration changes",
+    "summary": "Demo placeholder for GitHub Enterprise Cloud/Server updates — SSO, audit log streaming, and org policy changes.",
+    "url": "https://github.blog/changelog/label/enterprise/",
+    "source": "GitHub Changelog",
+    "sourceUrl": "https://github.blog/changelog/",
+    "category": "github",
+    "githubTopic": "enterprise",
+    "tags": ["demo", "enterprise"],
+    "daysAgo": 3.1
+  },
+  {
+    "title": "Sample: GitHub Actions and platform API release notes",
+    "summary": "Demo placeholder for GitHub platform/release coverage — Actions runners, REST/GraphQL API changes, and Codespaces updates.",
+    "url": "https://github.com/cli/cli/releases",
+    "source": "GitHub CLI Releases",
+    "sourceUrl": "https://github.com/cli/cli/releases",
+    "category": "github",
+    "githubTopic": "platform",
+    "tags": ["demo", "platform", "releases"],
+    "daysAgo": 4.4
+  },
+  {
+    "title": "Sample: developer community highlights",
+    "summary": "Demo placeholder for general GitHub developer-community updates — Octoverse-style stats, community spotlights, and ecosystem partnerships.",
+    "url": "https://github.blog/",
+    "source": "The GitHub Blog",
+    "sourceUrl": "https://github.blog/",
+    "category": "github",
+    "githubTopic": "developer-updates",
+    "tags": ["demo", "community"],
+    "daysAgo": 5.0
+  },
+  {
+    "title": "Sample: new developer tooling and agent framework",
+    "summary": "Demo placeholder for developer-tools coverage — CLI tools, IDE extensions, and agent frameworks covered by Hugging Face, VentureBeat, and similar outlets.",
+    "url": "https://venturebeat.com/category/ai/",
+    "source": "VentureBeat AI",
+    "sourceUrl": "https://venturebeat.com/category/ai/",
+    "category": "developer-tools",
+    "tags": ["demo", "tools"],
+    "daysAgo": 2.0
+  },
+  {
+    "title": "Sample: AI security research and vulnerability disclosure",
+    "summary": "Demo placeholder for security-focused AI coverage — prompt-injection research, model red-teaming, and responsible-disclosure write-ups.",
+    "url": "https://arstechnica.com/ai/",
+    "source": "Ars Technica — AI",
+    "sourceUrl": "https://arstechnica.com/ai/",
+    "category": "security",
+    "tags": ["demo", "security", "research"],
+    "daysAgo": 3.7
+  },
+  {
+    "title": "Sample: research lab publishes new benchmark results",
+    "summary": "Demo placeholder representing research-oriented AI coverage from outlets such as MIT Technology Review.",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "source": "MIT Technology Review — AI",
+    "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "category": "ai",
+    "tags": ["demo", "research"],
+    "daysAgo": 6.2
+  },
+  {
+    "title": "Sample: last month's AI policy and regulation update",
+    "summary": "Demo placeholder used to exercise the \"This month\" filter — represents slower-moving policy and regulation coverage.",
+    "url": "https://blog.google/technology/ai/",
+    "source": "Google AI Blog",
+    "sourceUrl": "https://blog.google/technology/ai/",
+    "category": "industry",
+    "tags": ["demo", "policy"],
+    "daysAgo": 18
+  },
+  {
+    "title": "Sample: older GitHub platform milestone",
+    "summary": "Demo placeholder used to exercise the \"This month\"/\"All\" filters for the GitHub page.",
+    "url": "https://github.blog/changelog/",
+    "source": "GitHub Changelog",
+    "sourceUrl": "https://github.blog/changelog/",
+    "category": "github",
+    "githubTopic": "platform",
+    "tags": ["demo", "platform"],
+    "daysAgo": 22
+  }
+]
