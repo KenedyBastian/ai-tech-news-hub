@@ -2,6 +2,7 @@ import { loadNewsDataset } from "@/lib/newsStore";
 import { buildNewsResponse } from "@/lib/newsQuery";
 import { NewsExplorer } from "@/components/NewsExplorer";
 import { ErrorState } from "@/components/StatusStates";
+import { TopStories } from "@/components/TopStories";
 
 export const revalidate = 300;
 
@@ -32,6 +33,8 @@ export default async function HomePage() {
           straight to the original story.
         </p>
       </section>
+
+      <TopStories items={payload.items} limit={10} />
 
       <NewsExplorer
         initialItems={payload.items}
