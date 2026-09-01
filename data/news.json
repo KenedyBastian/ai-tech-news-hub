@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-08-31T22:17:11.478Z",
+  "generatedAt": "2026-09-01T11:08:48.867Z",
   "isDemoDataset": false,
   "sourceCount": 14,
   "items": [
+    {
+      "id": "6a3db8bac480b841261936410bd730c42c1602f4",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-01T00:13:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "bef216b737390b0661bb5e88763848e49b109bc2",
       "title": "The Pentagon now has its own version of ChatGPT and Grok",
@@ -49,7 +60,7 @@
     },
     {
       "id": "803d5a97e489cf922818721eaa7d23de54d1a979",
-      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents…",
       "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai",
       "source": "MIT Technology Review — AI",
@@ -181,6 +192,28 @@
       "publishedAt": "2026-08-31T08:39:54.000Z",
       "category": "github",
       "githubTopic": "copilot",
+      "tags": []
+    },
+    {
+      "id": "0703988e3a3319168a4bed769fe486164f0f87f1",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news",
+      "publishedAt": "2026-08-31T07:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "7bc34157143210082026cf6b4abadaaff713ea65",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "url": "https://openai.com/index/polimill",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news",
+      "publishedAt": "2026-08-31T07:00:00.000Z",
+      "category": "ai",
       "tags": []
     },
     {
@@ -547,17 +580,6 @@
       "publishedAt": "2026-08-27T23:33:22.000Z",
       "category": "github",
       "githubTopic": "developer-updates",
-      "tags": []
-    },
-    {
-      "id": "7bf2f42fadc5c6783dedec4a561d56cb1e881dff",
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-08-27T23:16:45.000Z",
-      "category": "ai",
       "tags": []
     },
     {
@@ -1492,28 +1514,6 @@
       "tags": [
         "prerelease"
       ]
-    },
-    {
-      "id": "e4563871866d3a635b91bc2e29178f947db9e1c3",
-      "title": "ChatGPT Ads expands across Europe",
-      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news",
-      "publishedAt": "2026-08-18T22:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "67f37d861d340b85b022037b65b3e9a60f1c90a5",
-      "title": "Strengthening democratic oversight in national security",
-      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news",
-      "publishedAt": "2026-08-18T19:00:00.000Z",
-      "category": "ai",
-      "tags": []
     },
     {
       "id": "9035fec45837a8efd8e53ab977a67bb814764ce1",
