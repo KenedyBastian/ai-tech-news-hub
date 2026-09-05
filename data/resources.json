@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T10:49:17.893Z",
+  "generatedAt": "2026-09-05T10:03:35.408Z",
   "entries": [
     {
       "id": "ms-genai-for-beginners",
@@ -7,7 +7,7 @@
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "description": "Microsoft's free 21-lesson curriculum covering generative AI fundamentals, prompt engineering, and building real applications.",
       "category": "ai-learning",
-      "stars": 119130,
+      "stars": 119185,
       "topics": [
         "ai",
         "azure",
@@ -24,7 +24,7 @@
         "semantic-search",
         "transformers"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "ms-ai-for-beginners",
@@ -32,7 +32,7 @@
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "description": "A 12-week, 24-lesson curriculum from Microsoft covering classic and modern AI concepts with hands-on notebooks.",
       "category": "ai-learning",
-      "stars": 68058,
+      "stars": 68087,
       "topics": [
         "ai",
         "artificial-intelligence",
@@ -45,7 +45,7 @@
         "nlp",
         "rnn"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "openai-cookbook",
@@ -53,14 +53,14 @@
       "url": "https://github.com/openai/openai-cookbook",
       "description": "Official example code and guides for common tasks with the OpenAI API, from embeddings to function calling.",
       "category": "ai-learning",
-      "stars": 75737,
+      "stars": 75759,
       "topics": [
         "chatgpt",
         "gpt-4",
         "openai",
         "openai-api"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "prompt-engineering-guide",
@@ -68,7 +68,7 @@
       "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
       "description": "A widely used, community-maintained guide to prompt engineering techniques for large language models.",
       "category": "ai-learning",
-      "stars": 78010,
+      "stars": 78025,
       "topics": [
         "agent",
         "agents",
@@ -82,7 +82,7 @@
         "prompt-engineering",
         "rag"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "github-copilot-cli",
@@ -90,9 +90,9 @@
       "url": "https://github.com/github/copilot-cli",
       "description": "GitHub's official agentic coding assistant for the terminal, built on the same harness as the Copilot coding agent.",
       "category": "developer-tools-agents",
-      "stars": 11137,
+      "stars": 11138,
       "topics": [],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "microsoft-autogen",
@@ -100,7 +100,7 @@
       "url": "https://github.com/microsoft/autogen",
       "description": "Microsoft's framework for building multi-agent conversational AI applications and workflows.",
       "category": "developer-tools-agents",
-      "stars": 60798,
+      "stars": 60804,
       "topics": [
         "agentic",
         "agentic-agi",
@@ -113,7 +113,7 @@
         "llm-agent",
         "llm-framework"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "langgraph",
@@ -121,7 +121,7 @@
       "url": "https://github.com/langchain-ai/langgraph",
       "description": "A low-level orchestration framework from LangChain for building stateful, long-running AI agents.",
       "category": "developer-tools-agents",
-      "stars": 41037,
+      "stars": 41080,
       "topics": [
         "agents",
         "ai",
@@ -142,7 +142,7 @@
         "python",
         "rag"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "openhands",
@@ -150,7 +150,7 @@
       "url": "https://github.com/OpenHands/OpenHands",
       "description": "An open-source platform for autonomous software-engineering agents that can write code, run commands, and browse the web.",
       "category": "developer-tools-agents",
-      "stars": 86148,
+      "stars": 86216,
       "topics": [
         "agent",
         "artificial-intelligence",
@@ -162,7 +162,7 @@
         "llm",
         "openai"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "continue",
@@ -170,7 +170,7 @@
       "url": "https://github.com/continuedev/continue",
       "description": "An open-source AI code assistant you can customize and connect to any model, IDE, or context provider.",
       "category": "developer-tools-agents",
-      "stars": 35755,
+      "stars": 35768,
       "topics": [
         "agent",
         "ai",
@@ -178,7 +178,7 @@
         "developer-tools",
         "open-source"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "langchain",
@@ -186,7 +186,7 @@
       "url": "https://github.com/langchain-ai/langchain",
       "description": "A widely adopted framework for building applications powered by large language models, with broad integration support.",
       "category": "llm-apps",
-      "stars": 145622,
+      "stars": 145679,
       "topics": [
         "agents",
         "ai",
@@ -209,7 +209,7 @@
         "rag",
         "typescript"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "llama-index",
@@ -217,7 +217,7 @@
       "url": "https://github.com/run-llama/llama_index",
       "description": "A data framework for connecting custom data sources to large language models for retrieval-augmented generation.",
       "category": "llm-apps",
-      "stars": 52013,
+      "stars": 52027,
       "topics": [
         "agents",
         "application",
@@ -230,7 +230,7 @@
         "rag",
         "vector-database"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "ollama",
@@ -238,7 +238,7 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Run open-source large language models locally with a simple CLI, API, and model library.",
       "category": "llm-apps",
-      "stars": 180113,
+      "stars": 180201,
       "topics": [
         "deepseek",
         "gemma",
@@ -256,7 +256,7 @@
         "ollama",
         "qwen"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "vercel-ai-sdk",
@@ -264,7 +264,7 @@
       "url": "https://github.com/vercel/ai",
       "description": "A TypeScript toolkit for building AI-powered applications and agents with streaming UI support across frameworks.",
       "category": "llm-apps",
-      "stars": 26574,
+      "stars": 26586,
       "topics": [
         "anthropic",
         "artificial-intelligence",
@@ -282,7 +282,7 @@
         "vercel",
         "vue"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "codeql",
@@ -290,7 +290,7 @@
       "url": "https://github.com/github/codeql",
       "description": "GitHub's semantic code analysis engine used to find security vulnerabilities across large codebases.",
       "category": "security",
-      "stars": 10050,
+      "stars": 10052,
       "topics": [
         "codeql",
         "github-advanced-security",
@@ -298,7 +298,7 @@
         "semmle-ql",
         "works-with-codespaces"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "trivy",
@@ -306,7 +306,7 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "A comprehensive, easy-to-use vulnerability and misconfiguration scanner for containers, code, and infrastructure.",
       "category": "security",
-      "stars": 37778,
+      "stars": 37789,
       "topics": [
         "containers",
         "devsecops",
@@ -324,7 +324,7 @@
         "vulnerability-detection",
         "vulnerability-scanners"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "owasp-cheatsheets",
@@ -332,7 +332,7 @@
       "url": "https://github.com/OWASP/CheatSheetSeries",
       "description": "Concise, actionable application-security guidance covering common vulnerability classes and defenses.",
       "category": "security",
-      "stars": 33076,
+      "stars": 33082,
       "topics": [
         "application-security",
         "appsec",
@@ -342,7 +342,7 @@
         "owasp",
         "security"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "semgrep",
@@ -350,7 +350,7 @@
       "url": "https://github.com/semgrep/semgrep",
       "description": "A fast, open-source static analysis tool for finding bugs and enforcing code standards using lightweight rules.",
       "category": "security",
-      "stars": 16508,
+      "stars": 16519,
       "topics": [
         "c",
         "go",
@@ -365,7 +365,7 @@
         "static-code-analysis",
         "typescript"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "backstage",
@@ -373,7 +373,7 @@
       "url": "https://github.com/backstage/backstage",
       "description": "An open platform for building developer portals, created at Spotify and now a CNCF graduated project.",
       "category": "platform-engineering",
-      "stars": 34322,
+      "stars": 34333,
       "topics": [
         "backstage",
         "cncf",
@@ -385,7 +385,7 @@
         "microservices",
         "self-service-portal"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "kubernetes",
@@ -393,14 +393,14 @@
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "The industry-standard open-source system for automating deployment, scaling, and management of containerized applications.",
       "category": "platform-engineering",
-      "stars": 126330,
+      "stars": 126368,
       "topics": [
         "cncf",
         "containers",
         "go",
         "kubernetes"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "argo-cd",
@@ -408,7 +408,7 @@
       "url": "https://github.com/argoproj/argo-cd",
       "description": "A declarative, GitOps continuous-delivery tool for Kubernetes.",
       "category": "platform-engineering",
-      "stars": 24076,
+      "stars": 24079,
       "topics": [
         "argo",
         "argo-cd",
@@ -427,7 +427,7 @@
         "kustomize",
         "pipeline"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "crossplane",
@@ -435,7 +435,7 @@
       "url": "https://github.com/crossplane/crossplane",
       "description": "A framework for building cloud-native control planes to compose and manage infrastructure as Kubernetes resources.",
       "category": "platform-engineering",
-      "stars": 12019,
+      "stars": 12030,
       "topics": [
         "cloud-computing",
         "cloud-management",
@@ -449,7 +449,7 @@
         "multicloud",
         "serverless"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     },
     {
       "id": "pulumi",
@@ -457,7 +457,7 @@
       "url": "https://github.com/pulumi/pulumi",
       "description": "Infrastructure as code using familiar general-purpose programming languages instead of YAML or DSLs.",
       "category": "platform-engineering",
-      "stars": 25645,
+      "stars": 25646,
       "topics": [
         "aws",
         "azure",
@@ -478,7 +478,7 @@
         "serverless",
         "typescript"
       ],
-      "metadataFetchedAt": "2026-09-04T10:49:17.893Z"
+      "metadataFetchedAt": "2026-09-05T10:03:35.408Z"
     }
   ]
 }
