@@ -1,8 +1,52 @@
 {
-  "generatedAt": "2026-09-05T09:59:14.610Z",
+  "generatedAt": "2026-09-06T10:18:13.749Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "1d3d4d76fcdcf8069778e79dd84a32be9b5936cd",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-05T22:49:55.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "05d8db6c17072c895eb003bdd1cfc7f22a79dfed",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-05T19:35:24.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "1cb48b3f41519359a35494381fdef58c00e39297",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-05T18:05:27.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "ac5a64ceef287fadcb62786cab60dbb8e1376a45",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-09-05T11:15:55.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "d7b2d01e2750bd0a685b7a3fb2331a026d963aa4",
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
@@ -510,17 +554,6 @@
       "tags": []
     },
     {
-      "id": "37ec33c253da61fbf0f3c4e669eb882ae9d8af5b",
-      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-      "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-03T16:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "bedb7b253059bc57d40603a5bf5aa669a57e7d08",
       "title": "GitHub Copilot app for Beginners: Run several agents at once",
       "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub…",
@@ -613,17 +646,6 @@
       "tags": []
     },
     {
-      "id": "4f602ed541c753cca7534030f398a7d9bcaa2af0",
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-03T12:42:45.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "7a45b185cff5308545e040bd4a321330824b79c8",
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
@@ -697,28 +719,6 @@
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog",
       "publishedAt": "2026-09-03T00:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "f6657d932555bef4263903569f5458b2815efa90",
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-02T23:01:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "361a495fe5ecad290643ce295bf20f0daea2d0ea",
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-02T22:44:56.000Z",
       "category": "ai",
       "tags": []
     },
@@ -1896,28 +1896,6 @@
       "source": "Microsoft Source — AI",
       "sourceUrl": "https://news.microsoft.com/source/topics/ai/",
       "publishedAt": "2026-07-27T14:56:09.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "9194435ad31fefae0f74c5954b3bedfdff826e99",
-      "title": "A new approach to AI data puts communities in charge",
-      "summary": "The post A new approach to AI data puts communities in charge appeared first on Source.",
-      "url": "https://news.microsoft.com/signal/articles/a-new-approach-to-ai-data-puts-communities-in-charge",
-      "source": "Microsoft Source — AI",
-      "sourceUrl": "https://news.microsoft.com/source/topics/ai/",
-      "publishedAt": "2026-07-22T15:12:02.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "844ec17c612165f2a2cdc2910ffa0ae80294a9d5",
-      "title": "3 Google updates from Galaxy Unpacked 2026",
-      "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/technology/ai/",
-      "publishedAt": "2026-07-22T13:00:00.000Z",
       "category": "ai",
       "tags": []
     }
