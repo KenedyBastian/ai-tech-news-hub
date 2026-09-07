@@ -1,8 +1,85 @@
 {
-  "generatedAt": "2026-09-06T10:18:13.749Z",
+  "generatedAt": "2026-09-07T11:38:14.895Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "9b302088afa15eb48f3a2ef05d043a43d53e1d7d",
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
+      "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
+      "source": "Ars Technica — AI",
+      "sourceUrl": "https://arstechnica.com/ai/",
+      "publishedAt": "2026-09-07T11:00:03.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "e02ae19def6b6f7c4df88746637a074f37e339ba",
+      "title": "Supporting independent journalism in Ukraine",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news",
+      "publishedAt": "2026-09-07T00:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "2f083f991a7ffb8c54079d939feab4207ef8c188",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "summary": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most advanced model to date.…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-09-06T23:36:04.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "c552c9e7d810d778b2c146410fa9955824be91a5",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-06T20:47:37.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "102c9d67ffb9589fd0890250fea2c5185fbc9bd1",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-06T16:45:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "a8e8f9dc895a026b51bbe8a83b4fa897c6604f10",
+      "title": "An Alien Mind",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "url": "https://openai.com/index/an-alien-mind",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news",
+      "publishedAt": "2026-09-06T09:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "19672c4832d4c9bc0fd35c9ad6b6596c81afa104",
+      "title": "Research acceleration: The view inside OpenAI",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news",
+      "publishedAt": "2026-09-06T08:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "1d3d4d76fcdcf8069778e79dd84a32be9b5936cd",
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
@@ -518,17 +595,6 @@
       "tags": []
     },
     {
-      "id": "0e473f34711ce9d3ac25b285f7fb150bdc1794e2",
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week,…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-03T18:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "d7a44b052594bb97ce2270ecbe3220251f9b453a",
       "title": "GitHub Copilot CLI v1.0.83-4",
       "summary": "**Added** - Add Client ID Metadata Document (CIMD) support for MCP OAuth sign-in **Improved** - CLI starts without the interrupted-session restore prompt by default. - Resuming large sessions keeps the input prompt responsive sooner.…",
@@ -541,17 +607,6 @@
       "tags": [
         "prerelease"
       ]
-    },
-    {
-      "id": "c9405d8895ceb7c592c0f578f4c9d799078d1505",
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
-      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-03T16:09:01.000Z",
-      "category": "ai",
-      "tags": []
     },
     {
       "id": "bedb7b253059bc57d40603a5bf5aa669a57e7d08",
@@ -575,17 +630,6 @@
       "publishedAt": "2026-09-03T15:43:20.000Z",
       "category": "github",
       "githubTopic": "platform",
-      "tags": []
-    },
-    {
-      "id": "aa3887886905f00345defaecc487fe6a0002f649",
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
-      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-03T15:00:00.000Z",
-      "category": "ai",
       "tags": []
     },
     {
@@ -646,10 +690,10 @@
       "tags": []
     },
     {
-      "id": "7a45b185cff5308545e040bd4a321330824b79c8",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "id": "be4a3c5426264d710c57171337575b69c5e0e6ab",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-09-03T12:00:00.000Z",
@@ -657,10 +701,10 @@
       "tags": []
     },
     {
-      "id": "be4a3c5426264d710c57171337575b69c5e0e6ab",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "id": "7a45b185cff5308545e040bd4a321330824b79c8",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-09-03T12:00:00.000Z",
@@ -1278,17 +1322,6 @@
       "tags": []
     },
     {
-      "id": "5bd809f960336270810351ca073dd3efa0021e24",
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-      "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
-      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face",
-      "source": "Ars Technica — AI",
-      "sourceUrl": "https://arstechnica.com/ai/",
-      "publishedAt": "2026-08-27T12:58:59.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "3062d8cdad5fdcd904c8ee54664b2aa34880672b",
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
       "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
@@ -1388,28 +1421,6 @@
       "tags": []
     },
     {
-      "id": "cdfc10030b4b066d2f99e1e9c5386d1915931db1",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "url": "https://openai.com/index/learning-never-stops",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news",
-      "publishedAt": "2026-08-26T10:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "d6bb1031e66bcecd18dddab51a5171444a098cf8",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news",
-      "publishedAt": "2026-08-26T10:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "97815a78683b437d1a3a0537b661559c180269b6",
       "title": "Raised on AI",
       "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital…",
@@ -1455,17 +1466,6 @@
       "tags": [
         "prerelease"
       ]
-    },
-    {
-      "id": "504dd1ec950803b896fd5f67b4c0caebf6b6fbe6",
-      "title": "The Hugging Face incident and the road ahead",
-      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "category": "ai",
-      "tags": []
     },
     {
       "id": "5309d96554639301b1996d3730666d030e2a3850",
