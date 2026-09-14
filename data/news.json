@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T11:07:48.885Z",
+  "generatedAt": "2026-09-14T11:52:25.791Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
@@ -11,6 +11,39 @@
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-09-14T00:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "76cfee61f91f2857822098aa7953b41067dac599",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-09-13T19:41:48.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "7da785bec37362566f09b4dcfb54919f7fe9cdc9",
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-13T19:40:15.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "71d2a72b149de943bc1198fdc910fac043842a13",
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-13T16:30:00.000Z",
       "category": "ai",
       "tags": []
     },
@@ -443,17 +476,6 @@
       "tags": []
     },
     {
-      "id": "5e0cb078bed77bd7462a4218dc56a3782e9f6e7e",
-      "title": "Schools are catching on to Big Tech’s playbook",
-      "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often…",
-      "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-10T19:44:20.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "ccd366371d796fec904350d2541d6e08d60ad45b",
       "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
       "summary": "\"Bankruptcy cannot become the new land grab for AI.”",
@@ -570,28 +592,6 @@
       "tags": []
     },
     {
-      "id": "09cae6b4ca35c64a2d2ad8916e355d2d129db395",
-      "title": "AI agents are flooding public services with new requests",
-      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-10T14:53:50.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "4ae10ce70e6e7bcc220192a4fb2e867a20ffe554",
-      "title": "Maven Robotics wants to steal your robot deployment deal",
-      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-      "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-10T14:17:37.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "71a85c25f8cecba4a78ef442e2978e7455acd448",
       "title": "What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate supply chain uncertainty",
       "summary": "The post What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate supply chain uncertainty appeared first on Source.",
@@ -648,6 +648,17 @@
       "tags": []
     },
     {
+      "id": "2b26a8066576cc984b3694eea8e3d3f95cde781c",
+      "title": "Introducing the Agents API",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
       "id": "4e410dad70fb92989558aa8ff122fdd9cabd1589",
       "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
       "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
@@ -659,12 +670,12 @@
       "tags": []
     },
     {
-      "id": "2b26a8066576cc984b3694eea8e3d3f95cde781c",
-      "title": "Introducing the Agents API",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news",
+      "id": "d4e55a9164f4783e1b3733ad9ca5aea6d5ec9502",
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "summary": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog",
       "publishedAt": "2026-09-10T00:00:00.000Z",
       "category": "ai",
       "tags": []
@@ -1777,17 +1788,6 @@
       "tags": []
     },
     {
-      "id": "b597a3d03ee72b44675ad3ad83058f128719c955",
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "summary": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-08-17T19:46:21.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "cfb1ad6d5c2e00ccf0422868807953a9a5b098be",
       "title": "Get closer to the game with Gemini and Pixel",
       "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
@@ -1885,18 +1885,6 @@
       "sourceUrl": "https://blog.google/technology/ai/",
       "publishedAt": "2026-08-03T15:00:00.000Z",
       "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "799f92f1d3990e9bb2ddea0b22c6739471902c99",
-      "title": "GitHub CLI v2.97.0",
-      "summary": "## Security Four security vulnerabilities have been identified, and fixed, in this release. Users are advised to update gh to version `v2.97.0` as soon as possible. Several commands (including `gh gist view`, `gh api`, `gh pr diff`, `gh…",
-      "url": "https://github.com/cli/cli/releases/tag/v2.97.0",
-      "source": "GitHub CLI Releases",
-      "sourceUrl": "https://github.com/cli/cli/releases",
-      "publishedAt": "2026-07-31T02:04:00.000Z",
-      "category": "github",
-      "githubTopic": "platform",
       "tags": []
     }
   ]
