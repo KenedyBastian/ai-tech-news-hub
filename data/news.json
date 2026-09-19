@@ -1,8 +1,446 @@
 {
-  "generatedAt": "2026-09-18T10:36:55.437Z",
+  "generatedAt": "2026-09-19T10:21:23.008Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "7d23deb23af91746bb7f76ee212e96e04c00317e",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-19T01:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "1e8dff1956a4d3d1fd87d7e2348a7cf561b21942",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-19T00:12:07.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "6b49f5c4d6deac1912d6874dfb5b47e77744c72b",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-18T23:25:01.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "d6d9aec5a8799aa5c25fdc75da5b3c10cdd8d4f3",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-18T23:13:31.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "b12f4df50381c4652be8301515dbb103f4ae1a0c",
+      "title": "AI hallucination nearly triggers US military operation",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-18T23:12:32.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "58f2b0077885815965d55f1f2d8d2d1ef8ee8002",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-18T21:44:33.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "606ba10069c53db5a10e92283389537206e0a34f",
+      "title": "GitHub Copilot CLI v1.0.87-0",
+      "summary": "**Added** - Add user and managed startup defaults for the Auto routing tier, including strict and user-overridable organization policy - Consecutive steering prompts in the same mode combine into one pending message. Press Up in an empty…",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.87-0",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-09-18T21:29:08.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "7456d8000ebfebb29c1f5384d31ad16c6e65a8ee",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-09-18T21:07:24.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "8637ab7a442256a356ef7103034712d976e86995",
+      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "summary": "But the military's overall use of AI seems to be accelerating.",
+      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report",
+      "source": "Ars Technica — AI",
+      "sourceUrl": "https://arstechnica.com/ai/",
+      "publishedAt": "2026-09-18T20:26:33.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "31344e51cc806ab4da288bf7d62d153636cba9e1",
+      "title": "World model companies are keeping a lot of secrets",
+      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-18T20:18:14.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "cbde4620c702e1cb08957b06c808e99c8b6b859f",
+      "title": "Copilot code review: An improved review experience",
+      "summary": "Copilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept… The post Copilot code review: An improved…",
+      "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-09-18T20:17:22.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": []
+    },
+    {
+      "id": "9a3d27b14d82a780532a7fafa74430d29fcd7b73",
+      "title": "Manage the code coverage ruleset condition with the REST API",
+      "summary": "You can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support. This ruleset lets you enforce… The post Manage the code coverage ruleset condition…",
+      "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-09-18T19:23:49.000Z",
+      "category": "github",
+      "githubTopic": "platform",
+      "tags": []
+    },
+    {
+      "id": "587e82fd87bc87218f50882be387b9d08ac6e4e5",
+      "title": "GitHub Copilot weekly releases — September 14",
+      "summary": "This week, GitHub Copilot adds new model selection options, code review updates, and Sentry integration in the Copilot app. There are also updates for admins, plus new agent features in… The post GitHub Copilot weekly releases — September…",
+      "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-09-18T19:21:22.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": []
+    },
+    {
+      "id": "27c9ec9881a1aab035c3b391981377db7b642294",
+      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+      "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
+      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion",
+      "source": "Ars Technica — AI",
+      "sourceUrl": "https://arstechnica.com/ai/",
+      "publishedAt": "2026-09-18T19:20:50.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "7019e34a4540cad060f402fe3378f4aecfcb3b3d",
+      "title": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
+      "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on October 19th, 2026: Model Deprecation date… The post Upcoming deprecation of…",
+      "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-09-18T19:00:00.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": []
+    },
+    {
+      "id": "cde89040db03311048e182420ceb47e224948eb2",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-18T18:49:30.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "802486953da21839a5cb8b2e17a8da58311a2d39",
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center…",
+      "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-09-18T18:29:17.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "b12290caf5a01e8e9a1b9eb3f90f9f193eae6313",
+      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-18T17:59:53.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "0c2082ebb7057205deea1d2a44b68fc2f3c30fd9",
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-18T17:33:50.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "bd1e4d7043e5fb2638995ba5f30069d1f0e436a0",
+      "title": "US government website used Chinese model the FBI called \"malicious\"",
+      "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious",
+      "source": "Ars Technica — AI",
+      "sourceUrl": "https://arstechnica.com/ai/",
+      "publishedAt": "2026-09-18T17:28:50.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "748d4ed0dfa21a4f1ae4ac1125ceab2cbe8efdb3",
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and…",
+      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-18T17:09:56.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "5b054754d625925514f56d432193dbeef76e4738",
+      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and…",
+      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-18T17:06:32.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "2de2edcf5a10c817567bad608400ebaa8f33803d",
+      "title": "Gavin Newsom is pushing for an AI kill switch",
+      "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state…",
+      "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-09-18T17:04:51.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "6f7db5bc4bc1b3b83104b209b95023b8930c758c",
+      "title": "Stage-only npm tokens for safer automation",
+      "summary": "You can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token… The post Stage-only npm tokens for safer automation…",
+      "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-09-18T16:37:50.000Z",
+      "category": "github",
+      "githubTopic": "developer-updates",
+      "tags": []
+    },
+    {
+      "id": "eacd5d59e9e3d83b88858f46e347f765810c1679",
+      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-18T16:35:49.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "e5380fced9d2f3e4f548b10f9f9ebb31568f7ca6",
+      "title": "What Hollywood thinks about existential AI warnings",
+      "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-09-18T16:35:19.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "907e9d53087619686dbf6e92b18f5dd18f972a46",
+      "title": "Security researchers used Claude to help them hack into OpenAI",
+      "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-09-18T15:30:16.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "956c7663208f43358d901b718cadec22e7a0a3c0",
+      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-18T15:30:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "9a79b55d35bcfc0f5eb0e5a28a90382e9ba7d3cb",
+      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+      "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
+      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-18T15:22:48.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "19ad4fea449452cdc4dd71b1e89c0ee2bbd2623a",
+      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+      "summary": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
+      "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-18T15:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "55f4720a90e18691e7c1e6a9b20f2d83b2b725bf",
+      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog.",
+      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+      "source": "The GitHub Blog",
+      "sourceUrl": "https://github.blog/",
+      "publishedAt": "2026-09-18T15:00:00.000Z",
+      "category": "github",
+      "githubTopic": "developer-updates",
+      "tags": []
+    },
+    {
+      "id": "58d1c7f5bb661945d8e685ea0c8d045b67d8994d",
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-18T14:00:14.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "c72f60fcf6add18e14105032b742261fbd90d5e6",
+      "title": "New experts join Google’s AI & Economy team",
+      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/technology/ai/",
+      "publishedAt": "2026-09-18T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "de43352a546a4c9ff83e511b49912927d2a49024",
+      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+      "summary": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-18T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "baf58204e2674475feb9a0daab09efd2d80424e2",
+      "title": "Researchers used Claude to hack OpenAI",
+      "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
+      "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai",
+      "source": "Ars Technica — AI",
+      "sourceUrl": "https://arstechnica.com/ai/",
+      "publishedAt": "2026-09-18T13:30:12.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "94ad9f737cb6b727d67c6a9a976b60149d72d4f1",
+      "title": "Co-creating the future of fashion with Google",
+      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/technology/ai/",
+      "publishedAt": "2026-09-18T13:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "559b0cf1119746d24724b9d0e19761800b6e48fa",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "84145fbe5ff7fb6d4cf4beaa7f2858a7c37d23a4",
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in…",
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered",
+      "source": "MIT Technology Review — AI",
+      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "publishedAt": "2026-09-18T11:29:22.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "82da9e642a0899d34edf365beb491f4c9fe7ba13",
+      "title": "Flash floods can strike without warning — this new technology could change that",
+      "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her…",
+      "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-09-18T11:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "6f911ec31259f907e4eb637fe585ce3e587c8b71",
       "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
@@ -35,28 +473,6 @@
       "publishedAt": "2026-09-17T22:57:47.000Z",
       "category": "github",
       "githubTopic": "copilot",
-      "tags": []
-    },
-    {
-      "id": "9189e79135004738d34a7b4b51874634be19aada",
-      "title": "PrismML hopes its tiny LLM will change how we all use AI",
-      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
-      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-17T22:34:09.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "35989272d9e5e91b974e22374344b1335c8c7ce0",
-      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
-      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-17T22:14:59.000Z",
-      "category": "ai",
       "tags": []
     },
     {
@@ -95,28 +511,6 @@
       "tags": []
     },
     {
-      "id": "fa7a6021a71cfbd0643e7fe9a19f28eb68bbfd3c",
-      "title": "The fix for rogue AI agents could be more AI",
-      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
-      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-17T20:34:47.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "9688f7ffdee83383ecafdba06c54c82715411dca",
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
-      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-17T20:34:24.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "0683c017ff7a8854d4e20a4558b8a03a71e38236",
       "title": "Google announces new experimental \"CC\" AI agent for families",
       "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
@@ -124,17 +518,6 @@
       "source": "Ars Technica — AI",
       "sourceUrl": "https://arstechnica.com/ai/",
       "publishedAt": "2026-09-17T20:24:34.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "fb08b19e3092692ec9b785a1f8b572a29590dcc7",
-      "title": "Is the AI safety debate about safety or control?",
-      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
-      "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-17T20:19:37.000Z",
       "category": "ai",
       "tags": []
     },
@@ -157,28 +540,6 @@
       "source": "Google AI Blog",
       "sourceUrl": "https://blog.google/technology/ai/",
       "publishedAt": "2026-09-17T20:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "8cc4d0e567b12d22da664c47063062aa2e0c02b4",
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-17T20:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "5ff94f8b654c7ef1ccaed0ba1b6426259e2a3e6a",
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-17T19:46:08.000Z",
       "category": "ai",
       "tags": []
     },
@@ -212,39 +573,6 @@
       "source": "Ars Technica — AI",
       "sourceUrl": "https://arstechnica.com/ai/",
       "publishedAt": "2026-09-17T18:33:13.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "5fa2e472f99805e7cc6a0eea86884f168355d24e",
-      "title": "Even the king of England has his hesitations about AI",
-      "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
-      "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-17T17:26:25.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "f81776d6d410aaa2c7f35136c8382815ae9aaff2",
-      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
-      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-17T17:15:59.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "5fcb31656e57b0e591f20cdf94c9a0d68cc59fa6",
-      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-      "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
-      "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-17T17:15:00.000Z",
       "category": "ai",
       "tags": []
     },
@@ -284,17 +612,6 @@
       "tags": []
     },
     {
-      "id": "b0a1757d0fedef19c2c52d02b70177998ffdd293",
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
-      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-17T14:06:14.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "4c6f8453bd68143b8b38ced8324ce32ab722598e",
       "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
       "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong…",
@@ -317,39 +634,6 @@
       "tags": []
     },
     {
-      "id": "db10da3f4911bd672603da5300345733fc6b2ce2",
-      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
-      "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-      "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-17T14:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "4bce8df04a13dd86470933e5fbe68213bd9201d1",
-      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
-      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-17T13:46:16.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "6bf22bb7c7b58a77c62b4aade684c7f90837ceef",
-      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-      "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
-      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-17T13:38:33.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "964ae1dd0facf551105fd30a5745d11e7b39c4c1",
       "title": "How Cooley is accelerating IPO work with ChatGPT",
       "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
@@ -357,50 +641,6 @@
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-09-17T12:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "41b021268bbc96613f32b6275912ee8a0359e25f",
-      "title": "Inside the suddenly explosive world of AI safety",
-      "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-17T11:30:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "09b1457162e2d91cda5b65ce9d54d65a88b0240d",
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "summary": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
-      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-17T05:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "2853ac2f1108b87e5a0a0629b8ab81734fba3801",
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch…",
-      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-17T03:30:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "f3d35ad87d98a10e301794191b6e18b498dd7d72",
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
-      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-17T00:58:49.000Z",
       "category": "ai",
       "tags": []
     },
@@ -442,28 +682,6 @@
       "tags": []
     },
     {
-      "id": "a08dafeb17b559241a062515e1f5c220e60985a1",
-      "title": "Al Gore says the real AI risk isn’t data centers",
-      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-16T23:43:09.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "d2f3ab14e50f6d7d6b65ff5147c593ca3cc31d1a",
-      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and…",
-      "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-16T23:40:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "49304d8a5eff62ed0f4b20df2276edeb5bb6a0ec",
       "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
       "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
@@ -489,28 +707,6 @@
       ]
     },
     {
-      "id": "cf356bfbc5c48c5c2ff5d6d600cdb32adab7893c",
-      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make…",
-      "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-16T20:59:13.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "be79f3048c92aa4e08ea760d6928aa333082084d",
-      "title": "The AI data center e-waste problem is huge — and getting bigger",
-      "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-16T20:40:46.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "70ff7b63d5f5adce5938d785e298da1e83636818",
       "title": "Automate SSO authorization for classic PATs and SSH keys",
       "summary": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.… The…",
@@ -520,41 +716,6 @@
       "publishedAt": "2026-09-16T20:20:16.000Z",
       "category": "github",
       "githubTopic": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "4df4917d39640e56f957d727b89d591799373503",
-      "title": "SCIM user responses now include a profileUrl attribute",
-      "summary": "SCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to the external identity. Previously, matching… The post SCIM user responses now…",
-      "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-09-16T20:19:58.000Z",
-      "category": "github",
-      "githubTopic": "developer-updates",
-      "tags": []
-    },
-    {
-      "id": "aaa1a76c676339bc54ec577c5d777934f0160333",
-      "title": "Copilot budget increase requests are generally available",
-      "summary": "Previously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to… The post Copilot budget increase requests are generally…",
-      "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-09-16T20:17:18.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": []
-    },
-    {
-      "id": "933ca83973d0dec89de3e3e678727aae6bc9eb03",
-      "title": "Apple might make servers again to cash in on the AI rush",
-      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers…",
-      "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-16T17:20:29.000Z",
-      "category": "ai",
       "tags": []
     },
     {
@@ -569,17 +730,6 @@
       "tags": []
     },
     {
-      "id": "2306ad1a8f49503f0e07656e48d3e07b3ba86cba",
-      "title": "Google will now let any AI agent run your smart home",
-      "summary": "Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and…",
-      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-16T17:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "027811ca1632d0f58ec6aef4b1b0aab0357f132b",
       "title": "Helping older adults use AI in everyday life",
       "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
@@ -588,18 +738,6 @@
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-09-16T16:00:00.000Z",
       "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "892303a4f4645a59ec47877815ec64fb12167a6b",
-      "title": "Code scanning AI Scan no longer requires CodeQL default setup",
-      "summary": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only… The post Code scanning AI Scan no longer requires CodeQL…",
-      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-09-16T13:26:06.000Z",
-      "category": "github",
-      "githubTopic": "advanced-security",
       "tags": []
     },
     {
@@ -635,6 +773,17 @@
       "source": "MIT Technology Review — AI",
       "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "publishedAt": "2026-09-16T12:47:34.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "973a91148c502943f59fcd583aa0a6ef4561f570",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+      "url": "https://openai.com/index/hex-gpt-6-astra",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news",
+      "publishedAt": "2026-09-16T12:00:00.000Z",
       "category": "ai",
       "tags": []
     },
@@ -685,30 +834,6 @@
       "tags": [
         "prerelease"
       ]
-    },
-    {
-      "id": "12ae08f337ea4e61b3db37abd4ba5d8d94002480",
-      "title": "Enforce GitHub Advanced Security configurations",
-      "summary": "Enterprise administrators can now enforce GitHub Advanced Security configurations across their organizations. This prevents both organization and repository administrators from overriding settings defined at the enterprise level, helping…",
-      "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-09-15T19:31:58.000Z",
-      "category": "github",
-      "githubTopic": "advanced-security",
-      "tags": []
-    },
-    {
-      "id": "e594f69ef3875e63610061ce56d94c2eac8816eb",
-      "title": "GitHub Copilot suggests custom properties definitions",
-      "summary": "GitHub Copilot can now suggest allowed values when you create a custom property for repositories in your organization. This feature is in public preview for GitHub Copilot Business and Copilot… The post GitHub Copilot suggests custom…",
-      "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-09-15T19:07:47.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": []
     },
     {
       "id": "ca4965f11fd951c479aada20ec1d47ce82a56513",
@@ -1078,17 +1203,6 @@
       "tags": []
     },
     {
-      "id": "ccd366371d796fec904350d2541d6e08d60ad45b",
-      "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
-      "summary": "\"Bankruptcy cannot become the new land grab for AI.”",
-      "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google",
-      "source": "Ars Technica — AI",
-      "sourceUrl": "https://arstechnica.com/ai/",
-      "publishedAt": "2026-09-10T18:14:14.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "d88b705c5152d0d4504878e8ee433fdf37f68741",
       "title": "GitHub Copilot CLI v1.0.84-4",
       "summary": "**Added** - Add `copilot instruction list` and `copilot lsp list`, replacing `copilot plugins list --kind instruction` and `--kind lsp` - Add `--json` to `copilot plugin list`, `copilot plugin marketplace list` and `copilot plugin…",
@@ -1192,10 +1306,10 @@
       "tags": []
     },
     {
-      "id": "2b26a8066576cc984b3694eea8e3d3f95cde781c",
-      "title": "Introducing the Agents API",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "url": "https://openai.com/index/introducing-the-agents-api",
+      "id": "4e410dad70fb92989558aa8ff122fdd9cabd1589",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-09-10T00:00:00.000Z",
@@ -1203,10 +1317,10 @@
       "tags": []
     },
     {
-      "id": "4e410dad70fb92989558aa8ff122fdd9cabd1589",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "id": "2b26a8066576cc984b3694eea8e3d3f95cde781c",
+      "title": "Introducing the Agents API",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "url": "https://openai.com/index/introducing-the-agents-api",
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-09-10T00:00:00.000Z",
@@ -1232,50 +1346,6 @@
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog",
       "publishedAt": "2026-09-10T00:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "af7f7254a10c58d4e50caa0e92035c9727560c9d",
-      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
-      "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models",
-      "source": "Ars Technica — AI",
-      "sourceUrl": "https://arstechnica.com/ai/",
-      "publishedAt": "2026-09-09T20:06:28.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "534907e0d31e417161f7675d307d834241a713dd",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news",
-      "publishedAt": "2026-09-09T17:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "b53871784e2874dc577e0cc67e03de4e1a886e89",
-      "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
-      "summary": "\"We really do earnestly believe AI could kill all humans!\"",
-      "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all",
-      "source": "Ars Technica — AI",
-      "sourceUrl": "https://arstechnica.com/ai/",
-      "publishedAt": "2026-09-09T16:59:40.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "d4ec602d6e751e6ff0ba8dd9218da2668b76e53f",
-      "title": "Google's AI genome system evaluates every possible one-base change",
-      "summary": "Most one-base changes to the human genome do nothing, but a few are significant.",
-      "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change",
-      "source": "Ars Technica — AI",
-      "sourceUrl": "https://arstechnica.com/ai/",
-      "publishedAt": "2026-09-09T16:34:18.000Z",
       "category": "ai",
       "tags": []
     },
@@ -1322,17 +1392,6 @@
       "publishedAt": "2026-09-09T11:55:00.000Z",
       "category": "github",
       "githubTopic": "advanced-security",
-      "tags": []
-    },
-    {
-      "id": "587a70348a735f611926883e54d73568c0d50c6f",
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news",
-      "publishedAt": "2026-09-09T11:00:00.000Z",
-      "category": "ai",
       "tags": []
     },
     {
@@ -1457,17 +1516,6 @@
       "publishedAt": "2026-09-04T15:38:08.000Z",
       "category": "github",
       "githubTopic": "copilot",
-      "tags": []
-    },
-    {
-      "id": "83010eb24ffae47c0dd2b1a164461ba21b536ff7",
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones…",
-      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west",
-      "source": "MIT Technology Review — AI",
-      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "publishedAt": "2026-09-04T09:25:19.000Z",
-      "category": "ai",
       "tags": []
     },
     {
@@ -1627,20 +1675,6 @@
       ]
     },
     {
-      "id": "0ffe5775a943dffb0db8a69ffd90457c9b731674",
-      "title": "GitHub Copilot CLI v1.0.83-2",
-      "summary": "**Added** - Custom agents can list several models in `model`, tried in order until one is available to you, and `model-policy: required` keeps model changes on that list - Adding support for claude-fable-5.1 **Improved** - Linux sandboxes…",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.83-2",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-09-02T06:35:37.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
-    },
-    {
       "id": "23bdbfdbd061867c154a8cc168f33e8b0e0e2b8e",
       "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
       "summary": "BenchMIRT: What are LLM benchmarks actually measuring?",
@@ -1728,18 +1762,6 @@
       "publishedAt": "2026-08-27T16:00:00.000Z",
       "category": "github",
       "githubTopic": "developer-updates",
-      "tags": []
-    },
-    {
-      "id": "0e3e5aa92e3d230033faef8163abc57387d606fc",
-      "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-      "summary": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub…",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage",
-      "source": "The GitHub Blog",
-      "sourceUrl": "https://github.blog/",
-      "publishedAt": "2026-08-26T20:12:53.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
       "tags": []
     },
     {
@@ -1922,17 +1944,6 @@
       "tags": []
     },
     {
-      "id": "9514940f045b6decb4ea4221d63af5d2fb2d6a38",
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/technology/ai/",
-      "publishedAt": "2026-08-11T17:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "d7f8e3a874c0127a76f14a77aa3031c0a7d2205a",
       "title": "How to build an AI agent: A simple guide for anyone",
       "summary": "The post How to build an AI agent: A simple guide for anyone appeared first on Source.",
@@ -1940,28 +1951,6 @@
       "source": "Microsoft Source — AI",
       "sourceUrl": "https://news.microsoft.com/source/topics/ai/",
       "publishedAt": "2026-08-10T15:07:06.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "6f027f788573855eaca20896b0c6ebdd88edb0bd",
-      "title": "Evolve your marketing with new AI tools",
-      "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/technology/ai/",
-      "publishedAt": "2026-08-10T14:30:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "c7d6cba7de9d67d4a220e65724446cb73e8c5bdb",
-      "title": "Teaching AI to speak the language of pathology",
-      "summary": "The post Teaching AI to speak the language of pathology appeared first on Source.",
-      "url": "https://news.microsoft.com/signal/articles/teaching-ai-to-speak-the-language-of-pathology",
-      "source": "Microsoft Source — AI",
-      "sourceUrl": "https://news.microsoft.com/source/topics/ai/",
-      "publishedAt": "2026-08-04T13:38:55.000Z",
       "category": "ai",
       "tags": []
     }
