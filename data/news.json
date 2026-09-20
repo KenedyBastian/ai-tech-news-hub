@@ -1,8 +1,129 @@
 {
-  "generatedAt": "2026-09-19T10:21:23.008Z",
+  "generatedAt": "2026-09-20T10:40:17.064Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "607ffaad2d1c704d87910b94c9e6c695d3bc84c9",
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-09-19T20:44:40.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "3c7d411657a059ccc251ef954ce2fe5116d4e4ee",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-19T20:39:13.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "6cd029fa2ffee0bffbf4ec85e5732c48ede81176",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-19T19:57:47.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "0080ce44a56c36565513e098abb9c8c84b072d1e",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-19T17:30:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "66fb6faf12d493f74076c8158ba79760e3fd27a3",
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-09-19T15:25:03.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "86ab101ea267b8c468a8f88d16448292d1f17c2c",
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-19T15:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "760403627546a39981b21caa40a07188b50dc923",
+      "title": "AI safety conversations have gotten unbelievable",
+      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-19T15:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "373f3d22cfc0aaecc771025959b457bd39c17c24",
+      "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a…",
+      "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-09-19T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "e57b5ab9f3b7649030baa77ac4cad1b59ed90d7d",
+      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-19T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "a864cdf7e10a4848d8790ece2cb4bb94f3c32570",
+      "title": "The AI regulation smackdown isn’t over",
+      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-09-19T13:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "c8eff2dfdecd64680b0862d41520215984c1681e",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-19T13:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "7d23deb23af91746bb7f76ee212e96e04c00317e",
       "title": "India forces caller-ID apps to feed spam reports to telcos",
@@ -309,39 +430,6 @@
       "tags": []
     },
     {
-      "id": "956c7663208f43358d901b718cadec22e7a0a3c0",
-      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
-      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-18T15:30:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "9a79b55d35bcfc0f5eb0e5a28a90382e9ba7d3cb",
-      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-      "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
-      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-18T15:22:48.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "19ad4fea449452cdc4dd71b1e89c0ee2bbd2623a",
-      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-      "summary": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
-      "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-18T15:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "55f4720a90e18691e7c1e6a9b20f2d83b2b725bf",
       "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
       "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog.",
@@ -354,34 +442,12 @@
       "tags": []
     },
     {
-      "id": "58d1c7f5bb661945d8e685ea0c8d045b67d8994d",
-      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-18T14:00:14.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "c72f60fcf6add18e14105032b742261fbd90d5e6",
       "title": "New experts join Google’s AI & Economy team",
       "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
       "source": "Google AI Blog",
       "sourceUrl": "https://blog.google/technology/ai/",
-      "publishedAt": "2026-09-18T14:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "de43352a546a4c9ff83e511b49912927d2a49024",
-      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-      "summary": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-      "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "publishedAt": "2026-09-18T14:00:00.000Z",
       "category": "ai",
       "tags": []
@@ -438,28 +504,6 @@
       "source": "The Verge — AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
       "publishedAt": "2026-09-18T11:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "6f911ec31259f907e4eb637fe585ce3e587c8b71",
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "summary": "The round values the data center giant at $30.9 billion.",
-      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-17T23:25:52.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "230ed032b0167d3fc5c77d03696195ba670c620c",
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information…",
-      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-17T23:21:17.000Z",
       "category": "ai",
       "tags": []
     },
@@ -544,28 +588,6 @@
       "tags": []
     },
     {
-      "id": "539c5a96bbf45589eaf9bfabb98c022381aa133d",
-      "title": "The AI Superintelligence Slowdown",
-      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-17T19:28:24.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "030005702ad790eba9608e626c2c1ace79414154",
-      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-      "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents,…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-17T18:58:05.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "a27c34507684f5c0505e704a393ed29523f02958",
       "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
       "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
@@ -609,28 +631,6 @@
       "publishedAt": "2026-09-17T15:45:26.000Z",
       "category": "github",
       "githubTopic": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "4c6f8453bd68143b8b38ced8324ce32ab722598e",
-      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-      "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong…",
-      "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-17T14:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "bb3e4f16a8d280c0d2a73dcc88a150ec23cb1016",
-      "title": "AI is feared globally as the destroyer of jobs",
-      "summary": "In 34 of the 37 surveyed countries, people are more likely to believe AI will lead to job losses over the next 20 years. | Image: Pew Pew Research has published a new global survey that sheds light on how people view AI, including its…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-17T14:00:00.000Z",
-      "category": "ai",
       "tags": []
     },
     {
