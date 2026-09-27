@@ -1,8 +1,77 @@
 {
-  "generatedAt": "2026-09-26T10:51:15.413Z",
+  "generatedAt": "2026-09-27T11:26:47.845Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "382a9edd6bdb594bc2e61890d4b8453dda087b8c",
+      "title": "GitHub Copilot CLI v1.0.89-5",
+      "summary": "**Added** - Left-clicking supported ask_user and elicitation form inputs focuses them and places the cursor at the clicked position - Add support for Claude Code rule files in .claude/rules as custom instructions - Sessions in the sidebar…",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.89-5",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-09-27T03:36:32.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "7777e457137428716744555f5f6b5cb99afd8a0c",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-27T01:30:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "71b88d6b7195bace60f7799ffc42cb066d2a7d32",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-26T21:02:06.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "819e92326da0d8d2b38ba2b151babb7a6b581fba",
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-09-26T16:34:59.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "344d41dcb1d635bb04e587093768f1fad23cdf89",
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild…",
+      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-09-26T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "dc5183e86bb57478a1d252bfc93c69cb5a27ef35",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-26T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "fe937b84825f8022a1afef74267847d9d9930a7a",
       "title": "At Meta Connect, the company’s smart glasses were everywhere",
@@ -457,17 +526,6 @@
       "tags": []
     },
     {
-      "id": "c27e736f539dbb195467cb98857825b8a69d77b9",
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-25T05:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "648837e3af7f0c6fad1f3adf77010eccb0c7348e",
       "title": "Default Enablement of Copilot features for Copilot Business and Enterprise",
       "summary": "We’re introducing a new global default policy for generally available GitHub Copilot features and supported client capabilities in enterprise and organization Copilot settings. For the next 28 days, you can… The post Default Enablement of…",
@@ -543,28 +601,6 @@
       ]
     },
     {
-      "id": "68f4d23a5b32e238d967e9f2947c319a06a1863e",
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-24T19:15:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "1c18de282b50389e766913218a200fbfc1d1242d",
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-24T19:00:42.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "ca5f208a03f2580dec717255fa7d7cb093b23911",
       "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
       "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog.",
@@ -606,28 +642,6 @@
       "source": "The Verge — AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
       "publishedAt": "2026-09-24T17:52:29.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "cb7e0a0370f056e24a2ec9252a51e4f070955f39",
-      "title": "Muse will apparently let you download its entire filesystem",
-      "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-24T17:14:12.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "0b7b681fb83d1416c8cbbb9b449c51910f7802c8",
-      "title": "Muse sure looks a lot like OpenClaw",
-      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform…",
-      "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-24T17:10:38.000Z",
       "category": "ai",
       "tags": []
     },
@@ -1569,20 +1583,6 @@
       "tags": []
     },
     {
-      "id": "44481b9454b2006b20d8278f50e0b2598f3ed82f",
-      "title": "GitHub Copilot CLI v1.0.84-6",
-      "summary": "**Added** - Add /config to open a sidebar configuration screen in the CLI - Add /sandbox Network host allow/deny rules without replacing your configured upstream proxy **Improved** - Apply managed Edit and Write rules to recognized native…",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.84-6",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-09-14T16:49:50.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
-    },
-    {
       "id": "2267286cfd5cc9d78b7ac89b4fb31cece96e283f",
       "title": "DevFest is back",
       "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
@@ -1939,18 +1939,6 @@
       "sourceUrl": "https://blog.google/technology/ai/",
       "publishedAt": "2026-08-17T08:00:00.000Z",
       "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "8a10f77097e1ec1c86812652a3ac9ba90fc44424",
-      "title": "CodeQL CLI v2.26.3",
-      "summary": "### Improvements - Commands that accept a `--ram` option now report a clear error when given a value that is far too large to be a sensible amount of memory in megabytes (for example, a number of bytes passed by mistake), instead of…",
-      "url": "https://github.com/github/codeql-cli-binaries/releases/tag/v2.26.3",
-      "source": "CodeQL CLI Releases",
-      "sourceUrl": "https://github.com/github/codeql-cli-binaries/releases",
-      "publishedAt": "2026-08-12T15:56:15.000Z",
-      "category": "github",
-      "githubTopic": "advanced-security",
       "tags": []
     }
   ]
