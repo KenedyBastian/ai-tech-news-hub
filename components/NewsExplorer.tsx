@@ -29,6 +29,8 @@ export interface NewsExplorerProps {
   isDemoDataset: boolean;
   /** When set, the category filter is hidden and always fixed to this value. */
   lockedCategory?: Category;
+  /** When set, results are always constrained to items tagged with this value. */
+  lockedTag?: string;
   /** When set, shows GitHub sub-topic filter chips (only used on /github). */
   githubTopics?: GithubTopic[];
   emptyTitle?: string;
@@ -51,6 +53,7 @@ export function NewsExplorer({
   generatedAt,
   isDemoDataset,
   lockedCategory,
+  lockedTag,
   githubTopics,
   emptyTitle,
 }: NewsExplorerProps) {
@@ -89,6 +92,7 @@ export function NewsExplorer({
         const params = new URLSearchParams();
         if (category !== "all") params.set("category", category);
         if (githubTopic !== "all") params.set("githubTopic", githubTopic);
+        if (lockedTag) params.set("tag", lockedTag);
         if (query.trim()) params.set("q", query.trim());
         params.set("range", range);
 
@@ -116,7 +120,7 @@ export function NewsExplorer({
       controller.abort();
       clearTimeout(timeout);
     };
-  }, [query, category, githubTopic, range, retryToken]);
+  }, [query, category, githubTopic, range, retryToken, lockedTag]);
 
   const lastUpdated = useMemo(() => {
     try {

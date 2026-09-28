@@ -75,6 +75,7 @@ async function ingestFeedSource(
           sourceUrl: source.homepage,
           category: source.category,
           classifyGithubTopics: source.category === "github",
+          tags: source.tags,
         }),
       )
       .filter((item): item is NewsItem => item !== null);

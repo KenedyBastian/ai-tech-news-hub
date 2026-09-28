@@ -53,6 +53,32 @@ describe("queryNewsItems", () => {
     expect(result[0].id).toBe("2");
   });
 
+  it("includes GitHub Advanced Security items when filtering by the security category", () => {
+    const withGhas = [
+      ...items,
+      makeItem({
+        id: "4",
+        title: "GitHub Advanced Security expands trial availability",
+        category: "github",
+        githubTopic: "advanced-security",
+        publishedAt: "2026-03-03T00:00:00.000Z", // in-week
+      }),
+      makeItem({
+        id: "5",
+        title: "GitHub Copilot CLI release notes",
+        category: "github",
+        githubTopic: "copilot",
+        publishedAt: "2026-03-03T00:00:00.000Z", // in-week
+      }),
+    ];
+    const result = queryNewsItems(
+      withGhas,
+      { category: "security" },
+      reference,
+    );
+    expect(result.map((i) => i.id)).toEqual(["4"]);
+  });
+
   it("filters by githubTopic", () => {
     const result = queryNewsItems(
       items,
@@ -61,6 +87,33 @@ describe("queryNewsItems", () => {
     );
     expect(result).toHaveLength(1);
     expect(result[0].id).toBe("2");
+  });
+
+  it("filters by tag, case-insensitively, across any category", () => {
+    const withTags = [
+      ...items,
+      makeItem({
+        id: "6",
+        title: "Microsoft earnings report",
+        category: "industry",
+        tags: ["Microsoft"],
+        publishedAt: "2026-03-03T00:00:00.000Z", // in-week
+      }),
+      makeItem({
+        id: "7",
+        title: "Azure AI update",
+        category: "developer-tools",
+        tags: ["microsoft"],
+        publishedAt: "2026-03-03T00:00:00.000Z", // in-week
+      }),
+    ];
+    const result = queryNewsItems(withTags, { tag: "microsoft" }, reference);
+    expect(result.map((i) => i.id).sort()).toEqual(["6", "7"]);
+    expect(
+      queryNewsItems(withTags, { tag: "MICROSOFT" }, reference).map(
+        (i) => i.id,
+      ),
+    ).toEqual(result.map((i) => i.id));
   });
 
   it("filters by free-text search across title", () => {

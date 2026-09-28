@@ -4,8 +4,28 @@ import { filterByDateRange } from "./dateRange";
 export interface NewsQueryParams {
   category?: Category;
   githubTopic?: GithubTopic;
+  /** Filters to items whose `tags` array includes this value (case-insensitive). */
+  tag?: string;
   q?: string;
   range?: DateRange;
+}
+
+/**
+ * Matches an item against a top-level category filter. The "security"
+ * bucket additionally surfaces GitHub Advanced Security coverage (CodeQL,
+ * Dependabot, secret scanning, etc.) even though those items are also
+ * tagged `category: "github"` so they keep appearing on the GitHub page —
+ * security-focused readers on the home page shouldn't have to know that
+ * GHAS content technically lives under the GitHub category to find it.
+ */
+function matchesCategory(item: NewsItem, category: Category): boolean {
+  if (category === "security") {
+    return (
+      item.category === "security" ||
+      (item.category === "github" && item.githubTopic === "advanced-security")
+    );
+  }
+  return item.category === category;
 }
 
 /** Simple, dependency-free full-text match across title/summary/source/tags. */
@@ -34,10 +54,16 @@ export function queryNewsItems(
   let results = filterByDateRange(items, range, reference);
 
   if (params.category) {
-    results = results.filter((item) => item.category === params.category);
+    results = results.filter((item) => matchesCategory(item, params.category!));
   }
   if (params.githubTopic) {
     results = results.filter((item) => item.githubTopic === params.githubTopic);
+  }
+  if (params.tag) {
+    const needle = params.tag.toLowerCase();
+    results = results.filter((item) =>
+      item.tags.some((tag) => tag.toLowerCase() === needle),
+    );
   }
   if (params.q) {
     results = results.filter((item) => matchesQuery(item, params.q!));

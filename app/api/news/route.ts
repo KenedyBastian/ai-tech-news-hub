@@ -35,6 +35,7 @@ export async function GET(request: Request) {
     const payload = buildNewsResponse(dataset.items, {
       category: parseCategory(searchParams.get("category")),
       githubTopic: parseGithubTopic(searchParams.get("githubTopic")),
+      tag: searchParams.get("tag")?.slice(0, 60) || undefined,
       q: searchParams.get("q")?.slice(0, 200) || undefined,
       range: parseRange(searchParams.get("range")),
     });

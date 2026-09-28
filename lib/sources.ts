@@ -7,6 +7,8 @@ export interface FeedSource {
   feedUrl: string;
   category: Category;
   type: "rss";
+  /** Optional freeform tags (e.g. "microsoft") used for cross-category filtering. */
+  tags?: string[];
 }
 
 export interface GithubReleaseSource {
@@ -50,6 +52,7 @@ export const FEED_SOURCES: FeedSource[] = [
     feedUrl: "https://news.microsoft.com/source/topics/ai/feed/",
     category: "ai",
     type: "rss",
+    tags: ["microsoft"],
   },
   {
     id: "huggingface-blog",
@@ -116,6 +119,42 @@ export const FEED_SOURCES: FeedSource[] = [
     feedUrl: "https://github.blog/changelog/feed/",
     category: "github",
     type: "rss",
+  },
+  {
+    id: "microsoft-source",
+    name: "Microsoft Source",
+    homepage: "https://news.microsoft.com/source/",
+    feedUrl: "https://news.microsoft.com/source/feed/",
+    category: "industry",
+    type: "rss",
+    tags: ["microsoft"],
+  },
+  {
+    id: "microsoft-official-blog",
+    name: "Official Microsoft Blog",
+    homepage: "https://blogs.microsoft.com/",
+    feedUrl: "https://blogs.microsoft.com/feed/",
+    category: "industry",
+    type: "rss",
+    tags: ["microsoft"],
+  },
+  {
+    id: "azure-blog",
+    name: "Azure Blog",
+    homepage: "https://azure.microsoft.com/en-us/blog/",
+    feedUrl: "https://azure.microsoft.com/en-us/blog/feed/",
+    category: "developer-tools",
+    type: "rss",
+    tags: ["microsoft"],
+  },
+  {
+    id: "microsoft-365-blog",
+    name: "Microsoft 365 Blog",
+    homepage: "https://www.microsoft.com/en-us/microsoft-365/blog/",
+    feedUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/feed/",
+    category: "industry",
+    type: "rss",
+    tags: ["microsoft"],
   },
 ];
 

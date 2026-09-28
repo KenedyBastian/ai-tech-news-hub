@@ -32,17 +32,24 @@ or release notes) — nothing here is paraphrased-only or link-free.
    article.
 2. **GitHub page** (`/github`) — the same experience, locked to GitHub-related
    news and further split into **Copilot**, **Enterprise**, **Advanced
-   Security**, **Platform**, and **Developer updates** sub-topics.
-3. **Ask page** (`/ask`) — a chat-style UI that answers natural-language
+   Security**, **Platform**, and **Developer updates** sub-topics. The home
+   page's "Security" filter also surfaces GitHub Advanced Security items
+   (CodeQL, Dependabot, secret scanning) even though they're tagged under
+   the GitHub category.
+3. **Microsoft page** (`/microsoft`) — company-wide Microsoft news (AI
+   research/product announcements, the Official Microsoft Blog, Azure, and
+   Microsoft 365), sourced straight from Microsoft's own official blogs and
+   tagged `microsoft` for cross-category filtering independent of topic.
+4. **Ask page** (`/ask`) — a chat-style UI that answers natural-language
    questions about the collected news using the official
    [`@copilot-extensions/preview-sdk`](https://www.npmjs.com/package/@copilot-extensions/preview-sdk),
    grounded in the locally-collected dataset with numbered `[n]` source
    citations. See [Ask page setup](#ask-page-github-copilot-integration).
-4. **Resources page** (`/resources`) — curated, hand-picked GitHub
+5. **Resources page** (`/resources`) — curated, hand-picked GitHub
    repositories across AI learning, developer tools & agents, LLM apps,
    security, and platform engineering, enriched with live star counts and
    topics fetched from the GitHub API.
-5. **Automated daily freshness** — a scheduled GitHub Actions workflow
+6. **Automated daily freshness** — a scheduled GitHub Actions workflow
    re-runs the ingestion pipeline every day and commits any changes straight
    back to `main`, so the site's data is never more than a day stale. See
    [Data pipeline & daily refresh](#data-pipeline--daily-refresh).
@@ -125,9 +132,12 @@ scripts/fetch-resource-metadata.ts -> data/resources.json
 
 `npm run ingest`:
 
-1. Fetches every allowlisted source in parallel: 9 AI/tech RSS/Atom feeds +
-   2 GitHub blog/changelog feeds (`lib/sources.ts` → `FEED_SOURCES`), and 3
-   GitHub repos' Releases via the GitHub REST API (`GITHUB_RELEASE_SOURCES`).
+1. Fetches every allowlisted source in parallel: 9 AI/tech RSS/Atom feeds, 2
+   GitHub blog/changelog feeds, and 4 Microsoft company blogs (`lib/sources.ts`
+   → `FEED_SOURCES`), and 3 GitHub repos' Releases via the GitHub REST API
+   (`GITHUB_RELEASE_SOURCES`). Microsoft-sourced feeds are additionally
+   tagged `"microsoft"` so `/microsoft` can filter across categories (AI,
+   Developer Tools, Industry) regardless of topic.
    **Only hosts in this allowlist are ever fetched** — `assertAllowedHost()`
    throws on anything else, so there is no arbitrary/user-supplied URL
    fetching (mitigates SSRF).
