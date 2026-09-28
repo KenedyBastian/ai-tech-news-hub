@@ -1,8 +1,110 @@
 {
-  "generatedAt": "2026-09-27T11:26:47.845Z",
+  "generatedAt": "2026-09-28T12:58:21.917Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "dbfbdf57792c8639cd34b81d97e3b18cb162e28d",
+      "title": "GitHub Copilot CLI v1.0.89-6",
+      "summary": "**Improved** - PR creation now follows repository pull request templates, preserving required sections and checklist structure. - Configure automatic indexed search activation with TGREP_FILE_COUNT_THRESHOLD **Fixed** - Shell output no…",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.89-6",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-09-28T11:54:47.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "ca6d89c27fc0a2e0cd8211dc2490e8ea6edf75cf",
+      "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+      "summary": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
+      "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs",
+      "source": "Ars Technica — AI",
+      "sourceUrl": "https://arstechnica.com/ai/",
+      "publishedAt": "2026-09-28T11:00:09.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "9552195c964ddb7b23252953cea23af16e9f5c33",
+      "title": "Holo4: powering generalist computer-use agents",
+      "summary": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog",
+      "publishedAt": "2026-09-28T09:44:05.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "7361429108c2800377635e85a22175dbbbbbb496",
+      "title": "Who’s liable when AI agents go rogue?",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI…",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue",
+      "source": "MIT Technology Review — AI",
+      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "publishedAt": "2026-09-28T08:06:22.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "9c14e3f084274fca9ea2568bc4f77a18c118b430",
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-09-27T20:46:36.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "63f85032962dd035e0cf920422c778959b7cfa10",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-27T20:34:28.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "80032e73c06a7a2ae8731dcd62c6bc96a4de271d",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-27T19:57:30.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "ed2cbcca51ab9ede81af9f405ffd3dec46bf0c5b",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "summary": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-09-27T17:21:07.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "39e6d83733f34b5b3da60c069adc5d5c47def3ac",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-09-27T16:30:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "382a9edd6bdb594bc2e61890d4b8453dda087b8c",
       "title": "GitHub Copilot CLI v1.0.89-5",
@@ -425,17 +527,6 @@
       "tags": []
     },
     {
-      "id": "4fb7b8b01cde5062c120610e180ca087d14eba73",
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
-      "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-25T15:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "651aa80e0d5fd68cd4445fc855aedff730cb3b2d",
       "title": "Improving site performance by shipping more CSS",
       "summary": "How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog.",
@@ -445,28 +536,6 @@
       "publishedAt": "2026-09-25T15:00:00.000Z",
       "category": "github",
       "githubTopic": "developer-updates",
-      "tags": []
-    },
-    {
-      "id": "c6b6939f433ad3fc9f84d47c1b36319d47058382",
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-25T14:15:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "2bd068ea01ebb30577aa5c868d787b0442790c65",
-      "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-      "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
-      "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-25T14:00:00.000Z",
-      "category": "ai",
       "tags": []
     },
     {
@@ -620,28 +689,6 @@
       "source": "Ars Technica — AI",
       "sourceUrl": "https://arstechnica.com/ai/",
       "publishedAt": "2026-09-24T18:20:58.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "3ab9cbba8c0d8bf467824e77dc60d0dde621134c",
-      "title": "Jensen Huang talks about AI and climate change like a supervillain",
-      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The…",
-      "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-24T18:04:44.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "18e7444965179a134bbddfa0b5c803f3ed27577f",
-      "title": "Meta is going to let you build games with AI right on your phone",
-      "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a…",
-      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-24T17:52:29.000Z",
       "category": "ai",
       "tags": []
     },
@@ -1160,17 +1207,6 @@
       ]
     },
     {
-      "id": "69455969e5fdb2ac8d93f31813ab85196a9fe621",
-      "title": "Google confirms Gemini models hacked three companies in May 2026",
-      "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
-      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026",
-      "source": "Ars Technica — AI",
-      "sourceUrl": "https://arstechnica.com/ai/",
-      "publishedAt": "2026-09-21T16:57:26.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "00c0e66727a34cf4acdc1eb1f939351585450788",
       "title": "GitHub Copilot CLI v1.0.87",
       "summary": "2026-09-21 - Add user and managed startup defaults for the Auto routing tier, including strict and user-overridable organization policy - Consecutive steering prompts in the same mode combine into one pending message. Press Up in an empty…",
@@ -1440,17 +1476,6 @@
       ]
     },
     {
-      "id": "82986f89daa50c1251107c00018fa2a707cda629",
-      "title": "Building the materials foundation for AI",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are…",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai",
-      "source": "MIT Technology Review — AI",
-      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "publishedAt": "2026-09-16T12:47:34.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "88fd2194c9911afbb3a8992ae633ce3664ef7ed2",
       "title": "GitHub Copilot CLI v1.0.85",
       "summary": "2026-09-16 - Vim mode is now available to everyone. Turn it on with `/vim` or by setting `editorMode` to `vim` for modal editing in the composer, with the current mode shown while you type. - Add /settings options to opt in to context…",
@@ -1551,20 +1576,6 @@
       "source": "GitHub Copilot CLI Releases",
       "sourceUrl": "https://github.com/github/copilot-cli/releases",
       "publishedAt": "2026-09-15T00:45:10.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
-    },
-    {
-      "id": "e81326d891cd19b79b87d817a7563d4d781fddb1",
-      "title": "GitHub Copilot CLI v1.0.84-7",
-      "summary": "**Fixed** - Fixed the thinking shape sent to Claude models classified as adaptive-only: they now stay adaptive instead of failing (turning thinking off lowers reasoning effort instead), and reasoning effort is capped at high whenever…",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.84-7",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-09-14T22:37:23.000Z",
       "category": "github",
       "githubTopic": "copilot",
       "tags": [
@@ -1893,17 +1904,6 @@
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog",
       "publishedAt": "2026-08-25T15:14:14.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "f6b26e55a4899220c24a609866e904dd44c2f484",
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "summary": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-08-25T11:39:24.000Z",
       "category": "ai",
       "tags": []
     },
