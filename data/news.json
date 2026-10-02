@@ -1,8 +1,430 @@
 {
-  "generatedAt": "2026-10-01T12:29:12.623Z",
+  "generatedAt": "2026-10-02T11:55:32.840Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "78ffcfd0a288af0c6edb296dbfdb05d0e0afe927",
+      "title": "Amazon writes scary blog warning communities not to block data centers",
+      "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public…",
+      "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-02T11:52:20.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "b7dd825032631828fe99a90838126f4e51741db2",
+      "title": "AI music maker Suno now generates spoken words",
+      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-02T09:42:19.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "5a3c2fdeffa274e90a3e36c2455c5db71e3fd623",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some…",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason",
+      "source": "MIT Technology Review — AI",
+      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "publishedAt": "2026-10-02T08:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "a885ed61f54a415a08d1866acde4d0ebc6368a44",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "summary": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog",
+      "publishedAt": "2026-10-02T04:01:31.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "c8e64f1b4654171c95cc7b33679307ec551a5949",
+      "title": "GitHub Copilot CLI v1.0.92-0",
+      "summary": "**Fixed** - MCP tools continue working after OAuth reauthentication when tool definitions are unchanged",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.92-0",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-10-01T21:49:15.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "578143be7e8fa1a05984c6533ed15e837ff0785c",
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-01T21:08:11.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "de0a1dfa7625500ae17f350e27bef87cf080ad6f",
+      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+      "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
+      "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge",
+      "source": "Ars Technica — AI",
+      "sourceUrl": "https://arstechnica.com/ai/",
+      "publishedAt": "2026-10-01T20:11:55.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "65858f5c8d43ef7c35772b36f451d547e361dab2",
+      "title": "Rate limits for private vulnerability reports",
+      "summary": "Open source maintainers are receiving more low-quality and automated vulnerability reports, which can bury the reports that matter. Rate limits cap how many new reports a single account can submit… The post Rate limits for private…",
+      "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-10-01T19:57:39.000Z",
+      "category": "github",
+      "githubTopic": "developer-updates",
+      "tags": []
+    },
+    {
+      "id": "eebe7e321dec6932244806ce24c4257891c7a2df",
+      "title": "Structured forms for private vulnerability reports",
+      "summary": "Private vulnerability reports can now use a structured form that asks reporters for the details you need to assess a vulnerability, including a reproducible proof of concept. A single free-text… The post Structured forms for private…",
+      "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-10-01T19:57:28.000Z",
+      "category": "github",
+      "githubTopic": "developer-updates",
+      "tags": []
+    },
+    {
+      "id": "c2e280cb224968cc6746dbdbffff3b4d1e7e4250",
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-01T19:47:51.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "9b59a27765f56de337333415d9c097d08cf728b2",
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-01T19:21:53.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "a7b14ae6edaba8ced7d27f25862a3d139c4cebea",
+      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+      "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-01T19:18:03.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "819b8b6c47de688410142580f4254fb0d979493d",
+      "title": "GitHub Copilot can now interact with desktop apps with computer use",
+      "summary": "Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows. Copilot can interact with desktop applications on your behalf… The post GitHub Copilot can now interact with desktop…",
+      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-10-01T19:11:26.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": []
+    },
+    {
+      "id": "c0216d3311cd91f8c93983007fd248b79d8b5bb5",
+      "title": "GitHub Actions: macOS 14 runner image retirement",
+      "summary": "The macOS 14 runner image will be retired on November 2, 2026. To raise awareness of the upcoming removal, jobs using macOS 14 will temporarily fail during the following scheduled… The post GitHub Actions: macOS 14 runner image retirement…",
+      "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-10-01T19:11:23.000Z",
+      "category": "github",
+      "githubTopic": "platform",
+      "tags": []
+    },
+    {
+      "id": "b33dfcad9023c0fa3a86c1635dde0f4e26a2ec8a",
+      "title": "GitHub Copilot in VS Code, September 2026 releases",
+      "summary": "This changelog covers VS Code v1.136 through v1.140, shipped throughout September 2026. September’s releases streamline agent-driven development from implementation through pull request merge. Automations handle repeatable tasks, agent…",
+      "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-10-01T19:09:10.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": []
+    },
+    {
+      "id": "1d7c1228c8394a82751ea6045f734994407eb039",
+      "title": "Accessibility statements highlighted on repository overview",
+      "summary": "You can now find an ACCESSIBILITY.md file in your repository’s root, the .github/ directory, or the docs/ directory highlighted on the repository overview. You can also add or propose an… The post Accessibility statements highlighted on…",
+      "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-10-01T19:04:32.000Z",
+      "category": "github",
+      "githubTopic": "developer-updates",
+      "tags": []
+    },
+    {
+      "id": "3f1d1537d7c462ddc02a0d2bf434da62455c9b5f",
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-01T18:14:42.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "11541a89b22fb335b07c3eb3e69fc040e2a824fc",
+      "title": "Actions retention now covers checks, runs, and statuses",
+      "summary": "As previously announced, checks, workflow runs, and statuses are now governed by the same GitHub Actions retention setting that controls how long artifacts and logs are kept. These records are… The post Actions retention now covers checks,…",
+      "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-10-01T17:59:54.000Z",
+      "category": "github",
+      "githubTopic": "platform",
+      "tags": []
+    },
+    {
+      "id": "eddd6741471d31064fc2492bbbcfeea803a9e701",
+      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+      "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-01T17:50:19.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "15f2d39dedc3db38a74c32729cf8d1e000f62843",
+      "title": "GitHub Copilot CLI v1.0.91",
+      "summary": "2026-10-01 - Add `copilot sandbox ca` commands to check, create, trust, rotate, and remove proxy CA trust, including unattended Windows setup; `/sandbox ca install` becomes `create` and `trust` - Session timelines now clear busy status…",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.91",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-10-01T17:25:02.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": []
+    },
+    {
+      "id": "e7f973146b85fb7cf3215ddab48da177dd3b7186",
+      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier…",
+      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-01T17:12:21.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "7e67b43cf9d0e609b77c8416e1333d34aa00dfc5",
+      "title": "The eternal complement",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news",
+      "publishedAt": "2026-10-01T17:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "0fbb393ce28bd5450f7c920699bb687cc20071b6",
+      "title": "Amazon releases its own Jev clone as decision models flood the web",
+      "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-01T16:49:22.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "baa9bc568213524e2e208ab73ab5c72baa4bfec7",
+      "title": "Scheduled code scanning skips inactive repositories",
+      "summary": "Weekly scheduled scans for code scanning default setup and GitHub Code Quality now start only after a push or pull request triggers an analysis, rather than counting every kind of… The post Scheduled code scanning skips inactive…",
+      "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-10-01T16:49:15.000Z",
+      "category": "github",
+      "githubTopic": "developer-updates",
+      "tags": []
+    },
+    {
+      "id": "e9f82fa2258966d5c177d037a2dfed5a0a50e055",
+      "title": "Code coverage uploads no longer fail CI for new branches",
+      "summary": "Code coverage uploads from the GitHub Code Quality upload-code-coverage action no longer fail CI when you push a branch that doesn’t yet have an open pull request. Previously, the coverage… The post Code coverage uploads no longer fail CI…",
+      "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-10-01T16:49:05.000Z",
+      "category": "github",
+      "githubTopic": "developer-updates",
+      "tags": []
+    },
+    {
+      "id": "d942622639872359b96c0674f1bc489b339f520e",
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-01T16:44:35.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "90b9985c3923e4209fbd5d922657500b55069c4a",
+      "title": "Dynamic workflows in Copilot CLI and the Copilot app",
+      "summary": "Dynamic workflows are now available in Copilot CLI, the GitHub Copilot app, and the GitHub Copilot SDK. These let you define an orchestration in code to get the reliability and… The post Dynamic workflows in Copilot CLI and the Copilot app…",
+      "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-10-01T16:30:10.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": []
+    },
+    {
+      "id": "f52e74133e2d25d6d706b167a088a0d71f74e510",
+      "title": "With most information hidden, the game Stratego had stumped AI—until now",
+      "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
+      "source": "Ars Technica — AI",
+      "sourceUrl": "https://arstechnica.com/ai/",
+      "publishedAt": "2026-10-01T16:28:04.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "a80484c2d5849bdb14051812d38a301cb6633866",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news",
+      "publishedAt": "2026-10-01T16:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "0d142c0352b5ec86d6b664ba80bc0f63675cc2d1",
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-01T15:12:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "8e0951c2b255f0f20bad61fed648a557fa2e49d0",
+      "title": "10 technical talks I’m excited about at GitHub Universe 2026",
+      "summary": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog.",
+      "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026",
+      "source": "The GitHub Blog",
+      "sourceUrl": "https://github.blog/",
+      "publishedAt": "2026-10-01T15:07:16.000Z",
+      "category": "github",
+      "githubTopic": "developer-updates",
+      "tags": []
+    },
+    {
+      "id": "0bf00b70dbd762e2fc6e7d79a9e93a081692953e",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "summary": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog",
+      "publishedAt": "2026-10-01T15:01:43.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "9c6f1560c6228e1aff9a176fc12a34e872d8d81a",
+      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+      "summary": "A pop-up shop for \"dots,\" a personal assistant agent at OpenAI DevDay 2026. (Photo by Heather Diehl/Getty Images) | Getty Images At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals -…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-01T14:36:50.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "adb45e048c1df812a3916603d380e166da30e1fc",
+      "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+      "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine…",
+      "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-01T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "2781adb3b1564d1c49dbd07bc365c33b5c81443d",
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-01T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "8823ad0e46f1639021fec485dbee292cf07f22a2",
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-01T13:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "29fe7c1feed5d88a928312f33d3768e1d2dc2610",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "dfb3c56596b018d5fc381a3ee319a646bf8db120",
       "title": "GitHub Copilot CLI v1.0.91-1",
@@ -25,6 +447,17 @@
       "source": "The Verge — AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
       "publishedAt": "2026-10-01T00:23:45.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "3bba5275857381087ca5e9d0745fc3327926be77",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "url": "https://openai.com/index/the-den-family-social",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
       "category": "ai",
       "tags": []
     },
@@ -74,18 +507,6 @@
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "publishedAt": "2026-09-30T21:07:40.000Z",
       "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "d12535d4e632cc55bbe5465938a223fb21d19b5e",
-      "title": "Opt-in dist-tag permissions for npm trusted publishing",
-      "summary": "Trusted publishing configurations for npm can now be granted permission to manage dist-tags (e.g., promoting a version to latest, updating next and beta pointers) using short-lived OIDC credentials instead of… The post Opt-in dist-tag…",
-      "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-09-30T21:03:09.000Z",
-      "category": "github",
-      "githubTopic": "developer-updates",
       "tags": []
     },
     {
@@ -224,18 +645,6 @@
       "tags": []
     },
     {
-      "id": "6caab1facf6a259cda3cf147db15aeea3dd8957f",
-      "title": "GitHub Advanced Security trials for GitHub Team",
-      "summary": "GitHub Team customers can now start self-serve trials of GitHub Advanced Security to evaluate GitHub Code Security and GitHub Secret Protection. Start a trial from your organization’s Overview page, Billing… The post GitHub Advanced…",
-      "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-09-30T16:48:24.000Z",
-      "category": "github",
-      "githubTopic": "advanced-security",
-      "tags": []
-    },
-    {
       "id": "81eaed43ffddf7dfa521ee4fa231242885c507a5",
       "title": "Meta disputes claim that Muse read a user’s private messages without permission",
       "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
@@ -269,28 +678,6 @@
       "tags": []
     },
     {
-      "id": "0412d9fdec7ac5ac73676c8667115c13bbd33470",
-      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-      "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
-      "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-30T16:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "c85f3b83480500fea71ddb4769cc3fd42ec24c92",
-      "title": "Instinct’s new product recommendations are giving some users the ick",
-      "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
-      "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-30T15:56:28.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "7abd4d2d77e4231c1b1c8d0904ddcc86d0c8d48d",
       "title": "Google figures out how to watermark AI-designed proteins",
       "summary": "Intended to help with biosecurity, it works with a popular AI protein design tool.",
@@ -316,84 +703,6 @@
       ]
     },
     {
-      "id": "1c9685f8d86dfe8f8d093c9a27ee7f65a10d97be",
-      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
-      "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-30T15:18:49.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "445d1099f6799085254ca8e865e841e4a403c66e",
-      "title": "Google reportedly tests paying publishers for AI search results",
-      "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as Google…",
-      "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-30T14:51:49.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "40e72bec9edf62fed0667b46cb17d5609c9e870d",
-      "title": "HydraFusion in VS Code and the GitHub Copilot app",
-      "summary": "The HydraFusion research preview is now available in Visual Studio Code and the GitHub Copilot app, expanding beyond Copilot CLI. HydraFusion appears in the model picker, but rather than being… The post HydraFusion in VS Code and the…",
-      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-09-30T14:31:19.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": []
-    },
-    {
-      "id": "0f203ce721db6c0318d56e6b7e9c88b6cf4c7be1",
-      "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
-      "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that…",
-      "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-30T14:30:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "3ea2f448655401774edbef7c09b4433c22c445fb",
-      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if…",
-      "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-30T14:30:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "3b382bc8ae7f7b67d267e25d1e6b427f1026a860",
-      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-      "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
-      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-30T14:27:11.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "998c2e1e6c852588728815119dc86d2fbe3ca08b",
-      "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
-      "summary": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
-      "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-30T14:15:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "4896f88e92a8d8e02f5f0210bdc53e2fd662ef1a",
       "title": "OpenAI delays IPO over AI safety concerns",
       "summary": "OpenAI is seeking another $30 billion privately as its IPO plans slip.",
@@ -401,40 +710,6 @@
       "source": "Ars Technica — AI",
       "sourceUrl": "https://arstechnica.com/ai/",
       "publishedAt": "2026-09-30T14:06:15.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "5294bab58d741c00f5498d606445961e4ee8a4b4",
-      "title": "X25519-only TLS ends for GHE.com on October 7",
-      "summary": "Beginning October 7, 2026, GitHub Enterprise Cloud with data residency will no longer accept TLS connections from clients that offer only X25519 for key agreement. Most customers don’t need to… The post X25519-only TLS ends for GHE.com on…",
-      "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-09-30T13:30:24.000Z",
-      "category": "github",
-      "githubTopic": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2104d195eeaa747cb637da3cf1b34d806aef903a",
-      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-      "summary": "Anyone else getting “The Last Supper” vibes from this photo taken at the White House tech gathering? | Photographer: Tierney L. Cross/The Washington Post/Bloomberg via Getty Images We now have the full details of the \"morally binding\" AI…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-30T12:24:32.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "fde712815d5c80e5b4ff0b4ec3342d0d5661dacc",
-      "title": "Airbnb adds AI search, more social features",
-      "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
-      "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-30T12:00:00.000Z",
       "category": "ai",
       "tags": []
     },
@@ -484,17 +759,6 @@
       "tags": []
     },
     {
-      "id": "1eb6183d721b63e029368ddfeef29653214a0525",
-      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-30T00:19:13.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "581ab3112c302ffee7a7a715c8364c4f103870c2",
       "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
       "summary": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
@@ -502,39 +766,6 @@
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog",
       "publishedAt": "2026-09-30T00:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "91a3f4f5da3a97b433d8707ca4f502b52b0a93c6",
-      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-      "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-29T23:30:55.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "719d3195b24b8f323feddcde5318400d8df8e7f7",
-      "title": "Trump orders US government to call AI ‘Super Intelligence’",
-      "summary": "Image: Carolyn Van Houten / The Washington Post via Getty Images The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases…",
-      "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-09-29T22:25:45.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "8000c8f00f46ee6273a4807791943d1cad862258",
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-29T22:20:59.000Z",
       "category": "ai",
       "tags": []
     },
@@ -575,63 +806,6 @@
       "tags": []
     },
     {
-      "id": "d219cdb2cc726b7857ab746b7139150139947e07",
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-29T20:15:47.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "9ce258e5a60bddaec24aed99fd17482c78993c77",
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-29T19:52:37.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "20a277bbad04459bfe29100a67412e925798f09d",
-      "title": "Repository custom runner settings for Dependabot",
-      "summary": "As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already… The post Repository custom…",
-      "url": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-09-29T19:10:00.000Z",
-      "category": "github",
-      "githubTopic": "advanced-security",
-      "tags": []
-    },
-    {
-      "id": "58ff7a58d9c6ae2d95f77807a95385f1bcd16dfe",
-      "title": "Bring business context with external custom properties",
-      "summary": "You can now seamlessly bring business context about your repositories from an external system of record (e.g., a configuration management database (CMDB), an internal developer portal, or an in-house system)… The post Bring business…",
-      "url": "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-09-29T18:40:27.000Z",
-      "category": "github",
-      "githubTopic": "developer-updates",
-      "tags": []
-    },
-    {
-      "id": "dd9b71cbd3849c4778b9de7fde6eb56019ff7e0d",
-      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-09-29T18:35:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "429adf6040df29d1ea4aa2b3a4d6b65687e366ef",
       "title": "GitHub Copilot CLI v1.0.90-4",
       "summary": "**Fixed** - A fresh launch no longer prints \"Failed to read model provider attribution\" errors while it signs in",
@@ -654,18 +828,6 @@
       "sourceUrl": "https://arstechnica.com/ai/",
       "publishedAt": "2026-09-29T18:11:09.000Z",
       "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "9be84db4b5c5e0b5c90669ccf1918cfcba14370e",
-      "title": "GPT-6.1 Sol in GitHub Copilot",
-      "summary": "GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep… The post GPT-6.1 Sol in GitHub Copilot appeared first…",
-      "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-09-29T17:02:27.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
       "tags": []
     },
     {
@@ -869,18 +1031,6 @@
       "tags": []
     },
     {
-      "id": "ace69cc3aaa0fb1ca3294fb0251302f72ff3e2a3",
-      "title": "Self-hosted runner version enforcement date has moved",
-      "summary": "The enforcement date for GitHub Actions minimum version requirements for self-hosted runners on GitHub Enterprise Cloud has changed. The change ships Monday, September 28, 2026, and full enforcement now begins… The post Self-hosted runner…",
-      "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-09-28T19:22:46.000Z",
-      "category": "github",
-      "githubTopic": "enterprise",
-      "tags": []
-    },
-    {
       "id": "2072028ad1ef8d2a09219a294e53357714ed31bd",
       "title": "GitHub Copilot CLI v1.0.89",
       "summary": "2026-09-28 - Left-clicking supported ask_user and elicitation form inputs focuses them and places the cursor at the clicked position - Add support for Claude Code rule files in .claude/rules as custom instructions - Sessions in the sidebar…",
@@ -935,18 +1085,6 @@
       "publishedAt": "2026-09-28T19:00:00.000Z",
       "category": "github",
       "githubTopic": "advanced-security",
-      "tags": []
-    },
-    {
-      "id": "c579283ea8d7513f350419882e4fe9817cdde6d9",
-      "title": "Claude Sonnet 5.5 in GitHub Copilot",
-      "summary": "Claude Sonnet 5.5, Anthropic’s newest Sonnet model, is now generally available in GitHub Copilot. It is designed for well-scoped everyday work like building features and fixing bugs. In our early… The post Claude Sonnet 5.5 in GitHub…",
-      "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-09-28T18:03:57.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
       "tags": []
     },
     {
@@ -1092,18 +1230,6 @@
       ]
     },
     {
-      "id": "123d8dcecccf6e9074c8a555dc6412eb6c4a77ac",
-      "title": "Enterprise managed settings in-product validator",
-      "summary": "You can now use an in-product validator for enterprise managed settings for GitHub Copilot. The validator detects malformed JSON, unsupported configurations, invalid team mappings, and other errors that can prevent… The post Enterprise…",
-      "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-09-25T23:24:57.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": []
-    },
-    {
       "id": "26c3af8439861c7fccf4a2d97fa62eeb1e232a2c",
       "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
       "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
@@ -1127,28 +1253,6 @@
       "tags": [
         "prerelease"
       ]
-    },
-    {
-      "id": "be11f7d1d629dcf0a0e5b7ef245b31aba61c1f73",
-      "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-      "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
-      "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements",
-      "source": "Ars Technica — AI",
-      "sourceUrl": "https://arstechnica.com/ai/",
-      "publishedAt": "2026-09-25T21:10:51.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "8479eb8c7ebf94355658e2ee0d214648ddc4422a",
-      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-      "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”",
-      "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise",
-      "source": "Ars Technica — AI",
-      "sourceUrl": "https://arstechnica.com/ai/",
-      "publishedAt": "2026-09-25T19:11:05.000Z",
-      "category": "ai",
-      "tags": []
     },
     {
       "id": "d2d497e5eee41848c95c5b8ff6ce37155518b6a0",
@@ -1260,20 +1364,6 @@
       "tags": []
     },
     {
-      "id": "4ec5b63ace744194b0390b7f33fc1cdbb1cf70ce",
-      "title": "GitHub Copilot CLI v1.0.89-1",
-      "summary": "**Added** - Add GPT-6 Sol and GPT-6 Luna to the model picker when available **Fixed** - View tool honors line ranges when providers send flattened view_range arguments - In local sessions, Up in an empty chat input recalls the pending…",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.89-1",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-09-23T19:56:06.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
-    },
-    {
       "id": "f629750b18d164a9b64e87ff08e348d838e3bbbd",
       "title": "Rendering huge pull requests in the GitHub Copilot app",
       "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog.",
@@ -1331,6 +1421,28 @@
       "tags": []
     },
     {
+      "id": "f7558dc5c9de5bb5fdc77d93f9ea026683eaa31f",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news",
+      "publishedAt": "2026-09-23T12:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "01d4e543c9419cead77e21595bfd0d3a6b2682b8",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news",
+      "publishedAt": "2026-09-23T12:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
       "id": "7357353a1f1d61a65439dd9d37ded36b9953529a",
       "title": "How invideo improves color grading 3x with GPT‑6 Astra",
       "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
@@ -1353,39 +1465,6 @@
       "tags": []
     },
     {
-      "id": "01d4e543c9419cead77e21595bfd0d3a6b2682b8",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news",
-      "publishedAt": "2026-09-23T12:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "f7558dc5c9de5bb5fdc77d93f9ea026683eaa31f",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news",
-      "publishedAt": "2026-09-23T12:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "1d5a9cc2d9509da81910cada203eb369287e9e13",
-      "title": "Introducing MentalHealthBench",
-      "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-      "url": "https://openai.com/index/introducing-mentalhealthbench",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news",
-      "publishedAt": "2026-09-23T10:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "fda44b10a27a14c71706cb4115e56d5aa99475bf",
       "title": "The AI Hype Index: AI loves cheating",
       "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’…",
@@ -1395,42 +1474,6 @@
       "publishedAt": "2026-09-23T09:00:00.000Z",
       "category": "ai",
       "tags": []
-    },
-    {
-      "id": "1dd9ce125c6e0e6007fa40c2f3cbd36d227c92c3",
-      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-      "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
-      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news",
-      "publishedAt": "2026-09-23T02:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "73fafdf6f45f6a4122d4bc25473c2af16ea942de",
-      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-      "url": "https://openai.com/index/airbnb-gpt-6-astra",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news",
-      "publishedAt": "2026-09-23T01:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "bd65ce6d26cd7d5e23e0ce58589dfb3039cd28ec",
-      "title": "GitHub Copilot CLI v1.0.89-0",
-      "summary": "**Added** - Adding support for claude-opus-5.5 **Improved** - Show managed Connector consent progress with a copyable authorization URL during connect and reconnect.",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.89-0",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-09-22T22:08:02.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
     },
     {
       "id": "26edbc0760d0e2f80763f239616e826081f4958c",
@@ -1500,17 +1543,6 @@
       "tags": []
     },
     {
-      "id": "f19c641f8d577f8cf150174fb04961ef6b9432d0",
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked…",
-      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations",
-      "source": "MIT Technology Review — AI",
-      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "publishedAt": "2026-09-21T12:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "eb792e0fc342008524956ef191d82691e9af6f91",
       "title": "tokenizers v1: encode, decode and scaling, measured",
       "summary": "tokenizers v1: encode, decode and scaling, measured",
@@ -1519,18 +1551,6 @@
       "sourceUrl": "https://huggingface.co/blog",
       "publishedAt": "2026-09-21T00:00:00.000Z",
       "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "55f4720a90e18691e7c1e6a9b20f2d83b2b725bf",
-      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-      "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog.",
-      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-      "source": "The GitHub Blog",
-      "sourceUrl": "https://github.blog/",
-      "publishedAt": "2026-09-18T15:00:00.000Z",
-      "category": "github",
-      "githubTopic": "developer-updates",
       "tags": []
     },
     {
@@ -1868,17 +1888,6 @@
       "tags": []
     },
     {
-      "id": "b0b2c2da12a5bc4520ab6807aa5bac3ea5efd4c6",
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "summary": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-08-28T00:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "38e38808c623ab61887ff14ee29824804157ba3e",
       "title": "3 new ways to plan and book travel in Search",
       "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
@@ -1899,17 +1908,6 @@
       "publishedAt": "2026-08-26T10:44:44.000Z",
       "category": "github",
       "githubTopic": "advanced-security",
-      "tags": []
-    },
-    {
-      "id": "5309d96554639301b1996d3730666d030e2a3850",
-      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "summary": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "category": "ai",
       "tags": []
     },
     {
