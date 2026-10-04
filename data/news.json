@@ -1,8 +1,85 @@
 {
-  "generatedAt": "2026-10-03T11:08:34.090Z",
+  "generatedAt": "2026-10-04T11:48:52.247Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "89764eae00994ca8ac3f14f46dfe626a5f9aca4b",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "summary": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog",
+      "publishedAt": "2026-10-03T22:56:48.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "d442265d45586f0c44757e18d65ce306946b900b",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-03T18:43:57.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "f1c80105d2f2cb39d33f6c89482573cab68285dc",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title:…",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-03T16:49:10.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "f143fce070e10faaa5ef865cec65fdaa7c95016b",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-03T16:30:01.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "2b2053e0bc6be5dfbae91d50696563545628bfd2",
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina…",
+      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-03T15:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "91c2390ce603b2e9cae996744deb8751df70c722",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-03T14:31:56.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "9a415d111d44405a79b67e4c2dd40c1054baf249",
+      "title": "All the AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-03T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "2d915e86c2608ecf7dcc47858b36cc9749d1a62f",
       "title": "Meta wants your next gadget to be Muse-infused",
@@ -416,17 +493,6 @@
       "tags": []
     },
     {
-      "id": "b7dd825032631828fe99a90838126f4e51741db2",
-      "title": "AI music maker Suno now generates spoken words",
-      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-02T09:42:19.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "5a3c2fdeffa274e90a3e36c2455c5db71e3fd623",
       "title": "Don’t be fooled—LLMs don’t reason",
       "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some…",
@@ -520,17 +586,6 @@
       "tags": []
     },
     {
-      "id": "c2e280cb224968cc6746dbdbffff3b4d1e7e4250",
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-01T19:47:51.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "9b59a27765f56de337333415d9c097d08cf728b2",
       "title": "ChatGPT can now virtually try on clothes for you",
       "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
@@ -611,17 +666,6 @@
       "tags": []
     },
     {
-      "id": "e7f973146b85fb7cf3215ddab48da177dd3b7186",
-      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier…",
-      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-01T17:12:21.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "7e67b43cf9d0e609b77c8416e1333d34aa00dfc5",
       "title": "The eternal complement",
       "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
@@ -640,17 +684,6 @@
       "source": "TechCrunch — Artificial Intelligence",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "publishedAt": "2026-10-01T16:49:22.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "d942622639872359b96c0674f1bc489b339f520e",
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
-      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-01T16:44:35.000Z",
       "category": "ai",
       "tags": []
     },
@@ -677,17 +710,6 @@
       "tags": []
     },
     {
-      "id": "0d142c0352b5ec86d6b664ba80bc0f63675cc2d1",
-      "title": "Brian Chesky interview: AI agents need their own operating system",
-      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-01T15:12:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "8e0951c2b255f0f20bad61fed648a557fa2e49d0",
       "title": "10 technical talks I’m excited about at GitHub Universe 2026",
       "summary": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog.",
@@ -697,17 +719,6 @@
       "publishedAt": "2026-10-01T15:07:16.000Z",
       "category": "github",
       "githubTopic": "developer-updates",
-      "tags": []
-    },
-    {
-      "id": "2781adb3b1564d1c49dbd07bc365c33b5c81443d",
-      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-01T14:00:00.000Z",
-      "category": "ai",
       "tags": []
     },
     {
@@ -1895,17 +1906,6 @@
       "source": "Google AI Blog",
       "sourceUrl": "https://blog.google/technology/ai/",
       "publishedAt": "2026-09-01T16:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "85562dc16345cc8b5d0432f25d0402929602cb9f",
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "summary": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
       "category": "ai",
       "tags": []
     },
