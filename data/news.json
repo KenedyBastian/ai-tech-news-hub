@@ -1,8 +1,119 @@
 {
-  "generatedAt": "2026-10-10T11:56:52.285Z",
+  "generatedAt": "2026-10-11T12:08:57.893Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "ea95eacbd85b4f832328956f6de32a573596d995",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "summary": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-11T11:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "35dc91695d5dee44c75cb34865ccb277a31d276d",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\"…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-10T22:10:17.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "2c9728d3318bed23628c85911ba40b59de81514d",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-10T21:47:51.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "ac1984a6a99cfe3b964a065d2c4b31be39721b37",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-10T19:50:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "1e0e6608c184d024cb9774c07091d87d0a7b7749",
+      "title": "New controls and chat improvements in Copilot for JetBrains",
+      "summary": "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and… The post New controls and chat…",
+      "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-10-10T18:53:39.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": []
+    },
+    {
+      "id": "e77e9ae83492452b24a8b2a6d55904d4bb38b26a",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a…",
+      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-10T18:52:07.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "7ff5bfb828527993b00ffd83608bbc1780412748",
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to…",
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-10T15:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "0decde66c5ee642f4b2199f4eac556d234595585",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-10T14:41:16.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "92e4233ce3ff40a3c629ce09aa353890954cbb2e",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-10T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "0ea9d786e45ed9d7da0c3486c4801d544a329476",
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-10T13:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "c678247caccfad3dc8d3e412b83fcf147bfb63ab",
       "title": "GitHub Copilot CLI v1.0.96-2",
@@ -306,17 +417,6 @@
       ]
     },
     {
-      "id": "15717a6b7c9a1b047c70cda2f0ac956421670e2d",
-      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-09T09:48:26.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "7771bfdab5372356a10959aefb0d981017b2ac39",
       "title": "We’re putting too much faith in AI’s ability to say no",
       "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience.…",
@@ -403,17 +503,6 @@
       ]
     },
     {
-      "id": "df7e5433800bf1dd9b858dc837a8c701f4429b72",
-      "title": "Anthropic launches free AI security scans for open-source projects",
-      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-08T21:53:51.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "da3ca48318e6b2aeaebc362bb353ee4734fbe2c8",
       "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
       "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
@@ -434,17 +523,6 @@
       "publishedAt": "2026-10-08T20:28:44.000Z",
       "category": "github",
       "githubTopic": "copilot",
-      "tags": []
-    },
-    {
-      "id": "4079389ad67f283ae361ed56cdb0c4bd5fe6ef7d",
-      "title": "California is trying to shut down robot vs. human cage matches",
-      "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a…",
-      "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-08T20:06:56.000Z",
-      "category": "ai",
       "tags": []
     },
     {
@@ -538,39 +616,6 @@
       "tags": []
     },
     {
-      "id": "7cc2fc2bcac39e22936701313a9995370b3f9ab9",
-      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
-      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-08T18:10:55.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "a08ca06c855430228e083a9fb8511ab29bf355b1",
-      "title": "USA Today becomes the latest publisher to sue OpenAI",
-      "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-08T17:58:33.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "0de6ad968814229b6ac469ad484ddd6611a6958d",
-      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
-      "summary": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy, as a Founding Corporate Patron and…",
-      "url": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-08T17:57:01.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "c9f1586e62e4f63222b91b7e37ced2ec45deab12",
       "title": "GitHub Copilot CLI v1.0.94-5",
       "summary": "**Fixed** - copilot mcp add recovers cleanly after interrupted MCP config initialization",
@@ -616,39 +661,6 @@
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-10-08T16:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "d12d77aa7dd535e9a06b2c881d20dca9290e7b76",
-      "title": "Natura’s $99 smart ring puts AI agents on your finger",
-      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
-      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-08T16:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "8f83cc80b2fd131934957512064d0b96e5b23e1e",
-      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks…",
-      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-08T16:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "86cf93ed4e708019efd44b64f2258f4bca3b81ac",
-      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-      "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
-      "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-08T15:00:00.000Z",
       "category": "ai",
       "tags": []
     },
@@ -899,18 +911,6 @@
       "source": "GitHub Changelog",
       "sourceUrl": "https://github.blog/changelog/",
       "publishedAt": "2026-10-07T15:46:17.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": []
-    },
-    {
-      "id": "cfd130b4e19fc9e9b487de83a4379c78fc965065",
-      "title": "Discover local models in GitHub Copilot CLI",
-      "summary": "GitHub Copilot CLI makes it easier to choose a local model without leaving your existing workflow. Starting in CLI version 1.0.94-0, use /model to discover supported models from a running… The post Discover local models in GitHub Copilot…",
-      "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-10-07T15:46:13.000Z",
       "category": "github",
       "githubTopic": "copilot",
       "tags": []
