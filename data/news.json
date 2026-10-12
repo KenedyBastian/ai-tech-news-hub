@@ -1,8 +1,107 @@
 {
-  "generatedAt": "2026-10-11T12:08:57.893Z",
+  "generatedAt": "2026-10-12T14:29:15.608Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "50db4f58bcdc55374e5b5ac49f4d1956589faeca",
+      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+      "summary": "Tomorrow at 8 a.m. PT, it all begins. 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This…",
+      "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-12T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "f35a073890448086210a56d286ed4f1281adabb4",
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "summary": "Microsoft’s Maia 300 chip. | Image: Microsoft Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the…",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-12T13:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "36347ea06c8c5adbfa79b7f20387fad348af705e",
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-12T12:47:59.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "db958e2353fb73d9bfcb0b6ca24f04841bc840c4",
+      "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+      "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
+      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work",
+      "source": "Ars Technica — AI",
+      "sourceUrl": "https://arstechnica.com/ai/",
+      "publishedAt": "2026-10-12T12:43:10.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "7d4e278f0b74844571bb3cf87efa87ac5316d15f",
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-11T21:14:40.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "8d1b5970f0e4c138f22740a6fb37cfd78cddfe2e",
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-11T19:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "7ec8afeed3530ddc09333f75166e0b39d0b19fb3",
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-11T18:33:56.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "df97c62cc773ca8681dae7e4956554b91d53bcca",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-11T16:52:33.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "778ab122b6ef9260b6e465550fb532d73d5724a8",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-11T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "ea95eacbd85b4f832328956f6de32a573596d995",
       "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
@@ -370,28 +469,6 @@
       "tags": []
     },
     {
-      "id": "e0e3889317150e8142bd8dbbb6f6ac51b6c46684",
-      "title": "Trump’s attempt to rename AI is looking awfully artificial",
-      "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media…",
-      "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-09T14:25:43.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "3e04105beca7661b1cfbba2d3daa024b1ca37f41",
-      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
-      "summary": "Instinct’s agent is always just a text away. Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website.…",
-      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-09T14:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "f4ed427af63f587e4c59315518934600d45392e6",
       "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
       "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
@@ -526,17 +603,6 @@
       "tags": []
     },
     {
-      "id": "301544ff1a07499c14f9c3afe5266f0a2f65b9ef",
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-08T20:04:26.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "8eab0c9a25ba0d205e5fb918bceb9959a22a3e83",
       "title": "Copilot code review: New organization billing options and controls",
       "summary": "This release adds new billing and license controls for Copilot code review admins: Billing: Organization owners can bill Copilot code reviews from members with a Copilot license to the organization’s… The post Copilot code review: New…",
@@ -558,61 +624,6 @@
       "publishedAt": "2026-10-08T19:01:42.000Z",
       "category": "github",
       "githubTopic": "developer-updates",
-      "tags": []
-    },
-    {
-      "id": "70543e9cd2f26ba13455ccfe3c284b34a8cf4999",
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
-      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-08T18:20:32.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "ee0909605c2b45f18b0dc3e2e406e77e1322d597",
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-08T18:19:45.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "3bf143dd453c02c2a9045980573342cf557f3188",
-      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-08T18:19:42.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "c4b9450255a9e60fedb01feaa3a68cf78ced9fe5",
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an…",
-      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-08T18:18:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "54a283d7c732aefa5a4003c5d698e90c4745db0a",
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive…",
-      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-08T18:16:24.000Z",
-      "category": "ai",
       "tags": []
     },
     {
@@ -1428,17 +1439,6 @@
       "tags": []
     },
     {
-      "id": "f52e74133e2d25d6d706b167a088a0d71f74e510",
-      "title": "With most information hidden, the game Stratego had stumped AI—until now",
-      "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
-      "source": "Ars Technica — AI",
-      "sourceUrl": "https://arstechnica.com/ai/",
-      "publishedAt": "2026-10-01T16:28:04.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "a80484c2d5849bdb14051812d38a301cb6633866",
       "title": "How Albertsons Companies is reimagining retail from the inside out",
       "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
@@ -1929,17 +1929,6 @@
       "source": "Google AI Blog",
       "sourceUrl": "https://blog.google/technology/ai/",
       "publishedAt": "2026-09-01T16:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "38e38808c623ab61887ff14ee29824804157ba3e",
-      "title": "3 new ways to plan and book travel in Search",
-      "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
-      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/technology/ai/",
-      "publishedAt": "2026-08-27T16:00:00.000Z",
       "category": "ai",
       "tags": []
     }
