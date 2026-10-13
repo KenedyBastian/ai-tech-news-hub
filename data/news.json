@@ -1,16 +1,317 @@
 {
-  "generatedAt": "2026-10-12T14:29:15.608Z",
+  "generatedAt": "2026-10-13T13:36:55.423Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
     {
+      "id": "161d38a5133d8c5b74981fcd04e8d63e08640dac",
+      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+      "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-13T13:28:06.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "fa1d998e852ed881ca6c7d47063b61f38e076b4f",
+      "title": "Apple launches HomeView, its first smart display for the home",
+      "summary": "The HomeView is a smart speaker with a touchscreen display. It’s available in silver, starlight, rose pink, and space gray. | Image: Apple It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a…",
+      "url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-13T13:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "bc6b0eca02367eaf4ab3dcf934304a39f24a71c9",
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-13T13:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "33c0b505464624f8938ce0654163772aba09b04c",
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "summary": "The startup will sell some of its assets to Disney for $20 million.",
+      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-13T12:23:42.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "ec7d63fa2768a897e55be11f488006d3dbbab4b6",
+      "title": "Code scanning AI Scan metrics in security overview",
+      "summary": "Organization and enterprise administrators can now observe the impact of AI Scan for pull requests in security overview. New metrics show how many AI Scan findings were generated, resolved, the… The post Code scanning AI Scan metrics in…",
+      "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-10-13T12:03:17.000Z",
+      "category": "github",
+      "githubTopic": "advanced-security",
+      "tags": []
+    },
+    {
+      "id": "17822a6c9063e726b8508423c2fed3a68c47aa4a",
+      "title": "Character.AI files for bankruptcy",
+      "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-13T10:32:23.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "c48f77cfce80ca67880c4d83f19ddbd38babd241",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report…",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks",
+      "source": "MIT Technology Review — AI",
+      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "publishedAt": "2026-10-13T10:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "6b99b16975206067eee89bcfaa05bc2fa0d94f46",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money.…",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models",
+      "source": "MIT Technology Review — AI",
+      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "publishedAt": "2026-10-13T09:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "4c49a8a8e101a863d9f81106cc9dde2c38d5e41c",
+      "title": "GitHub Copilot CLI v1.0.97-2",
+      "summary": "**Fixed** - Discover all custom agents even when repositories define more than 100 or nest agent files deeply.",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.97-2",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-10-13T01:09:14.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "88214210bcdcf4d4ea76cfaaea42897b6c1fcb7e",
+      "title": "GitHub Copilot CLI v1.0.97-1",
+      "summary": "Fixes and changes",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.97-1",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-10-12T22:56:58.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "c1d34165b490d2882b8f206905bd23be08c757c3",
+      "title": "Client telemetry user attribution and configurable capture",
+      "summary": "Enterprise administrators can now use telemetry in managed settings to attribute GitHub Copilot activity to a user without collecting their prompts, responses, or tool content. The telemetry.capture.identity setting adds three… The post…",
+      "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-10-12T22:38:00.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": []
+    },
+    {
+      "id": "1950a6eafc69d45a2d93f6b118be0f6e117d53d2",
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
+      "source": "Ars Technica — AI",
+      "sourceUrl": "https://arstechnica.com/ai/",
+      "publishedAt": "2026-10-12T20:59:50.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "261485582766b07dfd42f1b3d3bb712e0e541b85",
+      "title": "GitHub Copilot CLI v1.0.97-0",
+      "summary": "**Added** - Add agent-scoped declarative hooks for custom agents **Improved** - Inline images render by default on supported terminals without enabling experimental mode. Use `/settings inlineImages false` to turn them off **Fixed** -…",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.97-0",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-10-12T20:45:05.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "253ff429b882d951d0f3ae5d0552d18ec8941962",
+      "title": "GitHub Copilot CLI v1.0.96",
+      "summary": "2026-10-12 - Interactive sandbox settings suggest possible environment secrets and let you add masking hosts before saving. - Make model IDs in /model and /config model case-insensitive and save canonical IDs - Keep /allow-all available…",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.96",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-10-12T18:52:01.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": []
+    },
+    {
+      "id": "1cb84cfd891ad0c07fb68c3001be5c2c17e36c36",
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police",
+      "source": "Ars Technica — AI",
+      "sourceUrl": "https://arstechnica.com/ai/",
+      "publishedAt": "2026-10-12T18:21:36.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "9726aa3a5f66ec7f41ada6ab24e69cf56461d144",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-12T17:56:56.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "8c286df7888a82e9479fb01ce1a3ebdf1e8f1264",
+      "title": "Russia was not ready for the data center war it started with Ukraine",
+      "summary": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
+      "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine",
+      "source": "Ars Technica — AI",
+      "sourceUrl": "https://arstechnica.com/ai/",
+      "publishedAt": "2026-10-12T17:52:36.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "acb868617334bc3b8e58223cae4f7b3b71e8f869",
+      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+      "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The…",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+      "source": "The GitHub Blog",
+      "sourceUrl": "https://github.blog/",
+      "publishedAt": "2026-10-12T17:43:59.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": []
+    },
+    {
+      "id": "83b9a2e31e6e916855df4f9bf8d02217facfef83",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-12T17:19:14.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "5b0bbc20b589187eae42484548ad6132159aa7bf",
+      "title": "Meta has some Wonder Full new AI models",
+      "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-12T17:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "39f26c94dad3199c53e4e1a512ad4ca36e43e61f",
+      "title": "Push attribution for commits in limited public preview",
+      "summary": "GitHub now durably records the authenticated user who pushed each commit and surfaces that pusher identity in the UI and API alongside the existing author and committer fields. Commit author… The post Push attribution for commits in…",
+      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-10-12T16:30:11.000Z",
+      "category": "github",
+      "githubTopic": "platform",
+      "tags": []
+    },
+    {
+      "id": "bdf59882f2c6edb2d447c44873efa00022b75bae",
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-12T15:45:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "5974203bb3c7b557bf41531f2a5bd630c35cc434",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-12T15:31:19.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "1b3594718c4851421abf3a21ac1218e70e9b21e7",
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-12T15:27:59.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "1ac16a9fa078986195a4cbc5e0295437052f0d40",
+      "title": "Anonymous organization-level registries for Dependabot",
+      "summary": "You can now select Anonymous as the authentication method for an organization-level private registry. Use it for registries that Dependabot can reach without credentials, such as an internal package mirror… The post Anonymous…",
+      "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-10-12T14:04:16.000Z",
+      "category": "github",
+      "githubTopic": "advanced-security",
+      "tags": []
+    },
+    {
       "id": "50db4f58bcdc55374e5b5ac49f4d1956589faeca",
       "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-      "summary": "Tomorrow at 8 a.m. PT, it all begins. 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This…",
+      "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next.…",
       "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings",
       "source": "TechCrunch — Artificial Intelligence",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "publishedAt": "2026-10-12T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "3c05fe08bc651853a1dec68025f6b21b98915001",
+      "title": "Introducing Microsoft’s latest custom chip: Maia 300",
+      "summary": "The post Introducing Microsoft’s latest custom chip: Maia 300 appeared first on Source.",
+      "url": "https://news.microsoft.com/maia-2026",
+      "source": "Microsoft Source — AI",
+      "sourceUrl": "https://news.microsoft.com/source/topics/ai/",
+      "publishedAt": "2026-10-12T13:14:40.000Z",
       "category": "ai",
       "tags": []
     },
@@ -28,7 +329,7 @@
     {
       "id": "36347ea06c8c5adbfa79b7f20387fad348af705e",
       "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+      "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to…",
       "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background",
       "source": "TechCrunch — Artificial Intelligence",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
@@ -94,7 +395,7 @@
     {
       "id": "778ab122b6ef9260b6e465550fb532d73d5724a8",
       "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
       "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet",
       "source": "TechCrunch — Artificial Intelligence",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
@@ -229,8 +530,8 @@
     },
     {
       "id": "6cd6f5cc677d305a1a62e63c5e7f64075a42fc73",
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
+      "summary": "The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed databases without paying fees, used URL-shortening services to smuggle information past…",
       "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
       "source": "TechCrunch — Artificial Intelligence",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
@@ -299,17 +600,6 @@
       "tags": []
     },
     {
-      "id": "0ad44f3ce5c4ad25082fd4438e3b56019b8cc624",
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-09T21:15:38.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "048fcb30e5f3e85ffa9aeefd797ee783872f956a",
       "title": "AI coding agents generate more code, but not more software",
       "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
@@ -317,17 +607,6 @@
       "source": "Ars Technica — AI",
       "sourceUrl": "https://arstechnica.com/ai/",
       "publishedAt": "2026-10-09T19:43:50.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "2a1c784f84b947c8fbc8fceccc3f2149b4119b96",
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-09T19:36:56.000Z",
       "category": "ai",
       "tags": []
     },
@@ -346,17 +625,6 @@
       ]
     },
     {
-      "id": "d07dddd55da287047600ce8c5507834507fbc9ea",
-      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-09T19:09:44.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "266dbefb97b258c9cb609cd792e236e716413842",
       "title": "AI disqualification yields new Nikon Small World in Motion winner",
       "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
@@ -364,61 +632,6 @@
       "source": "Ars Technica — AI",
       "sourceUrl": "https://arstechnica.com/ai/",
       "publishedAt": "2026-10-09T18:44:06.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "f11f2c288c2c95659a57045a8f4145a4e8126ca4",
-      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "summary": "The original first place video used AI in post-processing. | Image: Dr. Ning Xu Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\"…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-09T18:06:57.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "e053ae3b334d93979e648360685e326edbd8069f",
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition…",
-      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-09T16:56:42.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "1b62d45c1a2ab9b02aab2a839d1f16671b43b91f",
-      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition…",
-      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-09T16:53:02.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "fc5d9906163990fb1da66b48576049c6af57465a",
-      "title": "Danu Robotics’ fight to build a better recycling robot",
-      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
-      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-09T16:45:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "ec93bee08bf344ac1bafe8f9de8bfeb1503f825e",
-      "title": "We can’t help treating AI like it’s human. But should we?",
-      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-09T16:40:14.000Z",
       "category": "ai",
       "tags": []
     },
@@ -447,17 +660,6 @@
       "tags": []
     },
     {
-      "id": "c600ade0c9b505321dc9fb0dced3443f6112f1a5",
-      "title": "a16z’s Olivia Moore on the state of consumer AI",
-      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-09T15:43:33.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "43ef54e74d2760825c3095138c358b1ef26e90ae",
       "title": "Impactful scheduling for GPU clusters",
       "summary": "Impactful scheduling for GPU clusters",
@@ -465,17 +667,6 @@
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog",
       "publishedAt": "2026-10-09T15:20:29.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "f4ed427af63f587e4c59315518934600d45392e6",
-      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-      "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
-      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-09T14:00:00.000Z",
       "category": "ai",
       "tags": []
     },
@@ -580,17 +771,6 @@
       ]
     },
     {
-      "id": "da3ca48318e6b2aeaebc362bb353ee4734fbe2c8",
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
-      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-08T21:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "e7662db332acac7902fef0b2b610bd8655d12b40",
       "title": "GitHub Copilot CLI v1.0.94",
       "summary": "2026-10-08 - Add Claude Haiku 5.5 to model selection and --model completions - copilot mcp add recovers cleanly after interrupted MCP config initialization - MCP enable/disable now works before server discovery without starting MCP servers…",
@@ -673,18 +853,6 @@
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-10-08T16:00:00.000Z",
       "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "351ffe6737f3c5ea191d3e4d5ff7d4fcbf9c8695",
-      "title": "Draft pull requests count toward pull request limits",
-      "summary": "Maintainers are seeing more low-quality contributions in their repositories and need better ways to manage them. You can now configure pull request limits to also include draft pull requests. Previously,… The post Draft pull requests count…",
-      "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-10-08T14:25:53.000Z",
-      "category": "github",
-      "githubTopic": "developer-updates",
       "tags": []
     },
     {
@@ -843,18 +1011,6 @@
       ]
     },
     {
-      "id": "86f546df6fb1b33c186b52e8c3b162b0af407fb6",
-      "title": "Claude Haiku 5.5 in GitHub Copilot",
-      "summary": "Claude Haiku 5.5, Anthropic’s newest lightweight model, is now generally available in GitHub Copilot. It is designed for fast, high-volume work like subagents, quick edits, and terminal tasks. In early… The post Claude Haiku 5.5 in GitHub…",
-      "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-10-07T20:12:18.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": []
-    },
-    {
       "id": "bdd26e9eafdfd5061ea916322659b502011f342f",
       "title": "GitHub Copilot CLI v1.0.94-0",
       "summary": "**Improved** - Show update guidance when managed settings request a newer CLI version without blocking normal prompts - Managed policy can disable Assisted Permissions and keep sessions in Manual Approval mode.",
@@ -900,30 +1056,6 @@
       "sourceUrl": "https://huggingface.co/blog",
       "publishedAt": "2026-10-07T16:54:33.000Z",
       "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "5260e9d19f4febccefe4c9c2db91ae28d0f791e2",
-      "title": "Purpose-built model for leaked secret detection",
-      "summary": "Secret protection should keep pace with the way you build software, whether you write code yourself or work with an AI agent. With our new purpose-built model, we’re bringing context-aware… The post Purpose-built model for leaked secret…",
-      "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-10-07T16:13:56.000Z",
-      "category": "github",
-      "githubTopic": "developer-updates",
-      "tags": []
-    },
-    {
-      "id": "87f43b6934de2921062b407a8960acf0c0c0b18a",
-      "title": "Local sandboxing for GitHub Copilot now generally available",
-      "summary": "Local sandboxing for GitHub Copilot is now generally available in GitHub Copilot CLI, the GitHub Copilot app, and VS Code sessions using Agent Host. Local sandboxes give developers a secure… The post Local sandboxing for GitHub Copilot now…",
-      "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-10-07T15:46:17.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
       "tags": []
     },
     {
@@ -1028,34 +1160,6 @@
       "tags": []
     },
     {
-      "id": "dfebec7d0a8fcc95d723c513e103837895545ff2",
-      "title": "GitHub Copilot CLI v1.0.93-4",
-      "summary": "**Improved** - Command sandboxing is available to all users via /sandbox and --sandbox. **Fixed** - Run safe /user commands immediately during active turns, reject unsafe remote commands during active turns without opening dialogs, and…",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.93-4",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-10-07T05:34:55.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
-    },
-    {
-      "id": "41f4816a2301adb68fcefd108b2abf0e475964fd",
-      "title": "GitHub Copilot CLI v1.0.93-3",
-      "summary": "**Improved** - MCP server configuration changes apply between turns without restarting the session.",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.93-3",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-10-07T01:12:27.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
-    },
-    {
       "id": "0ca1450969b5beb55904e9fac4f7d0e7720785ad",
       "title": "GPT-6 and Intelligent UI for everyone",
       "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
@@ -1088,20 +1192,6 @@
       "publishedAt": "2026-10-06T20:50:32.000Z",
       "category": "ai",
       "tags": []
-    },
-    {
-      "id": "ea8ee12c21ddb67561f38c0c560606fe268e4e74",
-      "title": "GitHub Copilot CLI v1.0.93-2",
-      "summary": "**Added** - Add enterprise permissions.limitTo to enforce managed domain boundaries for network requests **Improved** - Model picker updates the recommended list to prioritize GPT-6.1 Sol, GPT-6 Astra/Luna, and Claude 5.5 models. **Fixed**…",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.93-2",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-10-06T18:03:12.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
     },
     {
       "id": "60ef2af305e795fe7c29ac5334b70c4a29353c7c",
@@ -1157,20 +1247,6 @@
       "publishedAt": "2026-10-06T10:00:00.000Z",
       "category": "ai",
       "tags": []
-    },
-    {
-      "id": "c5524ebf5c756df41fba1e750eaede0c8ed29820",
-      "title": "GitHub Copilot CLI v1.0.93-1",
-      "summary": "Fixes and changes",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.93-1",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-10-06T02:08:22.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
     },
     {
       "id": "bc25a570a71178c89cd6b83f1bb0725c8abe9310",
@@ -1317,17 +1393,6 @@
       "tags": []
     },
     {
-      "id": "575ad95effd7644fbd994d843e5b28c3600921e7",
-      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-      "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china",
-      "source": "Ars Technica — AI",
-      "sourceUrl": "https://arstechnica.com/ai/",
-      "publishedAt": "2026-10-02T18:39:36.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "8e206c4d9ed6ea5b326e3f64cf71247a89bf9979",
       "title": "A model guide for the GPT-6 family",
       "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
@@ -1335,17 +1400,6 @@
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-10-02T16:15:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "c4d9a25e0d1707228bff4573fd14301bea9c8cf4",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to…",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai",
-      "source": "MIT Technology Review — AI",
-      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "publishedAt": "2026-10-02T15:49:04.000Z",
       "category": "ai",
       "tags": []
     },
@@ -1373,28 +1427,6 @@
       "tags": []
     },
     {
-      "id": "fc1c6e27930ec3efc943259e6724febeaea23b8b",
-      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
-      "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
-      "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai",
-      "source": "Ars Technica — AI",
-      "sourceUrl": "https://arstechnica.com/ai/",
-      "publishedAt": "2026-10-02T14:52:16.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "5a3c2fdeffa274e90a3e36c2455c5db71e3fd623",
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some…",
-      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason",
-      "source": "MIT Technology Review — AI",
-      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "publishedAt": "2026-10-02T08:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "a885ed61f54a415a08d1866acde4d0ebc6368a44",
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "summary": "AutoSynthData: Generating Training Data for Enterprise Agents",
@@ -1413,17 +1445,6 @@
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-10-02T00:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "de0a1dfa7625500ae17f350e27bef87cf080ad6f",
-      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-      "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
-      "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge",
-      "source": "Ars Technica — AI",
-      "sourceUrl": "https://arstechnica.com/ai/",
-      "publishedAt": "2026-10-01T20:11:55.000Z",
       "category": "ai",
       "tags": []
     },
@@ -1539,18 +1560,6 @@
       "publishedAt": "2026-09-28T19:00:00.000Z",
       "category": "github",
       "githubTopic": "advanced-security",
-      "tags": []
-    },
-    {
-      "id": "c27a1c21dcd565c68771ee11e414d9dcf0f70309",
-      "title": "Highlights from Git 2.56",
-      "summary": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog.",
-      "url": "https://github.blog/open-source/git/highlights-from-git-2-56",
-      "source": "The GitHub Blog",
-      "sourceUrl": "https://github.blog/",
-      "publishedAt": "2026-09-28T17:23:33.000Z",
-      "category": "github",
-      "githubTopic": "platform",
       "tags": []
     },
     {
