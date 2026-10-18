@@ -1,8 +1,63 @@
 {
-  "generatedAt": "2026-10-17T10:11:11.950Z",
+  "generatedAt": "2026-10-18T10:26:28.416Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "d4d8a21bd9972e11394c29470a79b7d15cd8916b",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-17T21:31:32.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "0dabc6c10b97c37b5111d1bc15962486a0b5583a",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-17T20:21:19.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "6435f671229b69ca08cbe2a0c540ff989dd2f621",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-17T18:48:08.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "ac0eba5f39915c2126dfb359a39af8c6b0da8fff",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms…",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-17T15:04:36.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "79619743255e89a10aca34b40659d0156cc48c5c",
+      "title": "Websites are closing their doors to AI agents",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-17T13:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "4ce05665888b3c1f02e52ffa9d815d0ea7bd2327",
       "title": "GitHub Copilot CLI v1.0.100-1",
@@ -16,17 +71,6 @@
       "tags": [
         "prerelease"
       ]
-    },
-    {
-      "id": "18f9fd0105553a047098e98b4ed860192a96060c",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-16T21:22:28.000Z",
-      "category": "ai",
-      "tags": []
     },
     {
       "id": "e86f92efb2651db53d684299bf466ba2775c2d91",
@@ -294,10 +338,10 @@
       ]
     },
     {
-      "id": "9db4940a53f868400a117abeba82d09071409b87",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "id": "4a2f3ca18eb9cee6e404d64432a48a189cc310da",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "url": "https://openai.com/index/benefit-street-partners",
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-10-16T00:00:00.000Z",
@@ -305,10 +349,10 @@
       "tags": []
     },
     {
-      "id": "4a2f3ca18eb9cee6e404d64432a48a189cc310da",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "url": "https://openai.com/index/benefit-street-partners",
+      "id": "9db4940a53f868400a117abeba82d09071409b87",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-10-16T00:00:00.000Z",
@@ -543,17 +587,6 @@
       ]
     },
     {
-      "id": "1b6257d35772528ff20c332469b4b15cb9366f82",
-      "title": "Friends don’t let friends feed their data to AI agents",
-      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like…",
-      "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-15T16:21:45.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "12f70f9144a8a1f106ce0facd34c0f8991c14e35",
       "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
       "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
@@ -606,17 +639,6 @@
       "source": "TechCrunch — Artificial Intelligence",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "publishedAt": "2026-10-15T15:02:36.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "97f8573c584b77847e2498a9ff67d42f7ba37eab",
-      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-      "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was…",
-      "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-15T14:30:00.000Z",
       "category": "ai",
       "tags": []
     },
@@ -674,28 +696,6 @@
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-10-15T13:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "cc07996f6bad6e0cb6058f8388d9af40d779b0ba",
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and…",
-      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-15T12:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "b4c333a1fc01f38b85b65e7fc788660a12c5303e",
-      "title": "Figma announces new features to define how agents work on its platform",
-      "summary": "Figma is also releasing its code layers feature in open beta.",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-15T04:30:00.000Z",
       "category": "ai",
       "tags": []
     },
@@ -1316,10 +1316,10 @@
       "tags": []
     },
     {
-      "id": "edd58468d564448f5fe7e63ada47c987b79bf809",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "url": "https://openai.com/index/sophos",
+      "id": "90995f7dbc9c26746d9c1348259bf95f75d89e72",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "url": "https://openai.com/index/asana-browser-agent",
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-10-09T07:00:00.000Z",
@@ -1327,10 +1327,10 @@
       "tags": []
     },
     {
-      "id": "90995f7dbc9c26746d9c1348259bf95f75d89e72",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "url": "https://openai.com/index/asana-browser-agent",
+      "id": "edd58468d564448f5fe7e63ada47c987b79bf809",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "url": "https://openai.com/index/sophos",
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-10-09T07:00:00.000Z",
@@ -1905,28 +1905,6 @@
       "publishedAt": "2026-09-03T15:43:20.000Z",
       "category": "github",
       "githubTopic": "platform",
-      "tags": []
-    },
-    {
-      "id": "a0fc52c7c407bf11d8b68ccf62e1b5e671a984b4",
-      "title": "How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry",
-      "summary": "The post How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry appeared first on Source.",
-      "url": "https://news.microsoft.com/source/emea/features/how-kier-groups-louisa-finlay-is-using-copilot-to-drive-safety-and-productivity-in-the-construction-industry",
-      "source": "Microsoft Source — AI",
-      "sourceUrl": "https://news.microsoft.com/source/topics/ai/",
-      "publishedAt": "2026-09-02T16:28:46.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "7f0cad5ff04b79f9eccffbdd096cb1e20ab4d8d2",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/technology/ai/",
-      "publishedAt": "2026-09-02T15:40:00.000Z",
-      "category": "ai",
       "tags": []
     }
   ]
