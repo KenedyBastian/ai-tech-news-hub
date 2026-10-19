@@ -1,8 +1,86 @@
 {
-  "generatedAt": "2026-10-18T10:26:28.416Z",
+  "generatedAt": "2026-10-19T12:11:53.711Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "9279cf6bb0c3cf64fc2ec2a1809e85ea740f5e29",
+      "title": "Democrats think cracking down on AI could give them an edge",
+      "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of…",
+      "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-19T12:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "d409fbacfd0d4d79da2d9eb07866fb0d9e7faa32",
+      "title": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+      "summary": "Starting with macOS 27 and Xcode 27, Apple no longer includes Intel (x86_64) code in some of the system binaries and libraries that CodeQL relies on to trace builds. As… The post CodeQL changes for macOS 27, Xcode 27, and Swift 6.4…",
+      "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-10-19T10:29:09.000Z",
+      "category": "github",
+      "githubTopic": "advanced-security",
+      "tags": []
+    },
+    {
+      "id": "dce24a8973ca8bacbb35d1743bcb84cb335d39c4",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home…",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play",
+      "source": "MIT Technology Review — AI",
+      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "publishedAt": "2026-10-19T09:08:05.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "efeb3746fdd37d801674c72b785de49682be6da8",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-18T20:37:40.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "de6b0c59a9e6b0d3a8fc7c8d77afc20a54464432",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-18T18:28:10.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "218f77bb959f0137a2323231ddc1aa12a0ee1e5f",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-18T16:30:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "56b1c8aea7595b3335b11cd6d1e093f937735d1a",
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
+      "source": "Ars Technica — AI",
+      "sourceUrl": "https://arstechnica.com/ai/",
+      "publishedAt": "2026-10-18T16:25:19.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "d4d8a21bd9972e11394c29470a79b7d15cd8916b",
       "title": "Meta removes language that raised scraping and AI training concerns",
@@ -460,17 +538,6 @@
       "tags": []
     },
     {
-      "id": "2c7772f8550aecf775e71ba47c2a53b5e8be6f78",
-      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
-      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own…",
-      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-15T19:57:16.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "a983409c8d0b9cd03f62ff4dcaab0ef42d2ea36a",
       "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
       "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
@@ -535,17 +602,6 @@
       "source": "TechCrunch — Artificial Intelligence",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "publishedAt": "2026-10-15T18:56:46.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "c7cea461bd6d67da03f89a50ec8df43a5cd96fb6",
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "summary": "The new Muse Spark Open AI model can work on M5 Ultra Mac Studios. | Photo: Amelia Holowaty Krales / The Verge Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the…",
-      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-15T18:15:36.000Z",
       "category": "ai",
       "tags": []
     },
@@ -643,28 +699,6 @@
       "tags": []
     },
     {
-      "id": "244831af62488291746c094805c773184e49f261",
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-15T14:29:33.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "a678873210a02ea80e62df65c23eca5fbd2d145c",
-      "title": "TechCrunch Disrupt 2026: Last day",
-      "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
-      "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-15T14:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "b7ac4657df6fb598837c79f89857508fd6dc0020",
       "title": "Agentic autofix for code scanning alerts general availability",
       "summary": "Agentic autofix for code scanning alerts is now generally available. It remediates alerts by working across your codebase the way a developer would: it explores relevant files, proposes a fix,… The post Agentic autofix for code scanning…",
@@ -696,6 +730,17 @@
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-10-15T13:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "e3c36d4422c6129b6e7c327848f615768d48cad8",
+      "title": "Apertus 1.5 Release Notes",
+      "summary": "Apertus 1.5 Release Notes",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog",
+      "publishedAt": "2026-10-15T09:08:45.000Z",
       "category": "ai",
       "tags": []
     },
@@ -836,18 +881,6 @@
       "sourceUrl": "https://huggingface.co/blog",
       "publishedAt": "2026-10-14T16:12:42.000Z",
       "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "a3b7e4ededda381908019da4214756b808af5ac5",
-      "title": "GitHub Actions workflow lockfiles in public preview",
-      "summary": "GitHub Actions workflow dependency lockfiles are now in public preview for GitHub Enterprise Cloud, GitHub Enterprise Cloud with data residency, Team, and Free plans. Tags and branches can move after… The post GitHub Actions workflow…",
-      "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-10-14T13:49:15.000Z",
-      "category": "github",
-      "githubTopic": "enterprise",
       "tags": []
     },
     {
@@ -1256,17 +1289,6 @@
       ]
     },
     {
-      "id": "d587fa318b28c3aad10a44883635716c7f8a2470",
-      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google",
-      "source": "Ars Technica — AI",
-      "sourceUrl": "https://arstechnica.com/ai/",
-      "publishedAt": "2026-10-09T22:04:07.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "0d3b9f5f22c49664d7c3e7619891d51fb3c63db9",
       "title": "GitHub Copilot CLI v1.0.96-0",
       "summary": "**Improved** - Interactive sessions in git repositories reach the input prompt sooner - Timeline now shows whether you, Assisted Permissions, policy, or unattended fallback made each permission decision. **Fixed** - /add-dir grants sandbox…",
@@ -1540,17 +1562,6 @@
       "tags": []
     },
     {
-      "id": "49ec317b8404ea2d9a7ce7771c9795384221495e",
-      "title": "EmTech Future 2026: When AI Meets Everything",
-      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the…",
-      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything",
-      "source": "MIT Technology Review — AI",
-      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "publishedAt": "2026-10-05T04:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "89764eae00994ca8ac3f14f46dfe626a5f9aca4b",
       "title": "The Agent Said It Was Done. The Database Disagreed.",
       "summary": "The Agent Said It Was Done. The Database Disagreed.",
@@ -1751,17 +1762,6 @@
       "tags": []
     },
     {
-      "id": "16a7b27ed0ae9a7589c93514face6cdccc810d1c",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "summary": "Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-09-15T16:00:44.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "149a852934bd635a33c55b141db3fd680abcf1e3",
       "title": "AI for Societal Impact",
       "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
@@ -1893,18 +1893,6 @@
       "publishedAt": "2026-09-09T11:55:00.000Z",
       "category": "github",
       "githubTopic": "advanced-security",
-      "tags": []
-    },
-    {
-      "id": "d94fdf99e52161dda4eee095fb80636fb0315898",
-      "title": "GitHub CLI v2.100.0",
-      "summary": "## Experimental: Route GitHub API traffic through a custom host Organizations can now route a GitHub host's API traffic through a gateway using the new per-host `api_host` configuration: ```shell # Route API traffic for github.com through…",
-      "url": "https://github.com/cli/cli/releases/tag/v2.100.0",
-      "source": "GitHub CLI Releases",
-      "sourceUrl": "https://github.com/cli/cli/releases",
-      "publishedAt": "2026-09-03T15:43:20.000Z",
-      "category": "github",
-      "githubTopic": "platform",
       "tags": []
     }
   ]
