@@ -1,8 +1,88 @@
 {
-  "generatedAt": "2026-10-24T10:19:32.717Z",
+  "generatedAt": "2026-10-25T10:46:23.594Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "0509c80e85fbace7ed3821b6d0607b79bcb957d4",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real.…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-24T21:29:12.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "dbe76530e9896fc9916adb72c771caca0b8db0a3",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-24T19:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "09a5dda45158396218c88f848a52c6cfff8dafdf",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text -…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-24T18:32:21.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "688136660c106304b5046a5ebd37c3f3c722af5b",
+      "title": "Block’s new voice model sounds eerily human",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-24T16:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "f74b488e823cb66e8261152caf21d880eb1e0e6c",
+      "title": "GitHub Copilot CLI v1.0.104-3",
+      "summary": "Fixes and changes",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.104-3",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-10-24T15:28:50.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "e4ac1d3f295acd6002b61261949e9040b5dc3cd2",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-24T15:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "4a535eced667a36f30fd5e8875815af9caf74149",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-24T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "7ca950fd09dad71c3727631715991bdd06a9dce9",
       "title": "GitHub Copilot CLI v1.0.104-2",
@@ -419,28 +499,6 @@
       "tags": []
     },
     {
-      "id": "afeec198fbf511f78421872165f1c10686134b27",
-      "title": "Meta turns Muse sharing back on",
-      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review…",
-      "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-22T20:24:04.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "3992fc4ed3eb0dfaff7562f6b6d1d4e2b7fb1720",
-      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-      "summary": "Mars not depicted. | Image: Cath Virginia / The Verge, Getty Images Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-22T19:45:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "fe52d49759b6b59c7f4c2b795faadc90d117c4da",
       "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
       "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
@@ -697,50 +755,6 @@
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-10-22T00:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "3acc865d1f4fc7f58b5db6389e7b34010a6b9299",
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-21T22:51:22.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "f7403dc55170bd2208f3ce811a4f35c1a6fbc4f3",
-      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-21T22:45:34.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "bee997298d40989889b0b10af21c91c88d1ff4d9",
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-21T21:16:20.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "e9fc4036438cc691fe0ef5829293975a02789b21",
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
-      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-21T21:14:19.000Z",
       "category": "ai",
       "tags": []
     },
@@ -1636,20 +1650,6 @@
       "tags": []
     },
     {
-      "id": "580a913fdb19a87ca0eee16a907f35272dbb931c",
-      "title": "GitHub Copilot CLI v1.0.98-2",
-      "summary": "**Improved** - Expand /ask answers with Ctrl+E, copy the entire answer with Ctrl+Y, and reopen the last usable completed answer in the session with /ask or /btw. **Fixed** - Command hooks complete reliably even when child-exit signals are…",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.98-2",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-10-14T04:26:49.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
-    },
-    {
       "id": "49fe8a3fc3d9ad0e3c275bfb0982bc738e2ec59f",
       "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
       "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise…",
@@ -1950,40 +1950,6 @@
       "sourceUrl": "https://news.microsoft.com/source/topics/ai/",
       "publishedAt": "2026-09-10T13:08:37.000Z",
       "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "91d5074fb05aebf166c0aee8395c1ba123f3440a",
-      "title": "Get ready for the game with new football features in Search",
-      "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
-      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/technology/ai/",
-      "publishedAt": "2026-09-09T16:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "ada2f64613585383ede8e93e10f9d34d14b332d2",
-      "title": "Recreating a 70-year love story frame by frame",
-      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/technology/ai/",
-      "publishedAt": "2026-09-09T16:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "0c8c156184b327df8e6423b284ca403d72e08009",
-      "title": "CodeQL CLI v2.27.0",
-      "summary": "### New Features - CodeQL now supports native Linux arm64 (`linux-arm64`) as a first-class platform. The per-platform CLI (`codeql-linux-arm64.zip`) and CodeQL bundle (`codeql-bundle-linux-arm64.tar.gz` and…",
-      "url": "https://github.com/github/codeql-cli-binaries/releases/tag/v2.27.0",
-      "source": "CodeQL CLI Releases",
-      "sourceUrl": "https://github.com/github/codeql-cli-binaries/releases",
-      "publishedAt": "2026-09-09T11:55:00.000Z",
-      "category": "github",
-      "githubTopic": "advanced-security",
       "tags": []
     }
   ]
