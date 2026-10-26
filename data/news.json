@@ -1,8 +1,63 @@
 {
-  "generatedAt": "2026-10-25T10:46:23.594Z",
+  "generatedAt": "2026-10-26T12:17:54.211Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "bf7f18e0418c7776f9fc7fa37af8a7e82508f5b0",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-25T21:31:16.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "b23877b88e691b4d2863ccf743aa1c192e2503c7",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-25T16:57:32.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "611184d5aa6fabe3d7214e2b387434ac811f0cb6",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-25T14:10:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "b366ba776fde8cd439808b29755999dca5c694ae",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-25T13:25:32.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "99c99157c7fa1579c09fe2fd456a72c0d24ddcf2",
+      "title": "Google’s AI search changes upended online publishing",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The…",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-25T12:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "0509c80e85fbace7ed3821b6d0607b79bcb957d4",
       "title": "Blue Planet III is keeping the rough edges in the age of AI",
@@ -454,17 +509,6 @@
       "tags": []
     },
     {
-      "id": "1437b0ebe886b61e82f65e5e5a08469becc78ba5",
-      "title": "Canva’s first AI image model plans designs before generating them",
-      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-22T21:51:25.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "6401c720abcca621c721532192229d8ea31d2f23",
       "title": "Designing an AI serving harness built to last",
       "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model…",
@@ -485,17 +529,6 @@
       "publishedAt": "2026-10-22T20:44:28.000Z",
       "category": "github",
       "githubTopic": "copilot",
-      "tags": []
-    },
-    {
-      "id": "29a87826b845358b4bac1374829cefcd55b6e106",
-      "title": "Meta’s AI could still scrape news sites, legal experts say",
-      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to…",
-      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-22T20:32:05.000Z",
-      "category": "ai",
       "tags": []
     },
     {
@@ -653,39 +686,6 @@
       "source": "TechCrunch — Artificial Intelligence",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "publishedAt": "2026-10-22T15:03:58.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "8e16d6a954270ec11e35971fccea297c60d1de29",
-      "title": "Claude Duet app is Anthropic’s bet on agents",
-      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-22T13:53:26.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "d2c9aa9349dca1be36728663a14170ec74cb1939",
-      "title": "Nirva raises $33M for a pendant that only listens to you",
-      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-22T13:26:52.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "2bef5e15539918e46a8023c91e28fa38331431f0",
-      "title": "DeepSeek reportedly raises $15B days after US restrictions",
-      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
-      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-22T13:11:13.000Z",
       "category": "ai",
       "tags": []
     },
@@ -1927,28 +1927,6 @@
       "source": "Google AI Blog",
       "sourceUrl": "https://blog.google/technology/ai/",
       "publishedAt": "2026-09-14T16:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "94ad36d7ed05c224d8ed5e1571006eb2c8c26465",
-      "title": "3 ways to prep for your next big race with Search",
-      "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/technology/ai/",
-      "publishedAt": "2026-09-10T16:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "71a85c25f8cecba4a78ef442e2978e7455acd448",
-      "title": "What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate supply chain uncertainty",
-      "summary": "The post What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate supply chain uncertainty appeared first on Source.",
-      "url": "https://news.microsoft.com/source/canada/features/ai/kinaxis-supply-chain",
-      "source": "Microsoft Source — AI",
-      "sourceUrl": "https://news.microsoft.com/source/topics/ai/",
-      "publishedAt": "2026-09-10T13:08:37.000Z",
       "category": "ai",
       "tags": []
     }
