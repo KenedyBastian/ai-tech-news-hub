@@ -1,8 +1,91 @@
 {
-  "generatedAt": "2026-10-31T11:43:34.581Z",
+  "generatedAt": "2026-11-01T12:42:33.450Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "6283e6d80e881d01559b01a69e4ff74dd038f06f",
+      "title": "GitHub Copilot CLI v1.0.106-2",
+      "summary": "**Fixed** - With --screen-reader, failed and rejected tool calls, errors such as an unknown command, and warnings now begin with \"Error:\" or \"Warning:\" instead of reading like any other message. - /resume foregrounds an already running…",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.106-2",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-11-01T02:06:57.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "9f56e268b05ea69134d92ef78e09b3b78f4b6f63",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-31T21:41:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "5a4bff0c2db23b045cd7fa25bcd86c5de5800d91",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all…",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-31T21:36:07.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "e07dacdb45dcc75e43fc5c0e372ea75eac8c7fbd",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-31T21:17:03.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "8d16a2e86002043eba1d81797c477101934ec4fa",
+      "title": "GitHub Copilot CLI v1.0.106-1",
+      "summary": "**Fixed** - apply_patch keeps the line ending of every line it does not change in a file that mixes LF and CRLF endings, instead of rewriting the whole file to the ending of its first few lines. - `COPILOT_PROVIDER_GHES_HOST` now accepts…",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.106-1",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-10-31T20:24:04.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "c10fef6ec8169f8257315dbfd15371a70ecfbb0c",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-10-31T16:12:55.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "ed0268fa6e325c7b8e32af197222988b7d77e28e",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one,…",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-10-31T16:05:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "c6b2d3ea79170b2aaebd03c698f22e18c5fd0ff8",
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
@@ -345,17 +428,6 @@
       "tags": []
     },
     {
-      "id": "a973ac401cee8adeb2d7650518fba9b87805a512",
-      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to…",
-      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-10-30T09:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "3f421dfac0528ad9911ac7f8eccc647d878ec06c",
       "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
       "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
@@ -400,39 +472,6 @@
       "tags": []
     },
     {
-      "id": "7587406daf7d14d3030ba887665a0c517452eec6",
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-29T20:05:47.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "4db20898e948fcbbfe57b9ad9fb40b89b701dab2",
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-29T19:56:19.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "bde015e58f3737fa35432c99a4d3fde247a09577",
-      "title": "Meta quietly launches an AI fashion app called Style Sketch",
-      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
-      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-29T19:14:36.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "cfed78c7b30043db18fd17460b9ef0f3843c7492",
       "title": "Trump declares robot imports a national security threat",
       "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
@@ -440,17 +479,6 @@
       "source": "Ars Technica — AI",
       "sourceUrl": "https://arstechnica.com/ai/",
       "publishedAt": "2026-10-29T19:07:53.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "066f3bd17c5f1eff64a81b5b3942605b74aafa4c",
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
-      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
-      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-29T17:54:38.000Z",
       "category": "ai",
       "tags": []
     },
@@ -1606,34 +1634,6 @@
       "publishedAt": "2026-10-19T00:00:00.000Z",
       "category": "ai",
       "tags": []
-    },
-    {
-      "id": "4ce05665888b3c1f02e52ffa9d815d0ea7bd2327",
-      "title": "GitHub Copilot CLI v1.0.100-1",
-      "summary": "**Improved** - Use the unified Sessions browser by default for /sessions, /session, and /resume. - Session browsing now caps account discovery at 500 records and respects Retry-After hints for automatic refresh timing. **Fixed** - Sandbox…",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.100-1",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-10-16T22:41:25.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
-    },
-    {
-      "id": "fc2c0f533eea06e4354c626ff06da9a3373829d6",
-      "title": "GitHub Copilot CLI v1.0.100-0",
-      "summary": "**Improved** - Prompt to update the sandbox proxy certificate authority when masked hosts change **Fixed** - Managed plugins update activation in existing sessions when managed policy changes - Sessions no longer stall for minutes when an…",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.100-0",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-10-16T20:10:08.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
     },
     {
       "id": "849b423196d125cc3aaed178ce976945d3094cba",
