@@ -1,8 +1,86 @@
 {
-  "generatedAt": "2026-11-01T12:42:33.450Z",
+  "generatedAt": "2026-11-02T14:49:04.318Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "b1d1b8b0266c2b5573b31921901d58f64f34d9ee",
+      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+      "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-02T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "1ab8989706eae846b50f1590664484ecbe1eb23f",
+      "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-02T13:57:53.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "f054e35351ae2f83850d0dba58d2807c9f1d23b7",
+      "title": "Stop counting tokens, start counting what ships",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat…",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships",
+      "source": "MIT Technology Review — AI",
+      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "publishedAt": "2026-11-02T13:10:32.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "09bdd94f057ee8ad20dcebf5fcb3493a6a159a81",
+      "title": "The agentic web is here",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic…",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here",
+      "source": "MIT Technology Review — AI",
+      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "publishedAt": "2026-11-02T09:35:19.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "0dbf0226aa90a12c5a2161ad1c244a578bd24b7d",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-01T21:55:23.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "826e500342a584571741f846dda7f1e7846ce9d8",
+      "title": "Game Off 2026: The theme is SHIFT",
+      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT…",
+      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift",
+      "source": "The GitHub Blog",
+      "sourceUrl": "https://github.blog/",
+      "publishedAt": "2026-11-01T21:36:00.000Z",
+      "category": "github",
+      "githubTopic": "developer-updates",
+      "tags": []
+    },
+    {
+      "id": "bb2642061f374db81b63843af50a0f70ef36e8e4",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-01T20:57:58.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "6283e6d80e881d01559b01a69e4ff74dd038f06f",
       "title": "GitHub Copilot CLI v1.0.106-2",
@@ -384,17 +462,6 @@
       "tags": []
     },
     {
-      "id": "3e4e3eed2bbff167eabf45e306d9f9773b92dbb1",
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-30T13:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "dbfbce585037fb7a97c9a84afcd6f2f5c23281b6",
       "title": "Maine’s data center revolt will decide who controls the Senate",
       "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate.…",
@@ -428,17 +495,6 @@
       "tags": []
     },
     {
-      "id": "3f421dfac0528ad9911ac7f8eccc647d878ec06c",
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-30T01:20:48.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "d2282bcce1625c643a8eee68a045d3c9816c93c6",
       "title": "Fair use benefits everyone",
       "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
@@ -446,28 +502,6 @@
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-10-30T00:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "720b04b8c5b9a5a8cb9c64d61c06458931da3434",
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-29T23:42:22.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "1e09943a421e9246b3e0b8e89cf39f0de8ae649c",
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-10-29T20:08:31.000Z",
       "category": "ai",
       "tags": []
     },
@@ -1326,28 +1360,6 @@
       "tags": []
     },
     {
-      "id": "58fe41da7be45a26ccc507cff76d3fb3f5c305f2",
-      "title": "Making the case for context-aware AI",
-      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships…",
-      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai",
-      "source": "MIT Technology Review — AI",
-      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "1ab6b1fbef698a9e404c78a788797f5e46f40f80",
-      "title": "AI’s hidden storage bill: What inference leaves behind",
-      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a…",
-      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind",
-      "source": "MIT Technology Review — AI",
-      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "publishedAt": "2026-10-22T08:41:18.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "5d118fadbe793ddd15d5992558c943b8fbb4801a",
       "title": "Ensemble forecasting with IBM Granite time-series models",
       "summary": "Ensemble forecasting with IBM Granite time-series models",
@@ -1727,18 +1739,6 @@
       "tags": []
     },
     {
-      "id": "42cfdf49638add895203d811cd113a397f1249a2",
-      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
-      "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history…",
-      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers",
-      "source": "The GitHub Blog",
-      "sourceUrl": "https://github.blog/",
-      "publishedAt": "2026-10-14T19:11:33.000Z",
-      "category": "github",
-      "githubTopic": "platform",
-      "tags": []
-    },
-    {
       "id": "66cb1e68848fee2d2e7273d89bc171d7c7a24862",
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
@@ -1838,39 +1838,6 @@
       "publishedAt": "2026-09-22T18:05:08.000Z",
       "category": "github",
       "githubTopic": "advanced-security",
-      "tags": []
-    },
-    {
-      "id": "c72f60fcf6add18e14105032b742261fbd90d5e6",
-      "title": "New experts join Google’s AI & Economy team",
-      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/technology/ai/",
-      "publishedAt": "2026-09-18T14:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "94ad9f737cb6b727d67c6a9a976b60149d72d4f1",
-      "title": "Co-creating the future of fashion with Google",
-      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/technology/ai/",
-      "publishedAt": "2026-09-18T13:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "df4ade904b04545f520bb06f45d7409b899b451c",
-      "title": "Making global data easier to explore",
-      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/technology/ai/",
-      "publishedAt": "2026-09-17T20:00:00.000Z",
-      "category": "ai",
       "tags": []
     }
   ]
