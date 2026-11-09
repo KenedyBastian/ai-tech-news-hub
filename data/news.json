@@ -1,8 +1,129 @@
 {
-  "generatedAt": "2026-11-08T12:47:56.941Z",
+  "generatedAt": "2026-11-09T15:15:19.711Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "057e22ab69c04fb1c6649cb0bf4e92ea8c65293a",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "summary": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog",
+      "publishedAt": "2026-11-09T15:05:57.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "cc49c1ae6860a64fc04af6ece93610a8073bb960",
+      "title": "Jonathan Kanter is using AI to take on Big Tech",
+      "summary": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a…",
+      "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-09T14:30:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "bd74b7cf0c1bc812c40a73b2e655563c45e1821d",
+      "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+      "summary": "Automattic aims to compete with likes of Lovable with Spacefast",
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-09T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "42e7d6fc3426371ca4039dc225ad431f35b32bcc",
+      "title": "Innovating with AI in the special chemicals industry",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of…",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry",
+      "source": "MIT Technology Review — AI",
+      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "publishedAt": "2026-11-09T13:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "7b1451fc786c34f9eeb4411c953942dafa553acd",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "summary": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog",
+      "publishedAt": "2026-11-09T12:34:29.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "b10abbc74a2315ba64db799e4d7e9f35ff87c03e",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-09T05:26:29.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "67abd93f196f854c598d858791643758806b6b1a",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "summary": "Jensen Huang, Nvidia’s CEO, at media briefing in July 2026. | Photo: Bloomberg via Getty Images On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-08T22:54:50.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "45da7994669e5304c4a61eebac176cd114fa2bb1",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-08T21:00:11.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "ecd65815b585666dd249bc96bc93a86cc94a6e4d",
+      "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
+      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-08T20:22:39.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "53044e44b3aab431cb3ba72c77d98518b2063dd5",
+      "title": "Apple is racing to make Siri more agentic",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-08T19:18:19.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "ae06ecf7187204d49f98e86440a318c0517e05ea",
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-08T17:23:19.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "d44fec61ccb764a3800546ca9fda3dee7ea60bb1",
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -132,17 +253,6 @@
       "tags": []
     },
     {
-      "id": "1bc7ba2a28c4372d5a55dc2bc089052afc7ec8f1",
-      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and…",
-      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-06T23:00:44.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "118369de89f061c412ea65c20ee978af918c525e",
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
       "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
@@ -214,17 +324,6 @@
       "tags": []
     },
     {
-      "id": "c0641eb0de56205a168843f1756d561545e36e48",
-      "title": "All the latest updates on AI data centers",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids,…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-06T20:02:22.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "29c568495a81ef6e7a1c5f1c8065ed251ff80216",
       "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
       "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
@@ -243,17 +342,6 @@
       "source": "TechCrunch — Artificial Intelligence",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "publishedAt": "2026-11-06T18:44:20.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "52e0623fab799a2104d74285fa23225585c09dd2",
-      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you…",
-      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-06T18:10:10.000Z",
       "category": "ai",
       "tags": []
     },
@@ -287,28 +375,6 @@
       "source": "TechCrunch — Artificial Intelligence",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "publishedAt": "2026-11-06T17:23:52.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "91f8d419f4fcff3536db811e72fbf962d22f5a67",
-      "title": "AI is the new dating dealbreaker",
-      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-06T17:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "22815b4f725ebdf4fa61a940d81eedb052c1363b",
-      "title": "Big Tech lost big in the 2026 election",
-      "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks…",
-      "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-06T16:38:02.000Z",
       "category": "ai",
       "tags": []
     },
@@ -565,17 +631,6 @@
       "tags": []
     },
     {
-      "id": "e8690f74b67f56983d288ac628cf8aa1b7f6cf1c",
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "summary": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-11-05T19:35:16.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "2e06a7a163b7d0a271f25e5ca663092b3c3a9a86",
       "title": "Meta warns that election backlash against data centers could make AI expansion harder",
       "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
@@ -598,28 +653,6 @@
       "tags": []
     },
     {
-      "id": "cfd1704d56b5f495a85a08d1ec5674488ba3382c",
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-05T18:02:27.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "7b187a5bdc2864190b0605e7efc2bb8ad9934f7d",
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-05T18:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "b58fee4edbbb5f7a9c2c56052ead720c9a452069",
       "title": "Australian universities are creating AI-native graduates",
       "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
@@ -638,17 +671,6 @@
       "source": "Google AI Blog",
       "sourceUrl": "https://blog.google/technology/ai/",
       "publishedAt": "2026-11-05T17:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "2846e03446f423d72ed7490c15d4ee7c761f97cc",
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-05T16:16:45.000Z",
       "category": "ai",
       "tags": []
     },
@@ -1403,17 +1425,6 @@
       "tags": []
     },
     {
-      "id": "e164bf48fa238d11ab5180936e1f7f430b781eab",
-      "title": "Creating AI value with enterprise context",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated,…",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context",
-      "source": "MIT Technology Review — AI",
-      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "publishedAt": "2026-10-28T20:32:02.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "41e0dc889e76cc163b8e72b40cd3babfbef6bd98",
       "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
       "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
@@ -1748,17 +1759,6 @@
       "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
       "summary": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
       "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-10-20T00:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "3eb18e5ff7f2a0efc7b65bf76103cb7b1b48a111",
-      "title": "MPS in PyTorch 2.15",
-      "summary": "MPS in PyTorch 2.15",
-      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog",
       "publishedAt": "2026-10-20T00:00:00.000Z",
