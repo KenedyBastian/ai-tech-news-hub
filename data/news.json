@@ -1,8 +1,257 @@
 {
-  "generatedAt": "2026-11-13T13:57:53.315Z",
+  "generatedAt": "2026-11-14T12:59:45.972Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "567fa298898a17ca87ece1842a09444188437e40",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "summary": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage,…",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "ab570d0416855de7449582092db845deaa833870",
+      "title": "GitHub Copilot CLI v1.0.112",
+      "summary": "2026-11-13 - A failed /compact now shows the model provider's error message without an internal host-rethrow prefix - A prompt the CLI does not send yet, such as one entered while managed account policy is still loading, keeps its pasted…",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.112",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-11-13T23:59:41.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": []
+    },
+    {
+      "id": "04367a7d0b10c58a54bc55e39e9949ebf226c15e",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World…",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-13T23:49:11.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "ad639fbc6552b9e9ff7b95b49e8c631c7e691930",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-13T22:43:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "4ecfb44c1aedd9ae21362ab1c19013da4102a598",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
+      "source": "Ars Technica — AI",
+      "sourceUrl": "https://arstechnica.com/ai/",
+      "publishedAt": "2026-11-13T21:20:47.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "951c84561943a913ab406f8a580e6d4eb345df50",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-13T20:45:10.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "bc1ca702be31bb59ecbf1d1fca51e2b9d735f01a",
+      "title": "Upcoming deprecation of selected GitHub Copilot models in December",
+      "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date… The post Upcoming deprecation of…",
+      "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-11-13T20:40:05.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": []
+    },
+    {
+      "id": "38741df50e34ad2460eb78bac0180c24c6f90114",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-13T19:37:57.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "ddbdf5ff33beabb0b0543fddc281f61dbd080a08",
+      "title": "GitHub Copilot CLI v1.0.112-0",
+      "summary": "**Improved** - Improve best-effort startup on macOS Ventura 13.5 or later without expanding official OS support - Use each model's recommended context window by default, while preserving explicit context choices - /chronicle cost-tips now…",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.112-0",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-11-13T19:37:45.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "f17748102e2c4282790684de95422a1224afa0cf",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-13T18:40:30.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "18a36c2817e7236ef8bd9053bde5f6f556590b99",
+      "title": "GitHub Enterprise Server support in the GitHub Copilot app",
+      "summary": "You can now bring your work on GitHub Enterprise Server (GHES) into the GitHub Copilot app. Add your GHES account to work with remote repositories, issues, and pull requests. This… The post GitHub Enterprise Server support in the GitHub…",
+      "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-11-13T18:27:13.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": []
+    },
+    {
+      "id": "e8c3c469932b5ab7f6d88396a950f8e47f409df5",
+      "title": "Gemini 4 Hydrogen in GitHub Copilot",
+      "summary": "Gemini 4 Hydrogen, Google’s latest Flash model, is now generally available in GitHub Copilot. It is designed for fast, efficient agentic coding, tool use, and multistep workflows, with improved instruction… The post Gemini 4 Hydrogen in…",
+      "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-11-13T18:23:48.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": []
+    },
+    {
+      "id": "2427bacb74a96b4b261bbbfd7ef785414a53a540",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "summary": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog",
+      "publishedAt": "2026-11-13T18:00:39.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "c371d06a5231e17db6560fc5c919e9b7f03a3795",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns",
+      "source": "Ars Technica — AI",
+      "sourceUrl": "https://arstechnica.com/ai/",
+      "publishedAt": "2026-11-13T17:25:45.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "8400bdfe1e2afd49cb164842f3acb314375cda23",
+      "title": "XYBench: Helping with the problem behind the question",
+      "summary": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog",
+      "publishedAt": "2026-11-13T17:02:35.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "4e379f6cb9d33e5ab19f110eee35c9bf37b34281",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-13T16:00:12.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "56623f1d9c94c2c406e2b94b8b5affce806d54c8",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-13T15:58:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "5bf4951adbe9698dd9e45df17c29fd95e4f30a2d",
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news",
+      "publishedAt": "2026-11-13T15:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "627c324df106de1bc68820ac5fa02b8bf79463e2",
+      "title": "What’s really at stake in the Jensen Huang saga",
+      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A…",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-13T14:47:16.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "025a6c711bf81c35fbcc5f1db236321e91a7a401",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-13T14:44:48.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "40e78db6601d46e62d9253d05213567fc448d804",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "summary": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog",
+      "publishedAt": "2026-11-13T14:05:22.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "cd9d1a105b69dd290c13f542ef43e519ad02c1fe",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "summary": "Let’s get to work. | Photo: Allison Johnson / The Verge Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-13T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "ebc531a19af403a71bcb550c6e88f302cad5e11d",
       "title": "GitHub Copilot CLI v1.0.111",
@@ -57,6 +306,17 @@
       "source": "The Verge — AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
       "publishedAt": "2026-11-13T12:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "d1318183fe172893638959c7661c0c781ed07c8d",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
       "category": "ai",
       "tags": []
     },
@@ -122,17 +382,6 @@
       "tags": []
     },
     {
-      "id": "e94b957965237b81a67714296ac4b51b446602d8",
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
-      "source": "Ars Technica — AI",
-      "sourceUrl": "https://arstechnica.com/ai/",
-      "publishedAt": "2026-11-12T22:28:47.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "82d9be95873a98db32324a716f57b9fb3190042c",
       "title": "Muse can now place calls to US businesses — if you pay",
       "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
@@ -151,17 +400,6 @@
       "source": "The Verge — AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
       "publishedAt": "2026-11-12T21:55:32.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "ef98f01e800c5260e2f5ffb348426115c5535c44",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-12T21:35:00.000Z",
       "category": "ai",
       "tags": []
     },
@@ -388,28 +626,6 @@
       "tags": []
     },
     {
-      "id": "32933935200c2839243ae7885ee3d97d7376a19f",
-      "title": "AI chatbots are recommending fake retail websites, study finds",
-      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-12T17:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "4213b9afeff9a7e6e0add40c6aa995c4a53c57fb",
-      "title": "More game developers are starting to use generative AI",
-      "summary": "A photo from the GDC Festival of Gaming 2026 event. More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of…",
-      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-12T17:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "0cefd18c08c5c4ac896265d27491d9e4a4c30b6f",
       "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
       "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
@@ -428,94 +644,6 @@
       "source": "TechCrunch — Artificial Intelligence",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "publishedAt": "2026-11-12T16:36:37.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "aff4b2c65530b3e62f1ea13601b4d44e474d38e2",
-      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-12T16:32:33.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "1d250e9233fe0f753f8c38103e7b4547349d6d94",
-      "title": "Jensen Huang is out. What did China want from him?",
-      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of…",
-      "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-12T16:30:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "44722bd0302590514d5721c7d433e5d35be73d6a",
-      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-      "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
-      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-12T16:12:44.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "830958e6e6f7f875c563a92abda3a23ae81c2736",
-      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
-      "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-12T15:48:12.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "1447c52b300c38a10805e94b80ac49ea2876e722",
-      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-      "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-12T15:37:29.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "bfccb2d38562aef81144840e5c58e755f286b953",
-      "title": "Norwest pushes deeper into AI with new $4B fund",
-      "summary": "This is the investment firm's largest fund to date.",
-      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-12T15:18:14.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "660711644cdc9dc9c8a6ac97bbb0a66a2efe281a",
-      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-      "summary": "This is Fireworks' second data breach in as many months.",
-      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-12T15:02:28.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "15c28179b2dc3ec9cbc8a50fc5e36f988b136eb9",
-      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-12T15:01:31.000Z",
       "category": "ai",
       "tags": []
     },
@@ -868,18 +996,6 @@
       "tags": []
     },
     {
-      "id": "685df558780e7f3892173d8af07d52e17d32aa88",
-      "title": "C++ language server now auto-configures MSBuild builds",
-      "summary": "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a… The post C++ language server now auto-configures…",
-      "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-11-10T17:04:10.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": []
-    },
-    {
       "id": "b1b693c21f366e61c3511784b2ca6a20bd69b8a4",
       "title": "GitHub Copilot CLI v1.0.109",
       "summary": "2026-11-10 - Add IPv4/IPv6 CIDR support for sandbox host allow and deny rules in settings. - Add support for Claude Fable 5.2 in the model picker under New models - copilot help input now says that Backspace at the start of shell input…",
@@ -900,18 +1016,6 @@
       "sourceUrl": "https://arstechnica.com/ai/",
       "publishedAt": "2026-11-10T15:00:39.000Z",
       "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "b7cb9f6e519263efb1612c9ea1c14940dc3c6111",
-      "title": "Dependabot alerts will pause on inactive repositories",
-      "summary": "Starting December 8, 2026, GitHub will turn off Dependabot alerts on most repositories with no activity in the past year. Their existing alerts are archived, not deleted, and you can… The post Dependabot alerts will pause on inactive…",
-      "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-11-10T14:20:05.000Z",
-      "category": "github",
-      "githubTopic": "advanced-security",
       "tags": []
     },
     {
@@ -956,18 +1060,6 @@
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-11-10T12:00:00.000Z",
       "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "6590936a57234ae8b8daa1c6de50302d62d1c7bb",
-      "title": "A more informative GitHub dashboard",
-      "summary": "Since the new dashboard experience became the default, we’ve heard from developers that it used too much space to show too little. Generous padding, wrapped titles, and a low default… The post A more informative GitHub dashboard appeared…",
-      "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-11-10T10:34:35.000Z",
-      "category": "github",
-      "githubTopic": "developer-updates",
       "tags": []
     },
     {
@@ -1143,17 +1235,6 @@
       "tags": []
     },
     {
-      "id": "057e22ab69c04fb1c6649cb0bf4e92ea8c65293a",
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "summary": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-11-09T15:05:57.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "f37b680abcf7adcb8bec0b0adda548a12d3efee4",
       "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
       "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
@@ -1283,17 +1364,6 @@
       "tags": []
     },
     {
-      "id": "be1ba71e55b7f12516b9ba0c68b4b2f886873cb7",
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "summary": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-11-06T14:00:48.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "93fc4c1ba090e94993811ccca76ec5a8666ff8ff",
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning…",
@@ -1325,17 +1395,6 @@
       "publishedAt": "2026-11-06T01:47:00.000Z",
       "category": "github",
       "githubTopic": "copilot",
-      "tags": []
-    },
-    {
-      "id": "cfd4354afa14004ff8c17d4a4b75c8d4f470f086",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news",
-      "publishedAt": "2026-11-06T00:00:00.000Z",
-      "category": "ai",
       "tags": []
     },
     {
@@ -1384,17 +1443,6 @@
       "tags": []
     },
     {
-      "id": "b58fee4edbbb5f7a9c2c56052ead720c9a452069",
-      "title": "Australian universities are creating AI-native graduates",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news",
-      "publishedAt": "2026-11-05T17:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "d7e9e3e89ee778d6f0e0cdfdb8adebe3fbc25559",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
@@ -1415,17 +1463,6 @@
       "publishedAt": "2026-11-05T16:00:00.000Z",
       "category": "github",
       "githubTopic": "developer-updates",
-      "tags": []
-    },
-    {
-      "id": "4513cd1ca7d87aeb19aa3361c8d10ee3e196ffdb",
-      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-      "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
-      "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market",
-      "source": "Ars Technica — AI",
-      "sourceUrl": "https://arstechnica.com/ai/",
-      "publishedAt": "2026-11-05T12:00:41.000Z",
-      "category": "ai",
       "tags": []
     },
     {
@@ -1549,20 +1586,6 @@
       "tags": []
     },
     {
-      "id": "048547fd19ffb1782e45e0ce8c7c8d3eb0d7d485",
-      "title": "GitHub Copilot CLI v1.0.106-6",
-      "summary": "**Added** - Make /settings open the unified dashboard for all users and add global search across settings and local resources. - Interactive CLI reports program status to supporting terminals, including when attention is needed.…",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.106-6",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-11-03T06:11:05.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
-    },
-    {
       "id": "a6e20d8d1eb182389f3168f3b340b504ac8939ea",
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive,…",
@@ -1572,20 +1595,6 @@
       "publishedAt": "2026-11-03T04:18:47.000Z",
       "category": "ai",
       "tags": []
-    },
-    {
-      "id": "33d1c04d5c86c9dc4658cfe25993ccc27e2b90a2",
-      "title": "GitHub Copilot CLI v1.0.106-5",
-      "summary": "**Fixed** - `includeCoAuthoredBy: false` is now honored in ACP mode (`copilot --acp`), so ACP clients no longer instruct the agent to add a Co-authored-by trailer to commits. - Targeted /settings commands show the selected setting…",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.106-5",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-11-03T01:13:23.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
     },
     {
       "id": "20954e3ac0ff87f74efda3333b11cedb4f109ce2",
@@ -1721,17 +1730,6 @@
       "publishedAt": "2026-10-28T16:07:40.000Z",
       "category": "github",
       "githubTopic": "developer-updates",
-      "tags": []
-    },
-    {
-      "id": "db98bf59a6c7e4204871c9f544fd7cc3019a06a7",
-      "title": "Build specialized multimodal models with LFM3",
-      "summary": "Build specialized multimodal models with LFM3",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-10-27T17:16:52.000Z",
-      "category": "ai",
       "tags": []
     },
     {
@@ -1915,18 +1913,6 @@
       "sourceUrl": "https://blog.google/technology/ai/",
       "publishedAt": "2026-10-02T15:00:00.000Z",
       "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "be1b80c6598ebeb1aaa9303c1414173d7e2bc8f2",
-      "title": "GitHub CLI v2.102.0",
-      "summary": "## Security Four security vulnerabilities have been identified, and fixed, in this release. Users are advised to update gh to version `v2.102.0` as soon as possible. `gh release download`, `gh run download`, `gh repo read-file --output`,…",
-      "url": "https://github.com/cli/cli/releases/tag/v2.102.0",
-      "source": "GitHub CLI Releases",
-      "sourceUrl": "https://github.com/cli/cli/releases",
-      "publishedAt": "2026-09-30T02:40:02.000Z",
-      "category": "github",
-      "githubTopic": "platform",
       "tags": []
     }
   ]
