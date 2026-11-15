@@ -1,8 +1,74 @@
 {
-  "generatedAt": "2026-11-14T12:59:45.972Z",
+  "generatedAt": "2026-11-15T13:28:20.260Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "4c525e5e54fa36453dd60f3236c73b643ffb105b",
+      "title": "An overview of Jensen Huang’s messy days",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our…",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-15T13:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "cdf34d438f124e675638b8220f280dcbd745212a",
+      "title": "Where was Nvidia’s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says…",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-15T00:08:07.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "9a736294c460795d30540e93613c6033487be240",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-14T21:41:22.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "b08cefd9996dfc5a6f6dc1ddd91fe34424b098fa",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-14T17:30:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "2a2bfff1121f561ba8b726cd3923d032df957f0b",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-14T16:34:15.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "d46b516a4c8344dc087cc3f6df0593b10b6c48d5",
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI…",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-14T15:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "567fa298898a17ca87ece1842a09444188437e40",
       "title": "Jensen Huang and the decline of the visionary showman founder CEO",
@@ -560,17 +626,6 @@
       "tags": []
     },
     {
-      "id": "d545fdc617b9aefde9f6b0585dc7b84a087a88ff",
-      "title": "Oh, Palantir is ‘progressive’ now, is it?",
-      "summary": "The future’s so bright, he’s gotta wear sunglasses. | Photo by Scott Olson/Getty Images I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-12T18:06:54.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "ad614f81e42f72e5750a21232c53359027d49437",
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
       "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
@@ -582,17 +637,6 @@
       "tags": []
     },
     {
-      "id": "96892311de09e14b1fc8010edcead0a96b0eb447",
-      "title": "The Jensen Huang scandal is hardly over",
-      "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-12T17:44:33.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "5c8a7e2ce9e472f49fcaac4d4a40cb5e63ff5e38",
       "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
       "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
@@ -600,50 +644,6 @@
       "source": "TechCrunch — Artificial Intelligence",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "publishedAt": "2026-11-12T17:36:40.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "322f998ba4d6dbd271412d3750c4eada2c002501",
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-12T17:17:58.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "ca80552a275a93361e3110438781ad16c38738cd",
-      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-12T17:00:52.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "0cefd18c08c5c4ac896265d27491d9e4a4c30b6f",
-      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
-      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-12T17:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "aa4bf4548cc5dfc6ea7c2d95bc37d1d1e808b8fe",
-      "title": "Jensen Huang agrees to testify before Congress",
-      "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-12T16:36:37.000Z",
       "category": "ai",
       "tags": []
     },
