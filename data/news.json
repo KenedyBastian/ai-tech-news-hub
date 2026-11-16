@@ -1,8 +1,229 @@
 {
-  "generatedAt": "2026-11-15T13:28:20.260Z",
+  "generatedAt": "2026-11-16T14:51:20.148Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "5c136724c0dea2114354ce4b763debe6f3c1d684",
+      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+      "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+      "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-16T14:48:13.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "4f85959693f9648e6f375c54fb7e72ff1e1a3e84",
+      "title": "Take GitHub Mobile with you on iPhone Duo",
+      "summary": "GitHub Mobile now supports iPhone Duo, with a layout that adapts when unfolded and vertical tabs to help you move between key areas like Copilot, Pull Requests, Issues, and Notifications.… The post Take GitHub Mobile with you on iPhone Duo…",
+      "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-11-16T14:30:07.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": []
+    },
+    {
+      "id": "ca1899ca16809729b73080be61eeb0978fbfba35",
+      "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+      "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia",
+      "source": "Ars Technica — AI",
+      "sourceUrl": "https://arstechnica.com/ai/",
+      "publishedAt": "2026-11-16T14:06:16.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "0bc322583e6f07752d6c03547ba463417ace32e3",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/technology/ai/",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "29a19e1aacc64ded6c474d85339fbbf57b184bf4",
+      "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+      "summary": "Here’s what the new audio discovery feature looks like in the Audible app. | Image: Audible Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump…",
+      "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "dd02c35afc864bbe7d1e57478a76f2e657ea8130",
+      "title": "Google Maps can now create trip itineraries for you",
+      "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot…",
+      "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "ef28afd6608b538d9da173c881018fab5654bdc2",
+      "title": "Building AI that can work across the enterprise",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots…",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise",
+      "source": "MIT Technology Review — AI",
+      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "publishedAt": "2026-11-16T13:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "2b2bb87b4857660b3e1db9ebf284e5598d1e594b",
+      "title": "The Nvidia scandal isn’t slowing down",
+      "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-16T13:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "fcbaf2152a3da36d0976048d83d5efdd44f7f8d5",
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-16T12:30:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "91e58e2ea930c2fabc271a22401b1d1a40419d3b",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news",
+      "publishedAt": "2026-11-16T09:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "09862cd7036c613367fe7bff97dc12ef222fde83",
+      "title": "Apple launches new app to study how people use AI for health",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-16T01:30:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "f7214e14d1e100a38313e7c3ca3d694ac377d0e2",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in…",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-16T01:26:56.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "e3915f7e4cf071c4232933d2f6f49995917fa34a",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "fc91828979fbf24c464412bb305af75974558950",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-15T23:30:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "87d7014c15ee68a3a258e4931bcaef4b31534b44",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news",
+      "publishedAt": "2026-11-15T22:00:01.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "4b0fc5b701ffd77dc12523f912000158b7c589e6",
+      "title": "Our new blog for science",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/news",
+      "publishedAt": "2026-11-15T22:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "2cb612de9116082ae32c5c2bc2297c343b9a9e96",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-15T21:56:35.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "2f1f5cbf7ce833ab47a4022222f75006fb8227ac",
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That…",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-15T20:43:49.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "1a811a22b701406e39cc2891fcc2f1927c44e968",
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-15T20:20:57.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "1207b5c1c70bbc649c4833862a588f3ea7c47f65",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-15T19:15:43.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "4c525e5e54fa36453dd60f3236c73b643ffb105b",
       "title": "An overview of Jensen Huang’s messy days",
@@ -122,17 +343,6 @@
       "source": "Ars Technica — AI",
       "sourceUrl": "https://arstechnica.com/ai/",
       "publishedAt": "2026-11-13T21:20:47.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "951c84561943a913ab406f8a580e6d4eb345df50",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-13T20:45:10.000Z",
       "category": "ai",
       "tags": []
     },
@@ -275,17 +485,6 @@
       "tags": []
     },
     {
-      "id": "627c324df106de1bc68820ac5fa02b8bf79463e2",
-      "title": "What’s really at stake in the Jensen Huang saga",
-      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A…",
-      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-13T14:47:16.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "025a6c711bf81c35fbcc5f1db236321e91a7a401",
       "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
       "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
@@ -304,17 +503,6 @@
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog",
       "publishedAt": "2026-11-13T14:05:22.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "cd9d1a105b69dd290c13f542ef43e519ad02c1fe",
-      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-      "summary": "Let’s get to work. | Photo: Allison Johnson / The Verge Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-13T14:00:00.000Z",
       "category": "ai",
       "tags": []
     },
@@ -362,17 +550,6 @@
       "publishedAt": "2026-11-13T12:22:41.000Z",
       "category": "github",
       "githubTopic": "platform",
-      "tags": []
-    },
-    {
-      "id": "71dad9da95c2fbfe808ecd8e3f2bb76d187e947e",
-      "title": "Let’s talk about Jensen Huang’s many affairs!",
-      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-13T12:00:00.000Z",
-      "category": "ai",
       "tags": []
     },
     {
@@ -459,28 +636,6 @@
       "tags": []
     },
     {
-      "id": "3403360ccc1df753cef2b348364e95c4489ba5c7",
-      "title": "Google’s new Gemini model is better at understanding complicated questions",
-      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-12T21:55:32.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "fc0f425d4885ad33be2ec480d529b1ec2bbfb9ff",
-      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
-      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-12T21:27:10.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "05a61ad7e4a9114b87963d5e95d24991e6f29b29",
       "title": "Actions for ARM32 Linux & Windows retirement",
       "summary": "GitHub Actions hosted runners will be ending support for ARM32 job execution on Windows and Linux by 8th Dec 2026. This follows our end of support for node20 where Node… The post Actions for ARM32 Linux & Windows retirement appeared first…",
@@ -490,17 +645,6 @@
       "publishedAt": "2026-11-12T20:59:36.000Z",
       "category": "github",
       "githubTopic": "platform",
-      "tags": []
-    },
-    {
-      "id": "92467d3f16d5f88c70c875dd0633b82475ee2329",
-      "title": "Jensen Huang was having a third affair, Reuters reports",
-      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-12T20:26:47.000Z",
-      "category": "ai",
       "tags": []
     },
     {
@@ -537,28 +681,6 @@
       "tags": []
     },
     {
-      "id": "3b869b1138e3a082f2bae3b90d2b5f7e18392b48",
-      "title": "No, AI agents did not discover a previously unknown Maya site",
-      "summary": "“I woke up and checked the agents' reports. 'DAMN!' They had found lots of villages and other regular shapes that looked like structures or houses,“ Pietro Miotti wrote on his blog. | Image: Pietro Miotti Armed with a team of AI agents,…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-12T19:42:40.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "875637b2c34d132664410b5e172ceb014b4e9365",
-      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-12T19:27:45.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "a67e1509e9c05d5dd5b1db579ab0fc3e16e63602",
       "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
       "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
@@ -566,17 +688,6 @@
       "source": "Ars Technica — AI",
       "sourceUrl": "https://arstechnica.com/ai/",
       "publishedAt": "2026-11-12T19:23:03.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "d3c21aad125298df1a69f9d3e9e2bfcd385aef1a",
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-12T19:11:00.000Z",
       "category": "ai",
       "tags": []
     },
@@ -615,17 +726,6 @@
       "tags": []
     },
     {
-      "id": "3903c89c61e50edca89898ac031bbb7582bd0812",
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-12T18:39:23.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "ad614f81e42f72e5750a21232c53359027d49437",
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
       "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
@@ -633,17 +733,6 @@
       "source": "Google AI Blog",
       "sourceUrl": "https://blog.google/technology/ai/",
       "publishedAt": "2026-11-12T18:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "5c8a7e2ce9e472f49fcaac4d4a40cb5e63ff5e38",
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-12T17:36:40.000Z",
       "category": "ai",
       "tags": []
     },
@@ -961,18 +1050,6 @@
       ]
     },
     {
-      "id": "0fe8b882dbb9b0ec07743c37a21113cd81a29f69",
-      "title": "Gemini 4 Carbon in GitHub Copilot",
-      "summary": "Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation… The post Gemini 4 Carbon in GitHub Copilot…",
-      "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-11-10T19:26:51.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": []
-    },
-    {
       "id": "b73105fe4ec5f060842df3b48e42c281955ea8dc",
       "title": "Gemini Intelligence: New features, on more devices",
       "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
@@ -1235,17 +1312,6 @@
       "tags": []
     },
     {
-      "id": "f37b680abcf7adcb8bec0b0adda548a12d3efee4",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "url": "https://openai.com/index/control-room",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news",
-      "publishedAt": "2026-11-09T13:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "42e7d6fc3426371ca4039dc225ad431f35b32bcc",
       "title": "Innovating with AI in the special chemicals industry",
       "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of…",
@@ -1264,28 +1330,6 @@
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog",
       "publishedAt": "2026-11-09T12:34:29.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "23b94c697622500fcf7d46f91907d47f40d35583",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news",
-      "publishedAt": "2026-11-09T08:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "932fe34bad728f30ad4ef609d13a6e2a6ef01f4d",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "url": "https://openai.com/index/kuken",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news",
-      "publishedAt": "2026-11-09T08:00:00.000Z",
       "category": "ai",
       "tags": []
     },
@@ -1375,17 +1419,6 @@
       "tags": []
     },
     {
-      "id": "bc8f9eac19663ff628fb02870bf1eb637ef573a5",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/news",
-      "publishedAt": "2026-11-06T08:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "0f8eb8c8adc653c2736e16025f66919272611de5",
       "title": "GitHub Copilot CLI v1.0.106",
       "summary": "2026-11-05 - Rex terminals render inline images using Kitty direct placements. - Add /code command to open the current session in VS Code - Add a Fusion tier setting to `copilot config`. - Make /settings open the unified dashboard for all…",
@@ -1416,17 +1449,6 @@
       "source": "Ars Technica — AI",
       "sourceUrl": "https://arstechnica.com/ai/",
       "publishedAt": "2026-11-05T21:40:36.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "b0ae5318dec9e8842b970c95e558e2f044260fdc",
-      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-      "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder",
-      "source": "Ars Technica — AI",
-      "sourceUrl": "https://arstechnica.com/ai/",
-      "publishedAt": "2026-11-05T21:39:40.000Z",
       "category": "ai",
       "tags": []
     },
@@ -1626,17 +1648,6 @@
       "source": "Google AI Blog",
       "sourceUrl": "https://blog.google/technology/ai/",
       "publishedAt": "2026-11-02T17:45:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "1126d665d2600e0951d42e9fbb7778597b01fd29",
-      "title": "Raising the quality of insights in agentic analytics",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking…",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics",
-      "source": "MIT Technology Review — AI",
-      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "publishedAt": "2026-11-02T17:00:00.000Z",
       "category": "ai",
       "tags": []
     },
