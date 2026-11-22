@@ -1,8 +1,113 @@
 {
-  "generatedAt": "2026-11-21T14:15:29.690Z",
+  "generatedAt": "2026-11-22T14:05:47.358Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "0f50037c76f25ff3a0d3005e40126a52fb4e96a8",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in…",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-22T13:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "60b4ee1767a9dce5258c345a1636748b86e31e8e",
+      "title": "GitHub Copilot CLI v1.0.115-7",
+      "summary": "**Fixed** - Clients using `--ui-server` can attach to the resumed CLI session as soon as the server starts listening. - Ensure that stopping an npm-installed Copilot CLI during startup does not leave it running in the background",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.115-7",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-11-22T11:40:49.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "f3487ac9886e909daaf4f66544d23b111033acd1",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-21T21:37:10.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "a1abc1ba2744afcb4fa5b14bba743b9f514e6cfb",
+      "title": "A tale of two Nvidias",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-21T21:07:42.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "042a0d66f89cef4b9e1fd4dca9aac058e8bafb49",
+      "title": "GitHub Copilot CLI v1.0.115-6",
+      "summary": "**Fixed** - Organization-required plugins can install on the next attempt when a temporary policy change interrupts setup, without waiting for the usual retry delay. - /delegate now explains that a login is needed instead of doing nothing…",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.115-6",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-11-21T20:57:31.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "234da3fc18675af9c4e153bb1601504f1c0a3e30",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start…",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-21T20:03:37.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "6ccebafcdf30c2702885250fb925516a6c098d35",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "dffab27fe8d5022c0bdbf4d7acf0cd3e05cba73e",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-21T16:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "a9f34b76fcc6d54c37e3d5729d2af01cab039f66",
+      "title": "Can Anthropic afford to put safety first?",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The…",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-21T15:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
     {
       "id": "e74727ec8af70116200c49dbddc3e3f9d2627ac5",
       "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
@@ -395,17 +500,6 @@
       "tags": []
     },
     {
-      "id": "b0341a0ae375085ebde87d492dadb72d98d084be",
-      "title": "Meta’s Muse Charm might cost $300",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company…",
-      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-19T20:22:17.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "e63fea43dcbf5070df8e42bed4b4566fc2bbf0bc",
       "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
       "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
@@ -424,17 +518,6 @@
       "source": "TechCrunch — Artificial Intelligence",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "publishedAt": "2026-11-19T20:18:49.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "6900f6014b2aa0cd6970bee3e5314c440fb0c321",
-      "title": "Google is putting AI chats right on the homepage",
-      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein,…",
-      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-19T20:05:06.000Z",
       "category": "ai",
       "tags": []
     },
@@ -471,17 +554,6 @@
       "publishedAt": "2026-11-19T18:48:46.000Z",
       "category": "github",
       "githubTopic": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "a628e3d51eab8a75a863fde19a231f5300f06379",
-      "title": "Gemini on Mac can now use your computer",
-      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like…",
-      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-19T18:21:13.000Z",
-      "category": "ai",
       "tags": []
     },
     {
@@ -600,28 +672,6 @@
       "tags": []
     },
     {
-      "id": "824e87dcfa8e13e04c8f92651a8247181d4b874a",
-      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-19T14:54:39.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "97ccf1ecd5ed554604ee205888c262c42e83f1f6",
-      "title": "Superhuman pushes its Go assistant everywhere",
-      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
-      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-19T14:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "8361eea21e9dd8658cedb396477daf9df407f552",
       "title": "GitHub Copilot CLI v1.0.115-0",
       "summary": "Fixes and changes",
@@ -655,17 +705,6 @@
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-11-19T08:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "c8a4b2ac137e196f8f50798d3326b24ed5e8b293",
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not…",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-19T00:42:56.000Z",
       "category": "ai",
       "tags": []
     },
@@ -722,17 +761,6 @@
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/news",
       "publishedAt": "2026-11-19T00:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "2cf389d7c377c9cfd077d1b5f7abb90b23e1b90b",
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-18T23:45:00.000Z",
       "category": "ai",
       "tags": []
     },
@@ -1593,34 +1621,6 @@
       "publishedAt": "2026-11-11T00:00:00.000Z",
       "category": "ai",
       "tags": []
-    },
-    {
-      "id": "83110bda5c7a022f2c598016c4e2bcc47b7a83ce",
-      "title": "GitHub Copilot CLI v1.0.110-1",
-      "summary": "**Fixed** - A session reopened with `copilot --resume` is marked in use as soon as it opens, so `copilot -p --resume` and a second window no longer write into it while it sits idle - Custom status lines preserve the first row's indentation…",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.110-1",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-11-10T22:59:08.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
-    },
-    {
-      "id": "59518cc65b787219210a06492b26b30cc85d5ca1",
-      "title": "GitHub Copilot CLI v1.0.110-0",
-      "summary": "**Added** - Experimental: answer git, ssh, and sudo password prompts from agent commands in a masked dialog (enable with /experimental on) **Improved** - Selecting an unavailable account in /user switch shows recovery guidance and a retry…",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.110-0",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-11-10T20:07:40.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
     },
     {
       "id": "b73105fe4ec5f060842df3b48e42c281955ea8dc",
