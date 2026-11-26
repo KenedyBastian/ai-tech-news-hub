@@ -1,8 +1,240 @@
 {
-  "generatedAt": "2026-11-25T16:50:09.406Z",
+  "generatedAt": "2026-11-26T16:26:31.669Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "ec74e9ba21876128aa64202cefef5d4827efca10",
+      "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-26T16:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "02a088434703556c0ebb46d05bae744860572362",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "summary": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog",
+      "publishedAt": "2026-11-26T11:37:17.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "c0f2de19f05669ce83a2b699586c6f80f7cb4c34",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of…",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-26T09:54:40.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "d3aa48daa62df5852a1b067eacae1265bc9a1872",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "summary": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog",
+      "publishedAt": "2026-11-26T05:05:36.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "6543e16b8f9888a5f26ba0b0ac7a30710813abe4",
+      "title": "GitHub Copilot CLI v1.0.117-2",
+      "summary": "**Fixed** - `copilot help extensions` no longer says your own and plugin extensions load with -p; an extension starts there only if its launch is already approved, by --allow-all-tools or --yolo or by an approval saved earlier - Built-in…",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.117-2",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-11-26T02:03:04.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "c01600d4160315a40e5564c4bfecf9eb9d193b50",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "summary": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "82487254cfc41737dba048a679f92e51b6aad8f3",
+      "title": "GitHub Copilot CLI v1.0.117-1",
+      "summary": "**Improved** - The /model picker shows service notices and marks retiring models so you can see warnings before choosing a model. **Fixed** - Show an error instead of silently switching providers when a repository pins a model to an…",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.117-1",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-11-25T23:48:58.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "a6e169e93abfb2454f17d130b45020e54a4a849a",
+      "title": "GitHub CLI v2.106.0",
+      "summary": "## Security Seven security vulnerabilities have been identified and fixed in this release. Users are advised to update `gh` to version `v2.106.0` as soon as possible. 1. The terminal escape-sequence check used by `gh repo read-file`, `gh…",
+      "url": "https://github.com/cli/cli/releases/tag/v2.106.0",
+      "source": "GitHub CLI Releases",
+      "sourceUrl": "https://github.com/cli/cli/releases",
+      "publishedAt": "2026-11-25T22:48:46.000Z",
+      "category": "github",
+      "githubTopic": "platform",
+      "tags": []
+    },
+    {
+      "id": "f27e0de9d097fe0520ef81c90f543f4346b36d0d",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-25T22:44:32.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "c0d40e212e2d59484e972522a09228f837cc2503",
+      "title": "Copilot code review billing will default to the organization",
+      "summary": "If you haven’t chosen how to bill Copilot code review for members with a Copilot license, those reviews will be billed to your organization starting December 30, 2026. To keep… The post Copilot code review billing will default to the…",
+      "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+      "source": "GitHub Changelog",
+      "sourceUrl": "https://github.blog/changelog/",
+      "publishedAt": "2026-11-25T22:18:03.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": []
+    },
+    {
+      "id": "ceecf9e348f1c1f1b26163654301827456aeff80",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been…",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-25T21:51:26.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "bed866c7e2f3317a7d52ab9826984c550a653bb7",
+      "title": "GitHub Copilot CLI v1.0.117-0",
+      "summary": "**Added** - Add explicit tool exposure so custom agents can opt in to tools **Fixed** - Load connected Copilot Connectors when resuming a CLI session while GitHub sign-in is still finishing. - Background agents can continue their…",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.117-0",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-11-25T21:21:51.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "4c44ce30146b120b4357f2d26aa7b2c1ed014565",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-25T20:03:27.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "e7d7a2ca3b37ef50f891af2133380f18fdf86389",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-25T19:54:57.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "372ac891332249b4490097ec420ccfd563f45825",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-25T19:44:24.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "37b5c9ba932667510c47b67a8eaf7e479db38e02",
+      "title": "Where scientists draw the line on AI agents",
+      "summary": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog",
+      "publishedAt": "2026-11-25T18:52:55.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "c2211ba4f6cde58c007456579c900046d9aa6aa8",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-25T18:11:46.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "6359c2ce0900437371d3630aa30704e087d30f5c",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting…",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-25T17:44:51.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "92419877312e3e1759775e757ee24ed23ae5f0ec",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-25T17:35:58.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "62b7bb105ce17ed5f06317bd160fb81c112da72a",
+      "title": "GitHub Copilot CLI v1.0.116",
+      "summary": "2026-11-25 - Add a build-time JSON Schema for extension manifests - Click \"Jump to latest\" in the fullscreen timeline to return to the newest output and resume following it. - Choose the context size for supported models in ACP-compatible…",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.116",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-11-25T17:03:13.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": []
+    },
     {
       "id": "7b7cb44d5be86a31aa98792b9abbb790b629a24a",
       "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
@@ -49,6 +281,18 @@
       "tags": []
     },
     {
+      "id": "b45d58e25dc6779d16bc893c7a4789309c089bfc",
+      "title": "How to choose the next safe step in application modernization",
+      "summary": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The GitHub Blog.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+      "source": "The GitHub Blog",
+      "sourceUrl": "https://github.blog/",
+      "publishedAt": "2026-11-25T15:00:00.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": []
+    },
+    {
       "id": "e1845ee0b548d25f61758bca2b25bc9ff235b003",
       "title": "Amazon is reportedly in talks to end Muse AI shopping block",
       "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent…",
@@ -84,7 +328,7 @@
     {
       "id": "9edbb62c9bcf9b95d25b037db0439497cdebc85b",
       "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-      "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
       "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed",
       "source": "TechCrunch — Artificial Intelligence",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
@@ -189,6 +433,17 @@
       "source": "TechCrunch — Artificial Intelligence",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
       "publishedAt": "2026-11-25T00:12:02.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "d8d6777ecf09078330b26ef4bab0c3d0c914ff72",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "summary": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
       "category": "ai",
       "tags": []
     },
@@ -398,17 +653,6 @@
       "tags": []
     },
     {
-      "id": "16565a3f5dc091b0864725078fd4c4547458c83f",
-      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "summary": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-11-24T16:34:13.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "c82ab5c574080217a00a5b3e7d4e2685ce89b33a",
       "title": "Jensen Huang deepfakes are the hot new AI slop",
       "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from…",
@@ -416,39 +660,6 @@
       "source": "The Verge — AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
       "publishedAt": "2026-11-24T16:30:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "70f3d3a6344923f93d55972f2567e6a0c252908b",
-      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-      "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
-      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-24T16:10:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "dc69597abec1a000fbd1073bef9d48a796cd0041",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-24T16:09:23.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "bbaf6332f2bfb4e91bc3848c292d5854609ff751",
-      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
-      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-24T16:02:37.000Z",
       "category": "ai",
       "tags": []
     },
@@ -473,17 +684,6 @@
       "publishedAt": "2026-11-24T16:00:00.000Z",
       "category": "github",
       "githubTopic": "developer-updates",
-      "tags": []
-    },
-    {
-      "id": "5845ed4863b4926585035e5be53fe505a19610e2",
-      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-24T15:51:07.000Z",
-      "category": "ai",
       "tags": []
     },
     {
@@ -588,61 +788,6 @@
       "tags": []
     },
     {
-      "id": "049542555c2cb3db303fe8507077ea2ba7dccec3",
-      "title": "Trump engineered a risky comeback for Jensen Huang",
-      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-23T22:25:12.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "15c28179b2dc3ec9cbc8a50fc5e36f988b136eb9",
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-23T22:10:32.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "43b498f2b7e3dbe0c7ef9952b9cdc0dc90db88c5",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-23T22:05:50.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "388f4aa5f277fc6692e37312bbc4ac3c41015348",
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-23T22:02:05.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "b7175444dd039d16d3ad0d1caa258d67a4474e9b",
-      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-23T21:47:41.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "972640f78a70025dc6614cab73bf2c91ebdf77ad",
       "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
       "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
@@ -650,17 +795,6 @@
       "source": "Ars Technica — AI",
       "sourceUrl": "https://arstechnica.com/ai/",
       "publishedAt": "2026-11-23T21:30:44.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "7bdc82557174d88caf2d937bbb5a1e26751f0c0c",
-      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
-      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-23T21:25:42.000Z",
       "category": "ai",
       "tags": []
     },
@@ -721,17 +855,6 @@
       "source": "MIT Technology Review — AI",
       "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "publishedAt": "2026-11-23T17:36:08.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "ca38829e731287133c5ce858c81137975894da48",
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "summary": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "url": "https://huggingface.co/blog/allenai/robotrack",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-11-23T17:20:37.000Z",
       "category": "ai",
       "tags": []
     },
@@ -1021,18 +1144,6 @@
       "publishedAt": "2026-11-20T02:06:01.000Z",
       "category": "github",
       "githubTopic": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "9855c1875dd4ad361912fc7b73a4ad35137a0551",
-      "title": "Improvements on the pull request overview in public preview",
-      "summary": "Your feedback has helped improve the new pull request Overview page since its November 5, 2026 public preview. Here’s what’s new! Clearer merge status and next steps Failed optional checks… The post Improvements on the pull request…",
-      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "source": "GitHub Changelog",
-      "sourceUrl": "https://github.blog/changelog/",
-      "publishedAt": "2026-11-20T00:02:21.000Z",
-      "category": "github",
-      "githubTopic": "developer-updates",
       "tags": []
     },
     {
@@ -1330,18 +1441,6 @@
       "tags": []
     },
     {
-      "id": "81dc3a42c3d2979bfed24a024ad172f5b6521018",
-      "title": "GitHub Copilot CLI v1.0.114",
-      "summary": "2026-11-18 Fixes and changes",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.114",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-11-18T05:59:26.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": []
-    },
-    {
       "id": "bccee91cf8115d861d69d35c1e70757a998da12a",
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
       "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
@@ -1385,20 +1484,6 @@
       "publishedAt": "2026-11-18T00:00:00.000Z",
       "category": "ai",
       "tags": []
-    },
-    {
-      "id": "a3234de6ae7a693bcdd4cdf06c79370dff587870",
-      "title": "GitHub Copilot CLI v1.0.114-0",
-      "summary": "Fixes and changes",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.114-0",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-11-17T22:57:49.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
     },
     {
       "id": "407420f377abe1ed4712534ab5d6a9dfe72ccab9",
@@ -1469,18 +1554,6 @@
       "tags": []
     },
     {
-      "id": "151aef84731256707ce1d11629951d4744063bb1",
-      "title": "GitHub Copilot CLI v1.0.113",
-      "summary": "2026-11-17 - Administrators can disable built-in Browser Use with the managed setting features.browserUse, including in running sessions.",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.113",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-11-17T16:35:43.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": []
-    },
-    {
       "id": "b5b1e8f149e4793676e46a7c433b7acb9a6f9754",
       "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
       "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
@@ -1501,20 +1574,6 @@
       "publishedAt": "2026-11-17T14:39:46.000Z",
       "category": "ai",
       "tags": []
-    },
-    {
-      "id": "ac0b1459b4e0e2020a951474f31fa882733cf320",
-      "title": "GitHub Copilot CLI v1.0.113-1",
-      "summary": "**Added** - Administrators can disable built-in Browser Use with the managed setting features.browserUse, including in running sessions.",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.113-1",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-11-17T03:48:10.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
     },
     {
       "id": "21a6fc2b55ffdb4f965c89cd8e5dc7ba72592f58",
@@ -1568,17 +1627,6 @@
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog",
       "publishedAt": "2026-11-16T00:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "40e78db6601d46e62d9253d05213567fc448d804",
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "summary": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-11-13T14:05:22.000Z",
       "category": "ai",
       "tags": []
     },
@@ -1785,17 +1833,6 @@
       "tags": []
     },
     {
-      "id": "7b1451fc786c34f9eeb4411c953942dafa553acd",
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "summary": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-11-09T12:34:29.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "5cecc12e376b047e5662e0af1890278891b48418",
       "title": "Beyond code generation: A developer’s guide to agentic engineering",
       "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A…",
@@ -1805,29 +1842,6 @@
       "publishedAt": "2026-11-06T22:15:59.000Z",
       "category": "github",
       "githubTopic": "copilot",
-      "tags": []
-    },
-    {
-      "id": "82196d4ece0a644eb652d153eb38399732392fcf",
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "summary": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-11-06T00:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "69af5f8a122011ad538ccd4f462b04fe25ea9963",
-      "title": "Inside GitHub’s new Git storage architecture",
-      "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog.",
-      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture",
-      "source": "The GitHub Blog",
-      "sourceUrl": "https://github.blog/",
-      "publishedAt": "2026-11-05T20:23:21.000Z",
-      "category": "github",
-      "githubTopic": "developer-updates",
       "tags": []
     },
     {
@@ -1999,17 +2013,6 @@
       "source": "Google AI Blog",
       "sourceUrl": "https://blog.google/technology/ai/",
       "publishedAt": "2026-10-13T16:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "3c05fe08bc651853a1dec68025f6b21b98915001",
-      "title": "Introducing Microsoft’s latest custom chip: Maia 300",
-      "summary": "The post Introducing Microsoft’s latest custom chip: Maia 300 appeared first on Source.",
-      "url": "https://news.microsoft.com/maia-2026",
-      "source": "Microsoft Source — AI",
-      "sourceUrl": "https://news.microsoft.com/source/topics/ai/",
-      "publishedAt": "2026-10-12T13:14:40.000Z",
       "category": "ai",
       "tags": []
     }
