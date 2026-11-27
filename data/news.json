@@ -1,11 +1,98 @@
 {
-  "generatedAt": "2026-11-26T16:26:31.669Z",
+  "generatedAt": "2026-11-27T16:11:49.100Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
     {
+      "id": "24644713102c0e399715c4e03fe98a17c1600954",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "summary": "Widgets, your way. | Photo: Allison Johnson / The Verge Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the…",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "source": "The Verge — AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
+      "publishedAt": "2026-11-27T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "c8ba592271d9bb06561c27e696be88bab730e5ac",
+      "title": "GitHub Copilot CLI v1.0.117",
+      "summary": "2026-11-27 - Add sandbox.userPolicy.network.extraCaCertificates, in user or managed settings, to trust custom CA certificates for sandboxed commands through TLS-intercepting proxies - Add explicit tool exposure so custom agents can opt in…",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.117",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-11-27T13:04:12.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": []
+    },
+    {
+      "id": "28b7867437f8122d9a32a2006c3e6c744ba5e589",
+      "title": "GitHub Copilot CLI v1.0.117-5",
+      "summary": "**Added** - Add sandbox.userPolicy.network.extraCaCertificates, in user or managed settings, to trust custom CA certificates for sandboxed commands through TLS-intercepting proxies",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.117-5",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-11-27T01:02:40.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "2d7f8b4f8454af3138b975bc7f8d7a019ddb5d13",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "summary": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog",
+      "publishedAt": "2026-11-27T00:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "faa6e80c0936545960a7a38e131c7a8eb512b34d",
+      "title": "GitHub Copilot CLI v1.0.117-4",
+      "summary": "**Fixed** - Fix Page Down stalling at a pinned prompt in a 10-row terminal with tabs enabled.",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.117-4",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-11-26T22:51:57.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "cbf1965bada36209d9acdc4eec69ea88d44df542",
+      "title": "GitHub Copilot CLI v1.0.117-3",
+      "summary": "**Improved** - Assisted Permissions can avoid unnecessary confirmation prompts when Copilot stops a process it started in the same session by process ID. **Fixed** - Approving an MCP server's tools for the session or for a location no…",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.117-3",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-11-26T20:17:35.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "c881f1e7111092b00f4c9abf2185c653321fe34c",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-26T20:03:54.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
       "id": "ec74e9ba21876128aa64202cefef5d4827efca10",
-      "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
       "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
       "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
       "source": "TechCrunch — Artificial Intelligence",
@@ -616,17 +703,6 @@
       "tags": []
     },
     {
-      "id": "85ad47dc9b77c65c7872885b3b523515705faaaf",
-      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
-      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-24T16:46:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "75fc15d4fc3b4fcbd07729179cd3cb08d26b4c86",
       "title": "GitHub Copilot CLI v1.0.116-0",
       "summary": "**Improved** - Skip individual slow-connection and sign-in warnings for organization-managed MCP servers (except Connectors) and flag their sign-in needs in the startup summary. - Summarize MCP server status at startup when attention is…",
@@ -650,17 +726,6 @@
       "publishedAt": "2026-11-24T16:40:59.000Z",
       "category": "github",
       "githubTopic": "developer-updates",
-      "tags": []
-    },
-    {
-      "id": "c82ab5c574080217a00a5b3e7d4e2685ce89b33a",
-      "title": "Jensen Huang deepfakes are the hot new AI slop",
-      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from…",
-      "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-      "source": "The Verge — AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence",
-      "publishedAt": "2026-11-24T16:30:00.000Z",
-      "category": "ai",
       "tags": []
     },
     {
@@ -1050,20 +1115,6 @@
       "tags": []
     },
     {
-      "id": "86e699974e8d04d6f5c0e8cde4f60b205cf29ef8",
-      "title": "GitHub Copilot CLI v1.0.115-3",
-      "summary": "**Fixed** - Keep the @ mention picker visible until an empty search finishes, so Ctrl+Y and Tab resume their normal actions when it closes",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.115-3",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-11-20T21:36:53.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
-    },
-    {
       "id": "6e086317ffb3ab4eba8dbeb444d7f5f5405eb273",
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
       "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
@@ -1096,20 +1147,6 @@
       "publishedAt": "2026-11-20T18:15:15.000Z",
       "category": "ai",
       "tags": []
-    },
-    {
-      "id": "ea6bc9c53f9e642f75e25709159270cf492bfb8a",
-      "title": "GitHub Copilot CLI v1.0.115-2",
-      "summary": "**Added** - Enable Windows sandbox package queries by default; set sandbox.userPolicy.capabilities to [] to opt out. - Allow specific macOS Mach service lookups in sandboxed commands with sandbox.userPolicy.seatbelt.extraMachLookups,…",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.115-2",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-11-20T14:33:56.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
     },
     {
       "id": "b9417c5606ab201088050409d5a9c9d4aae6e012",
@@ -1213,20 +1250,6 @@
       "tags": []
     },
     {
-      "id": "abc08612a11a9da8d78e10a5cadcc57adf77201c",
-      "title": "GitHub Copilot CLI v1.0.115-1",
-      "summary": "**Fixed** - MCP sign-in can continue when a server grants the required scopes but omits an automatically requested refresh-token scope. - Make direct workflow execution wait for project extension workflows to register",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.115-1",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-11-19T17:08:22.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
-    },
-    {
       "id": "2adef6bfeca022c84be450445d3873ec185273b7",
       "title": "Walter Isaacson on curiosity and creativity in the AI age.",
       "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
@@ -1260,20 +1283,6 @@
       "category": "github",
       "githubTopic": "advanced-security",
       "tags": []
-    },
-    {
-      "id": "8361eea21e9dd8658cedb396477daf9df407f552",
-      "title": "GitHub Copilot CLI v1.0.115-0",
-      "summary": "Fixes and changes",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.115-0",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-11-19T12:54:34.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
     },
     {
       "id": "6687f7be62c34e4af8b14ad1fa0bb36ceef40b28",
@@ -1822,17 +1831,6 @@
       "tags": []
     },
     {
-      "id": "3229de0d919212c36c924a809a5e9d26c48f700b",
-      "title": "Decision Models in Hugging Face",
-      "summary": "Decision Models in Hugging Face",
-      "url": "https://huggingface.co/blog/decision",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog",
-      "publishedAt": "2026-11-10T00:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "5cecc12e376b047e5662e0af1890278891b48418",
       "title": "Beyond code generation: A developer’s guide to agentic engineering",
       "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A…",
@@ -2002,17 +2000,6 @@
       "source": "Microsoft Source — AI",
       "sourceUrl": "https://news.microsoft.com/source/topics/ai/",
       "publishedAt": "2026-10-15T15:22:58.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
-      "id": "66cb1e68848fee2d2e7273d89bc171d7c7a24862",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/technology/ai/",
-      "publishedAt": "2026-10-13T16:00:00.000Z",
       "category": "ai",
       "tags": []
     }
