@@ -1,8 +1,61 @@
 {
-  "generatedAt": "2026-11-27T16:11:49.100Z",
+  "generatedAt": "2026-11-28T15:04:48.858Z",
   "isDemoDataset": false,
   "sourceCount": 13,
   "items": [
+    {
+      "id": "3973f080fe72e2589fe0696afb38868187d128db",
+      "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+      "summary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+      "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security",
+      "source": "TechCrunch — Artificial Intelligence",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "publishedAt": "2026-11-28T14:00:00.000Z",
+      "category": "ai",
+      "tags": []
+    },
+    {
+      "id": "00506bec03140a544c7c621f6fd73a4df21a33be",
+      "title": "GitHub Copilot CLI v1.0.118-2",
+      "summary": "**Fixed** - Use Up and Down after a Ctrl+R search match to navigate prompt history without applying hidden suggestions.",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.118-2",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-11-28T00:57:00.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "ca5c14c1a4a3af558f3b97824a3390ca20dba8e1",
+      "title": "GitHub Copilot CLI v1.0.118-1",
+      "summary": "**Fixed** - Preserve changes to different MCP servers when `copilot mcp enable` or `copilot mcp disable` commands run at the same time.",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.118-1",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-11-27T23:01:45.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
+    {
+      "id": "8f8bcaba6586aacde157fb40481e0c75f9fc3511",
+      "title": "GitHub Copilot CLI v1.0.118-0",
+      "summary": "**Fixed** - Show paths to additional CA certificates trusted by the sandbox in `/sandbox policy`, including certificates from managed settings. - Show reasoning effort and context tier in the /tasks footer for subagents that start their…",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.118-0",
+      "source": "GitHub Copilot CLI Releases",
+      "sourceUrl": "https://github.com/github/copilot-cli/releases",
+      "publishedAt": "2026-11-27T20:08:25.000Z",
+      "category": "github",
+      "githubTopic": "copilot",
+      "tags": [
+        "prerelease"
+      ]
+    },
     {
       "id": "24644713102c0e399715c4e03fe98a17c1600954",
       "title": "Android’s DIY widgets are a bit of vibe-coding fun",
@@ -692,17 +745,6 @@
       "tags": []
     },
     {
-      "id": "03938f50d224833255b62a58fba1aadaa396a4bc",
-      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
-      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
-      "source": "TechCrunch — Artificial Intelligence",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-      "publishedAt": "2026-11-24T17:00:00.000Z",
-      "category": "ai",
-      "tags": []
-    },
-    {
       "id": "75fc15d4fc3b4fcbd07729179cd3cb08d26b4c86",
       "title": "GitHub Copilot CLI v1.0.116-0",
       "summary": "**Improved** - Skip individual slow-connection and sign-in warnings for organization-managed MCP servers (except Connectors) and flag their sign-in needs in the startup summary. - Summarize MCP server status at startup when attention is…",
@@ -1037,48 +1079,6 @@
       "publishedAt": "2026-11-22T00:00:00.000Z",
       "category": "ai",
       "tags": []
-    },
-    {
-      "id": "042a0d66f89cef4b9e1fd4dca9aac058e8bafb49",
-      "title": "GitHub Copilot CLI v1.0.115-6",
-      "summary": "**Fixed** - Organization-required plugins can install on the next attempt when a temporary policy change interrupts setup, without waiting for the usual retry delay. - /delegate now explains that a login is needed instead of doing nothing…",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.115-6",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-11-21T20:57:31.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
-    },
-    {
-      "id": "5ff7826c022ffef2d49ec3c09cb51c649a1fd8b9",
-      "title": "GitHub Copilot CLI v1.0.115-5",
-      "summary": "**Improved** - Long-running local sessions take up less disk space and resume faster. **Fixed** - When you queue a switch from a specific model to Copilot Fusion, the CLI acknowledges the requested routing profile instead of showing the…",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.115-5",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-11-21T06:15:21.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
-    },
-    {
-      "id": "5a96e4f65f65d07136c1150c6c09db28ff2c89be",
-      "title": "GitHub Copilot CLI v1.0.115-4",
-      "summary": "**Added** - Enable structured clarification questions in ACP editors that support forms **Fixed** - Prevent a plugin initialization race from blocking new sessions or making existing sessions fail to resume - On Windows, clean up child…",
-      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.115-4",
-      "source": "GitHub Copilot CLI Releases",
-      "sourceUrl": "https://github.com/github/copilot-cli/releases",
-      "publishedAt": "2026-11-21T01:53:21.000Z",
-      "category": "github",
-      "githubTopic": "copilot",
-      "tags": [
-        "prerelease"
-      ]
     },
     {
       "id": "4d6c192ff8628768b2cfdeeb1199ab6e97aa8538",
